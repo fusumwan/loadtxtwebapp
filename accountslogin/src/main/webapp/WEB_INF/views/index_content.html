@@ -1,0 +1,34 @@
+
+<!-- MathJax configuration: support inline ( \( \) , $ $ ) and display ( \[ \] , $$ $$ ) math -->
+<script>
+    window.MathJax = {
+        tex: {
+            inlineMath: [['\\(', '\\)'], ['$', '$']],
+            displayMath: [['\\[', '\\]'], ['$$', '$$']],
+            processEscapes: true
+        },
+        options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        }
+    };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<div class="contrary">
+	<div class="container">
+		<div class="txt-loader">
+			<h3>Load a text file (LaTeX formulas supported)</h3>
+			<p>Choose a <code>.txt</code> file and click <strong>Load File</strong>. The file is
+			uploaded to the server (stored under <code>/uploads/txt/</code>), then loaded back. The
+			content is split into paragraphs, and each paragraph is shown in its own block with
+			special characters handled safely. Any LaTeX formulas (e.g. <code>\[ ... \]</code>,
+			<code>$$ ... $$</code>, <code>\( ... \)</code>, or <code>$ ... $</code>) will be rendered.</p>
+			<div class="txt-loader-controls">
+				<input id="txt_file_input" type="file" accept=".txt,text/plain" />
+				<a id="load_txt_btn" class="normal_button" href="#">Load File</a>
+			</div>
+			<p id="txt_file_name" class="txt-file-name"></p>
+			<div id="txt_content" class="txt-content"></div>
+		</div>
+	</div>
+</div>

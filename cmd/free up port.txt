@@ -1,0 +1,13 @@
+====Check if port 8000 is in use netstat, findstr===
+
+
+netstat -ano | findstr :8000
+
+
+==================
+
+net stop winnat
+netsh int ipv4 delete excludedportrange protocol=tcp startport=8000 numberofports=1
+net start winnat
+
+

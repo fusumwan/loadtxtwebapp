@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: FastAPI",
+            "type": "python",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": [
+                "accountslogin.main:app",
+                "--reload",
+                 "--port", "8000",
+                 "--host", "0.0.0.0"
+            ],
+            "cwd": "${workspaceFolder}",
+            "jinja": true,
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "pythonPath": "${workspaceFolder}/.venv/Scripts/python.exe"  // For Windows
+            // "pythonPath": "${workspaceFolder}/.venv/bin/python"  // For macOS/Linux
+        }
+    ]
+}

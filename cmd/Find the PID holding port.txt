@@ -1,0 +1,29 @@
+Here are the classic DOS/CMD commands to find which app is using port 8000, from quick to detailed.
+
+1. Find the PID holding port 8000
+netstat -ano | findstr :8000
+The last column is the PID. Example output:
+
+TCP    0.0.0.0:8000    0.0.0.0:0    LISTENING    5828
+2. Map that PID to a process name
+tasklist /fi "PID eq 5828"
+(replace 5828 with the PID from step 1)
+
+3. If the PID is 4 / System (port reserved via http.sys)
+When the PID is 4 (the kernel System process), a real app registered the port through Windows' HTTP driver. Find the real owner with:
+
+netsh http show servicestate view=session | findstr /i "8000"
+To see the owning service/process around that URL, use PowerShell's context view:
+
+powershell -Command "netsh http show servicestate view=session | Select-String -Pattern '8000' -Context 6,3"
+4. Get the full service details for a PID (via PowerShell from CMD)
+powershell -Command "Get-CimInstance Win32_Service | Where-Object { $_.ProcessId -eq 5828 } | Format-List Name, DisplayName, State, StartMode, ProcessId, PathName"
+One-liner combo (CMD)
+Finds the PID and its image name in one go:
+
+for /f "tokens=5" %a in ('netstat -ano ^| findstr :8000 ^| findstr LISTENING') do @tasklist /fi "PID eq %a"
+In a .bat file, double the percent signs: %%a instead of %a.
+
+In your case these commands revealed: PID 4 (System) → http.sys reservation → CHUWI Universal Service (C:\Program Files (x86)\CHUWI Easy Care\ChuwiUniversalService\ChuwiUniversalService.exe).
+
+Want me to save these into your cmd\free up port.txt file?

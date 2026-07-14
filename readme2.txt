@@ -50,15 +50,16 @@ git push -u origin main
 
 =========================================
 below is container image url
-docker.io/timothyfudocker/learnwiseaiwebapp:v1.0
+docker.io/timothyfudocker/loadtxtwebapp:v1.0
 
-docker.io/timothyfudocker/learnwiseaiwebapp:latest
+docker.io/timothyfudocker/loadtxtwebapp:latest
 ============== create your google cloud run service===========
 Go to google cloud 
 https://console.cloud.google.com/
 
 then go to Artifact Registry
 Enable Artifact Registry API
+
 
 
 

@@ -17,7 +17,7 @@ uvicorn main:app --host 127.0.0.1 --port 8080 --reload --ssl-keyfile=key.pem --s
 
 uvicorn accountslogin.main:app --host 127.0.0.1 --port 8080 --reload --ssl-keyfile=key.pem --ssl-certfile=cert.pem
 
-uvicorn accountslogin.main:app --host 127.0.0.1 --port 8080 --reload --ssl-keyfile ./accountslogin/learnwiseaiwebapp_ssl_key.pem --ssl-certfile ./accountslogin/learnwiseaiwebapp_ssl_cert.pem
+uvicorn accountslogin.main:app --host 127.0.0.1 --port 8080 --reload --ssl-keyfile ./accountslogin/loadtxtwebapp_ssl_key.pem --ssl-certfile ./accountslogin/loadtxtwebapp_ssl_cert.pem
 
 python accountslogin.main:app --host 127.0.0.1 --port 8080 --reload 
 
@@ -88,18 +88,24 @@ Minimum number of instances
 1
 
 ===============================================================================================
+.\bats\keytool_installation.bat
+$env:Path += ";C:\Program Files\Java\jdk-25\bin"
+keytool -help
+
+
+===============================================================================================
 First, you need to have an SSL certificate and a private key. You can generate a self-signed certificate for testing using keytool / OpenSSL:
 
 
-keytool -genkeypair -alias learnwiseaiwebapp_ssl -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore learnwiseaiwebapp_ssl.p12 -validity 3650 -ext "san=dns:localhost,ip:127.0.0.1"
-
-keytool -genkeypair -alias learnwiseaiwebapp_ssl -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore learnwiseaiwebapp_ssl.p12 -validity 3650 -ext "san=dns:localhost,dns:learnwiseaiwebapp-82082989871.us-central1.run.app,ip:127.0.0.1"
+keytool -genkeypair -alias loadtxtwebapp_ssl -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore loadtxtwebapp_ssl.p12 -validity 3650 -ext "san=dns:localhost,ip:127.0.0.1"
+$env:Path += ";C:\Program Files\Java\jdk-25\bin"
+keytool -genkeypair -alias loadtxtwebapp_ssl -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore loadtxtwebapp_ssl.p12 -validity 3650 -ext "san=dns:localhost,dns:loadtxtwebapp-82082989871.europe-west1.run.app,ip:127.0.0.1"
 
 password:
 1234qwer
 
 First and last name:
-learnwiseaiwebapp
+loadtxtwebapp
 
 Organizational unit:
 Individual
@@ -108,18 +114,18 @@ Organization:
 Individual
 
 City:
-Adelaide
+Melbourne
 
 State:
-Australia
+Melbourne
 
 two-letter City code:
-SA
+AU
 
 correct?
 yes
 
-keytool -export -keystore learnwiseaiwebapp_ssl.p12 -alias learnwiseaiwebapp_ssl -file learnwiseaiwebapp_ssl.crt
+keytool -export -keystore loadtxtwebapp_ssl.p12 -alias loadtxtwebapp_ssl -file loadtxtwebapp_ssl.crt
 
 right click the certificate
 install the certificate
@@ -128,13 +134,13 @@ choose place all certification
 choose Trusted Root Certification Authorities
 
 
-openssl pkcs12 -in learnwiseaiwebapp_ssl.p12 -out learnwiseaiwebapp_ssl_cert.pem -nokeys
-openssl pkcs12 -in learnwiseaiwebapp_ssl.p12 -out learnwiseaiwebapp_ssl_key.pem -nocerts -nodes
+openssl pkcs12 -in loadtxtwebapp_ssl.p12 -out loadtxtwebapp_ssl_cert.pem -nokeys
+openssl pkcs12 -in loadtxtwebapp_ssl.p12 -out loadtxtwebapp_ssl_key.pem -nocerts -nodes
 
-copy learnwiseaiwebapp_ssl_cert.pem accountslogin/learnwiseaiwebapp_ssl_cert.pem
-copy learnwiseaiwebapp_ssl_key.pem accountslogin/learnwiseaiwebapp_ssl_key.pem
+copy loadtxtwebapp_ssl_cert.pem accountslogin/loadtxtwebapp_ssl_cert.pem
+copy loadtxtwebapp_ssl_key.pem accountslogin/loadtxtwebapp_ssl_key.pem
 
-uvicorn accountslogin.main:app --host 127.0.0.1 --port 8000 --reload --ssl-keyfile=learnwiseaiwebapp_ssl_key.pem --ssl-certfile=learnwiseaiwebapp_ssl_cert.pem
+uvicorn accountslogin.main:app --host 127.0.0.1 --port 8000 --reload --ssl-keyfile=loadtxtwebapp_ssl_key.pem --ssl-certfile=loadtxtwebapp_ssl_cert.pem
 
 update the main.py
 
@@ -143,6 +149,10 @@ if __name__ == "__main__":
 
 
 ====================================================================================================
+
+Import-Certificate -FilePath "C:\WebDevelopment\WorkspaceFastAPI\loadtxtWebapp\loadtxtWebapp\loadtxtwebapp_ssl_cert.pem" -CertStoreLocation Cert:\CurrentUser\Root
+
+=====================================================================================
 you can use Microsoft Edge to browse your FastAPI web application. If you have set up HTTPS correctly, Edge will be able to access your FastAPI application over HTTPS without any issues.
 
 ### To ensure smooth browsing in Edge:
@@ -300,7 +310,7 @@ docker.io/timothyfudocker/learnwiseaiwebapp:v1.2
 .venv/Scripts/activate
 =================================
 
-python -m uvicorn accountslogin.main:app --port 8080 --reload --ssl-keyfile=accountslogin/learnwiseaiwebapp_ssl_key.pem --ssl-certfile=accountslogin/learnwiseaiwebapp_ssl_cert.pem
+python -m uvicorn accountslogin.main:app --port 8080 --reload --ssl-keyfile=accountslogin/loadtxtwebapp_ssl_key.pem --ssl-certfile=accountslogin/loadtxtwebapp_ssl_cert.pem
 ==========================
 https://127.0.0.1:8080/
 

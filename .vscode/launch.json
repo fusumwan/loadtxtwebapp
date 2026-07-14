@@ -9,8 +9,10 @@
             "args": [
                 "accountslogin.main:app",
                 "--reload",
-                 "--port", "8000",
-                 "--host", "0.0.0.0"
+                "--port", "8080",
+                "--host", "0.0.0.0",
+                "--ssl-keyfile=${workspaceFolder}/accountslogin/loadtxtwebapp_ssl_key.pem",
+                "--ssl-certfile=${workspaceFolder}/accountslogin/loadtxtwebapp_ssl_cert.pem"
             ],
             "cwd": "${workspaceFolder}",
             "jinja": true,

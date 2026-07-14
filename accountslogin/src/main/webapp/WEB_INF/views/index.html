@@ -3,8 +3,8 @@
 <head>
     <title>Ordertable Website</title>
     {% include 'include.html' %}
-    <link href="{{ https_url_for('static', path='/css/index.css') }}" rel="stylesheet" type="text/css" media="all">
-    <script src="{{ https_url_for('static', path='/js/index.js') }}" language="javascript"></script>
+    <link href="{{ https_url_for(request,'static', path='/css/index.css') }}" rel="stylesheet" type="text/css" media="all">
+    <script src="{{ https_url_for(request,'static', path='/js/index.js') }}" language="javascript"></script>
 	<script type="application/x-javascript"> 
 	</script>
 </head>

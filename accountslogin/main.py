@@ -18,6 +18,8 @@ import uvicorn
 
 
 # http://localhost:8000/
+
+# https://localhost:8000/
 app_instance = Application.getInstance()
 app_instance.middleware()
 app_instance.configure()
@@ -146,4 +148,11 @@ async def getByAccountUsernamePassword(request: Request,db: AsyncSession = Depen
 
 '''
 # In case you need to set a CSRF token or handle sessions, consider integrating FastAPI's dependencies and middlewares for sessions
+
+
+# Only if running directly, load the port from the environment variable
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8080))
+    #uvicorn.run(app, host="0.0.0.0", port=port, ssl=ssl_context)
+    uvicorn.run(app, host="127.0.0.1", port=port, ssl_keyfile="loadtxtwebapp_ssl_key.pem",ssl_certfile="loadtxtwebapp_ssl_cert.pem")
 

@@ -1,0 +1,589 @@
+﻿2026-07-14T00:02:50.2281271Z Current runner version: '2.335.1'
+2026-07-14T00:02:50.2308120Z ##[group]Runner Image Provisioner
+2026-07-14T00:02:50.2309087Z Hosted Compute Agent
+2026-07-14T00:02:50.2309691Z Version: 20260624.560
+2026-07-14T00:02:50.2310365Z Commit: 925d229a51159bc391ae97e54a2dd1fe20af789d
+2026-07-14T00:02:50.2311160Z Build Date: 2026-06-24T18:26:47Z
+2026-07-14T00:02:50.2312283Z Worker ID: {8279fbf5-52b5-4a2f-a903-cfeb22bb979e}
+2026-07-14T00:02:50.2313123Z Azure Region: northcentralus
+2026-07-14T00:02:50.2313781Z ##[endgroup]
+2026-07-14T00:02:50.2315594Z ##[group]Operating System
+2026-07-14T00:02:50.2316279Z Ubuntu
+2026-07-14T00:02:50.2316811Z 24.04.4
+2026-07-14T00:02:50.2317380Z LTS
+2026-07-14T00:02:50.2317907Z ##[endgroup]
+2026-07-14T00:02:50.2318482Z ##[group]Runner Image
+2026-07-14T00:02:50.2319181Z Image: ubuntu-24.04
+2026-07-14T00:02:50.2319756Z Version: 20260705.232.1
+2026-07-14T00:02:50.2321099Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260705.232/images/ubuntu/Ubuntu2404-Readme.md
+2026-07-14T00:02:50.2323362Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260705.232
+2026-07-14T00:02:50.2324351Z ##[endgroup]
+2026-07-14T00:02:50.2325608Z ##[group]GITHUB_TOKEN Permissions
+2026-07-14T00:02:50.2327726Z Contents: read
+2026-07-14T00:02:50.2328495Z Metadata: read
+2026-07-14T00:02:50.2329097Z Packages: read
+2026-07-14T00:02:50.2329661Z ##[endgroup]
+2026-07-14T00:02:50.2332492Z Secret source: Actions
+2026-07-14T00:02:50.2333624Z Prepare workflow directory
+2026-07-14T00:02:50.2682609Z Prepare all required actions
+2026-07-14T00:02:50.2722071Z Getting action download info
+2026-07-14T00:02:50.4990256Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+2026-07-14T00:02:50.6599520Z Complete job name: build
+2026-07-14T00:02:50.7505246Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-07-14T00:02:50.7514624Z ##[group]Run actions/checkout@v4
+2026-07-14T00:02:50.7515384Z with:
+2026-07-14T00:02:50.7515853Z   repository: fusumwan/loadtxtwebapp
+2026-07-14T00:02:50.7519838Z   token: ***
+2026-07-14T00:02:50.7520282Z   ssh-strict: true
+2026-07-14T00:02:50.7520727Z   ssh-user: git
+2026-07-14T00:02:50.7521181Z   persist-credentials: true
+2026-07-14T00:02:50.7521903Z   clean: true
+2026-07-14T00:02:50.7522359Z   sparse-checkout-cone-mode: true
+2026-07-14T00:02:50.7522884Z   fetch-depth: 1
+2026-07-14T00:02:50.7523317Z   fetch-tags: false
+2026-07-14T00:02:50.7523767Z   show-progress: true
+2026-07-14T00:02:50.7524215Z   lfs: false
+2026-07-14T00:02:50.7524670Z   submodules: false
+2026-07-14T00:02:50.7525126Z   set-safe-directory: true
+2026-07-14T00:02:50.7525873Z ##[endgroup]
+2026-07-14T00:02:50.8525967Z Syncing repository: fusumwan/loadtxtwebapp
+2026-07-14T00:02:50.8527845Z ##[group]Getting Git version info
+2026-07-14T00:02:50.8528640Z Working directory is '/home/runner/work/loadtxtwebapp/loadtxtwebapp'
+2026-07-14T00:02:50.8529762Z [command]/usr/bin/git version
+2026-07-14T00:02:50.8574731Z git version 2.54.0
+2026-07-14T00:02:50.8596230Z ##[endgroup]
+2026-07-14T00:02:50.8610388Z Temporarily overriding HOME='/home/runner/work/_temp/163ed007-5940-48b1-9652-2d49e9f246b3' before making global git config changes
+2026-07-14T00:02:50.8612872Z Adding repository directory to the temporary git global config as a safe directory
+2026-07-14T00:02:50.8616075Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/loadtxtwebapp/loadtxtwebapp
+2026-07-14T00:02:50.8662978Z Deleting the contents of '/home/runner/work/loadtxtwebapp/loadtxtwebapp'
+2026-07-14T00:02:50.8667268Z ##[group]Initializing the repository
+2026-07-14T00:02:50.8671768Z [command]/usr/bin/git init /home/runner/work/loadtxtwebapp/loadtxtwebapp
+2026-07-14T00:02:50.8760897Z hint: Using 'master' as the name for the initial branch. This default branch name
+2026-07-14T00:02:50.8762826Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+2026-07-14T00:02:50.8763782Z hint: to use in all of your new repositories, which will suppress this warning,
+2026-07-14T00:02:50.8764518Z hint: call:
+2026-07-14T00:02:50.8765158Z hint:
+2026-07-14T00:02:50.8765674Z hint: 	git config --global init.defaultBranch <name>
+2026-07-14T00:02:50.8766291Z hint:
+2026-07-14T00:02:50.8766873Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+2026-07-14T00:02:50.8767850Z hint: 'development'. The just-created branch can be renamed via this command:
+2026-07-14T00:02:50.8768588Z hint:
+2026-07-14T00:02:50.8769006Z hint: 	git branch -m <name>
+2026-07-14T00:02:50.8769481Z hint:
+2026-07-14T00:02:50.8770117Z hint: Disable this message with "git config set advice.defaultBranchName false"
+2026-07-14T00:02:50.8776418Z Initialized empty Git repository in /home/runner/work/loadtxtwebapp/loadtxtwebapp/.git/
+2026-07-14T00:02:50.8787389Z [command]/usr/bin/git remote add origin https://github.com/fusumwan/loadtxtwebapp
+2026-07-14T00:02:50.8829433Z ##[endgroup]
+2026-07-14T00:02:50.8830726Z ##[group]Disabling automatic garbage collection
+2026-07-14T00:02:50.8832922Z [command]/usr/bin/git config --local gc.auto 0
+2026-07-14T00:02:50.8863004Z ##[endgroup]
+2026-07-14T00:02:50.8864198Z ##[group]Setting up auth
+2026-07-14T00:02:50.8869734Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-07-14T00:02:50.8901837Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-07-14T00:02:50.9234525Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-07-14T00:02:50.9263956Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-07-14T00:02:50.9482373Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-07-14T00:02:50.9514198Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-07-14T00:02:50.9735727Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2026-07-14T00:02:50.9771036Z ##[endgroup]
+2026-07-14T00:02:50.9772340Z ##[group]Fetching the repository
+2026-07-14T00:02:50.9780364Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +2f0bea1819352bd00ee8f6d5cab5abd55f81d815:refs/remotes/origin/main
+2026-07-14T00:02:51.5245963Z From https://github.com/fusumwan/loadtxtwebapp
+2026-07-14T00:02:51.5247264Z  * [new ref]         2f0bea1819352bd00ee8f6d5cab5abd55f81d815 -> origin/main
+2026-07-14T00:02:51.5279164Z ##[endgroup]
+2026-07-14T00:02:51.5280108Z ##[group]Determining the checkout info
+2026-07-14T00:02:51.5281868Z ##[endgroup]
+2026-07-14T00:02:51.5287375Z [command]/usr/bin/git sparse-checkout disable
+2026-07-14T00:02:51.5331198Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+2026-07-14T00:02:51.5358298Z ##[group]Checking out the ref
+2026-07-14T00:02:51.5362325Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+2026-07-14T00:02:51.5613179Z Switched to a new branch 'main'
+2026-07-14T00:02:51.5615620Z branch 'main' set up to track 'origin/main'.
+2026-07-14T00:02:51.5623510Z ##[endgroup]
+2026-07-14T00:02:51.5664104Z [command]/usr/bin/git log -1 --format=%H
+2026-07-14T00:02:51.5686948Z 2f0bea1819352bd00ee8f6d5cab5abd55f81d815
+2026-07-14T00:02:51.5919204Z ##[group]Run echo $DOCKER_PASSWORD | docker login -u $DOCKER_USERNAME --password-stdin
+2026-07-14T00:02:51.5920526Z [36;1mecho $DOCKER_PASSWORD | docker login -u $DOCKER_USERNAME --password-stdin[0m
+2026-07-14T00:02:51.6067869Z shell: /usr/bin/bash -e {0}
+2026-07-14T00:02:51.6068722Z env:
+2026-07-14T00:02:51.6069317Z   DOCKER_USERNAME: ***
+2026-07-14T00:02:51.6069881Z   DOCKER_PASSWORD: ***
+2026-07-14T00:02:51.6070402Z ##[endgroup]
+2026-07-14T00:02:51.8864591Z 
+2026-07-14T00:02:51.8865470Z Login Succeeded
+2026-07-14T00:02:51.8867075Z WARNING! Your credentials are stored unencrypted in '/home/runner/.docker/config.json'.
+2026-07-14T00:02:51.8880609Z Configure a credential helper to remove this warning. See
+2026-07-14T00:02:51.8884904Z https://docs.docker.com/go/credential-store/
+2026-07-14T00:02:51.8885840Z 
+2026-07-14T00:02:51.8939424Z ##[group]Run docker build -t ***/loadtxtwebapp:latest .
+2026-07-14T00:02:51.8940402Z [36;1mdocker build -t ***/loadtxtwebapp:latest .[0m
+2026-07-14T00:02:51.8974076Z shell: /usr/bin/bash -e {0}
+2026-07-14T00:02:51.8974676Z ##[endgroup]
+2026-07-14T00:02:52.4035578Z #0 building with "default" instance using docker driver
+2026-07-14T00:02:52.4036485Z 
+2026-07-14T00:02:52.4036908Z #1 [internal] load build definition from Dockerfile
+2026-07-14T00:02:52.4037982Z #1 transferring dockerfile: 1.97kB done
+2026-07-14T00:02:52.4038863Z #1 DONE 0.0s
+2026-07-14T00:02:52.4039241Z 
+2026-07-14T00:02:52.4039746Z #2 [auth] library/python:pull token for registry-1.docker.io
+2026-07-14T00:02:52.4040830Z #2 DONE 0.0s
+2026-07-14T00:02:52.4041219Z 
+2026-07-14T00:02:52.4042119Z #3 [internal] load metadata for docker.io/library/python:3.13.7
+2026-07-14T00:02:52.6508976Z #3 DONE 0.5s
+2026-07-14T00:02:52.7509416Z 
+2026-07-14T00:02:52.7510461Z #4 [internal] load .dockerignore
+2026-07-14T00:02:52.7512809Z #4 transferring context: 433B done
+2026-07-14T00:02:52.7514609Z #4 DONE 0.0s
+2026-07-14T00:02:52.7515489Z 
+2026-07-14T00:02:52.7518019Z #5 [1/8] FROM docker.io/library/python:3.13.7@sha256:fe841081ec55481496a4ab25e538833741295d57d2abdec8d38d74d65fb4715b
+2026-07-14T00:02:52.7531346Z #5 resolve docker.io/library/python:3.13.7@sha256:fe841081ec55481496a4ab25e538833741295d57d2abdec8d38d74d65fb4715b done
+2026-07-14T00:02:52.8758500Z #5 ...
+2026-07-14T00:02:52.8760150Z 
+2026-07-14T00:02:52.8760987Z #6 [internal] load build context
+2026-07-14T00:02:52.8763942Z #6 transferring context: 2.45MB 0.1s done
+2026-07-14T00:02:52.8765917Z #6 DONE 0.1s
+2026-07-14T00:02:52.8766932Z 
+2026-07-14T00:02:52.8769156Z #5 [1/8] FROM docker.io/library/python:3.13.7@sha256:fe841081ec55481496a4ab25e538833741295d57d2abdec8d38d74d65fb4715b
+2026-07-14T00:02:52.8773425Z #5 sha256:a7576494a75d685da62e7ea0b87802e621b547bebbd4f2397ebcc29d44df6191 6.28kB / 6.28kB done
+2026-07-14T00:02:52.8776726Z #5 sha256:fe841081ec55481496a4ab25e538833741295d57d2abdec8d38d74d65fb4715b 10.95kB / 10.95kB done
+2026-07-14T00:02:52.8779974Z #5 sha256:b82513fa4c54b049854ee3a8c50179ad784c79d1a0e409ea59599ee5533304a6 2.32kB / 2.32kB done
+2026-07-14T00:02:52.8783372Z #5 sha256:cae3b572364a7d48f8485d67baee38e4e44e299b8c8c4d020ff7fb5fdd97f88c 35.65MB / 49.28MB 0.2s
+2026-07-14T00:02:52.8786685Z #5 sha256:bd090f42c4b7844c5846f9b4c719994f496fac3befe1d30f0ff20794e742370a 18.87MB / 25.61MB 0.2s
+2026-07-14T00:02:52.8789928Z #5 sha256:f0c9d6d993ac93f222ba87ca01097d40f632be9b48f6b5e399f2c5da1b3133d1 22.02MB / 67.78MB 0.2s
+2026-07-14T00:02:53.0135809Z #5 sha256:cae3b572364a7d48f8485d67baee38e4e44e299b8c8c4d020ff7fb5fdd97f88c 49.28MB / 49.28MB 0.3s done
+2026-07-14T00:02:53.0143686Z #5 sha256:bd090f42c4b7844c5846f9b4c719994f496fac3befe1d30f0ff20794e742370a 25.61MB / 25.61MB 0.2s done
+2026-07-14T00:02:53.0152667Z #5 sha256:f0c9d6d993ac93f222ba87ca01097d40f632be9b48f6b5e399f2c5da1b3133d1 53.48MB / 67.78MB 0.3s
+2026-07-14T00:02:53.0162011Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 15.73MB / 235.93MB 0.3s
+2026-07-14T00:02:53.0169417Z #5 sha256:6cb9bef323777e57ed0d0862cb176737221e322c3a0c99ef8ad5b9fb9628f9a0 0B / 6.10MB 0.3s
+2026-07-14T00:02:53.0177486Z #5 extracting sha256:cae3b572364a7d48f8485d67baee38e4e44e299b8c8c4d020ff7fb5fdd97f88c
+2026-07-14T00:02:53.1330786Z #5 sha256:f0c9d6d993ac93f222ba87ca01097d40f632be9b48f6b5e399f2c5da1b3133d1 67.78MB / 67.78MB 0.4s done
+2026-07-14T00:02:53.1347969Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 61.87MB / 235.93MB 0.4s
+2026-07-14T00:02:53.1355914Z #5 sha256:6cb9bef323777e57ed0d0862cb176737221e322c3a0c99ef8ad5b9fb9628f9a0 3.15MB / 6.10MB 0.4s
+2026-07-14T00:02:53.1362783Z #5 sha256:660a7bf6f3a7ad73778384b3c442539d1092546df6c286311c756100ed001d8c 0B / 27.25MB 0.4s
+2026-07-14T00:02:53.2373360Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 98.57MB / 235.93MB 0.5s
+2026-07-14T00:02:53.2379895Z #5 sha256:6cb9bef323777e57ed0d0862cb176737221e322c3a0c99ef8ad5b9fb9628f9a0 6.10MB / 6.10MB 0.4s done
+2026-07-14T00:02:53.2387454Z #5 sha256:660a7bf6f3a7ad73778384b3c442539d1092546df6c286311c756100ed001d8c 17.83MB / 27.25MB 0.5s
+2026-07-14T00:02:53.2393200Z #5 sha256:b359827f32a4951ce32c15a14a93d3f6163e44816b8e30b7ddb7c36221be9166 249B / 249B 0.5s done
+2026-07-14T00:02:53.3485406Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 135.27MB / 235.93MB 0.6s
+2026-07-14T00:02:53.3500836Z #5 sha256:660a7bf6f3a7ad73778384b3c442539d1092546df6c286311c756100ed001d8c 27.25MB / 27.25MB 0.6s done
+2026-07-14T00:02:53.4543283Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 176.16MB / 235.93MB 0.7s
+2026-07-14T00:02:53.5588063Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 217.06MB / 235.93MB 0.8s
+2026-07-14T00:02:53.6643374Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 235.93MB / 235.93MB 0.9s
+2026-07-14T00:02:53.9380955Z #5 sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 235.93MB / 235.93MB 1.1s done
+2026-07-14T00:02:54.8519855Z #5 extracting sha256:cae3b572364a7d48f8485d67baee38e4e44e299b8c8c4d020ff7fb5fdd97f88c 1.8s done
+2026-07-14T00:02:54.8521142Z #5 extracting sha256:bd090f42c4b7844c5846f9b4c719994f496fac3befe1d30f0ff20794e742370a
+2026-07-14T00:02:55.6657742Z #5 extracting sha256:bd090f42c4b7844c5846f9b4c719994f496fac3befe1d30f0ff20794e742370a 0.7s done
+2026-07-14T00:02:55.8519179Z #5 extracting sha256:f0c9d6d993ac93f222ba87ca01097d40f632be9b48f6b5e399f2c5da1b3133d1
+2026-07-14T00:02:58.3049580Z #5 extracting sha256:f0c9d6d993ac93f222ba87ca01097d40f632be9b48f6b5e399f2c5da1b3133d1 2.3s done
+2026-07-14T00:02:58.4762829Z #5 extracting sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9
+2026-07-14T00:03:03.5716756Z #5 extracting sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 5.1s
+2026-07-14T00:03:04.8896811Z #5 extracting sha256:a2ade626d67af90eb146ef31070d6021beb378ab38f6477493190d674c44a1e9 6.3s done
+2026-07-14T00:03:06.2443115Z #5 extracting sha256:6cb9bef323777e57ed0d0862cb176737221e322c3a0c99ef8ad5b9fb9628f9a0
+2026-07-14T00:03:06.5597061Z #5 extracting sha256:6cb9bef323777e57ed0d0862cb176737221e322c3a0c99ef8ad5b9fb9628f9a0 0.3s done
+2026-07-14T00:03:06.5598588Z #5 extracting sha256:660a7bf6f3a7ad73778384b3c442539d1092546df6c286311c756100ed001d8c
+2026-07-14T00:03:07.2804232Z #5 extracting sha256:660a7bf6f3a7ad73778384b3c442539d1092546df6c286311c756100ed001d8c 0.7s done
+2026-07-14T00:03:07.2806212Z #5 extracting sha256:b359827f32a4951ce32c15a14a93d3f6163e44816b8e30b7ddb7c36221be9166
+2026-07-14T00:03:07.4712611Z #5 extracting sha256:b359827f32a4951ce32c15a14a93d3f6163e44816b8e30b7ddb7c36221be9166 done
+2026-07-14T00:03:07.4713352Z #5 DONE 14.6s
+2026-07-14T00:03:07.4713547Z 
+2026-07-14T00:03:07.4713687Z #7 [2/8] WORKDIR /usr/src/app
+2026-07-14T00:03:07.4714040Z #7 DONE 0.0s
+2026-07-14T00:03:07.4714217Z 
+2026-07-14T00:03:07.4715113Z #8 [3/8] RUN apt-get update && apt-get install -y     gcc     g++     python3-dev     build-essential     libssl-dev     libffi-dev     libopenblas-dev     liblapack-dev     && apt-get clean
+2026-07-14T00:03:07.4927908Z #8 0.172 Get:1 http://deb.debian.org/debian trixie InRelease [140 kB]
+2026-07-14T00:03:07.7233161Z #8 0.184 Get:2 http://deb.debian.org/debian trixie-updates InRelease [47.3 kB]
+2026-07-14T00:03:07.7234360Z #8 0.185 Get:3 http://deb.debian.org/debian-security trixie-security InRelease [43.4 kB]
+2026-07-14T00:03:07.7235914Z #8 0.202 Get:4 http://deb.debian.org/debian trixie/main amd64 Packages [9673 kB]
+2026-07-14T00:03:07.7236722Z #8 0.252 Get:5 http://deb.debian.org/debian trixie-updates/main amd64 Packages [5412 B]
+2026-07-14T00:03:07.7237651Z #8 0.252 Get:6 http://deb.debian.org/debian-security trixie-security/main amd64 Packages [225 kB]
+2026-07-14T00:03:08.2207396Z #8 0.900 Fetched 10.1 MB in 1s (13.8 MB/s)
+2026-07-14T00:03:08.7021123Z #8 0.900 Reading package lists...
+2026-07-14T00:03:09.2222606Z #8 1.399 Reading package lists...
+2026-07-14T00:03:09.3761207Z #8 1.910 Building dependency tree...
+2026-07-14T00:03:09.5237959Z #8 2.055 Reading state information...
+2026-07-14T00:03:09.5239107Z #8 2.203 gcc is already the newest version (4:14.2.0-1).
+2026-07-14T00:03:09.5240106Z #8 2.203 g++ is already the newest version (4:14.2.0-1).
+2026-07-14T00:03:09.5242181Z #8 2.203 libffi-dev is already the newest version (3.4.8-2).
+2026-07-14T00:03:09.5243201Z #8 2.203 The following additional packages will be installed:
+2026-07-14T00:03:09.6757875Z #8 2.203   javascript-common libgfortran5 libjs-jquery libjs-sphinxdoc libjs-underscore
+2026-07-14T00:03:09.6759111Z #8 2.203   liblapack3 libopenblas-pthread-dev libopenblas0 libopenblas0-pthread
+2026-07-14T00:03:09.6759786Z #8 2.203   libpython3-dev libpython3.13 libpython3.13-dev libpython3.13-minimal
+2026-07-14T00:03:09.6760461Z #8 2.204   libpython3.13-stdlib libssl3t64 openssl openssl-provider-legacy python3.13
+2026-07-14T00:03:09.6761011Z #8 2.204   python3.13-dev python3.13-minimal
+2026-07-14T00:03:09.6826510Z #8 2.205 Suggested packages:
+2026-07-14T00:03:09.6827080Z #8 2.205   apache2 | lighttpd | httpd liblapack-doc
+2026-07-14T00:03:09.7227808Z #8 2.402 The following NEW packages will be installed:
+2026-07-14T00:03:09.8316100Z #8 2.403   build-essential javascript-common libgfortran5 libjs-jquery libjs-sphinxdoc
+2026-07-14T00:03:09.8317157Z #8 2.403   libjs-underscore liblapack-dev liblapack3 libopenblas-dev
+2026-07-14T00:03:09.8318041Z #8 2.403   libopenblas-pthread-dev libopenblas0 libopenblas0-pthread libpython3-dev
+2026-07-14T00:03:09.8318963Z #8 2.403   libpython3.13 libpython3.13-dev python3-dev python3.13-dev
+2026-07-14T00:03:09.8319701Z #8 2.404 The following packages will be upgraded:
+2026-07-14T00:03:09.8320427Z #8 2.404   libpython3.13-minimal libpython3.13-stdlib libssl-dev libssl3t64 openssl
+2026-07-14T00:03:09.8321256Z #8 2.404   openssl-provider-legacy python3.13 python3.13-minimal
+2026-07-14T00:03:09.8322275Z #8 2.428 8 upgraded, 17 newly installed, 0 to remove and 122 not upgraded.
+2026-07-14T00:03:09.8322897Z #8 2.428 Need to get 41.7 MB of archives.
+2026-07-14T00:03:09.8323542Z #8 2.428 After this operation, 185 MB of additional disk space will be used.
+2026-07-14T00:03:09.8324617Z #8 2.428 Get:1 http://deb.debian.org/debian trixie/main amd64 openssl-provider-legacy amd64 3.5.6-1~deb13u2 [313 kB]
+2026-07-14T00:03:09.8325832Z #8 2.437 Get:2 http://deb.debian.org/debian trixie/main amd64 libssl-dev amd64 3.5.6-1~deb13u2 [2959 kB]
+2026-07-14T00:03:09.8326901Z #8 2.452 Get:3 http://deb.debian.org/debian trixie/main amd64 libssl3t64 amd64 3.5.6-1~deb13u2 [2448 kB]
+2026-07-14T00:03:09.8328048Z #8 2.461 Get:4 http://deb.debian.org/debian trixie/main amd64 python3.13 amd64 3.13.5-2+deb13u3 [757 kB]
+2026-07-14T00:03:09.8329247Z #8 2.464 Get:5 http://deb.debian.org/debian trixie/main amd64 libpython3.13-stdlib amd64 3.13.5-2+deb13u3 [1959 kB]
+2026-07-14T00:03:09.8330529Z #8 2.471 Get:6 http://deb.debian.org/debian trixie/main amd64 python3.13-minimal amd64 3.13.5-2+deb13u3 [2224 kB]
+2026-07-14T00:03:09.8331982Z #8 2.479 Get:7 http://deb.debian.org/debian trixie/main amd64 libpython3.13-minimal amd64 3.13.5-2+deb13u3 [863 kB]
+2026-07-14T00:03:09.8333211Z #8 2.482 Get:8 http://deb.debian.org/debian trixie/main amd64 build-essential amd64 12.12 [4624 B]
+2026-07-14T00:03:09.8334258Z #8 2.482 Get:9 http://deb.debian.org/debian trixie/main amd64 javascript-common all 12+nmu1 [4864 B]
+2026-07-14T00:03:09.8335384Z #8 2.483 Get:10 http://deb.debian.org/debian trixie/main amd64 libgfortran5 amd64 14.2.0-19 [836 kB]
+2026-07-14T00:03:09.8336757Z #8 2.485 Get:11 http://deb.debian.org/debian trixie/main amd64 libjs-jquery all 3.6.1+dfsg+~3.5.14-1 [326 kB]
+2026-07-14T00:03:09.8337922Z #8 2.487 Get:12 http://deb.debian.org/debian trixie/main amd64 libjs-underscore all 1.13.4~dfsg+~1.11.4-3 [116 kB]
+2026-07-14T00:03:09.8339104Z #8 2.487 Get:13 http://deb.debian.org/debian trixie/main amd64 libjs-sphinxdoc all 8.1.3-5 [30.5 kB]
+2026-07-14T00:03:09.8340231Z #8 2.488 Get:14 http://deb.debian.org/debian trixie/main amd64 libopenblas0-pthread amd64 0.3.29+ds-3 [6740 kB]
+2026-07-14T00:03:09.8341852Z #8 2.511 Get:15 http://deb.debian.org/debian trixie/main amd64 liblapack3 amd64 3.12.1-6 [2447 kB]
+2026-07-14T00:03:10.0494670Z #8 2.521 Get:16 http://deb.debian.org/debian trixie/main amd64 libopenblas-pthread-dev amd64 0.3.29+ds-3 [5063 kB]
+2026-07-14T00:03:10.0495923Z #8 2.541 Get:17 http://deb.debian.org/debian trixie/main amd64 liblapack-dev amd64 3.12.1-6 [4991 kB]
+2026-07-14T00:03:10.0497040Z #8 2.559 Get:18 http://deb.debian.org/debian trixie/main amd64 libopenblas0 amd64 0.3.29+ds-3 [42.7 kB]
+2026-07-14T00:03:10.0498284Z #8 2.559 Get:19 http://deb.debian.org/debian trixie/main amd64 libopenblas-dev amd64 0.3.29+ds-3 [57.0 kB]
+2026-07-14T00:03:10.0499480Z #8 2.560 Get:20 http://deb.debian.org/debian trixie/main amd64 libpython3.13 amd64 3.13.5-2+deb13u3 [2161 kB]
+2026-07-14T00:03:10.0500710Z #8 2.567 Get:21 http://deb.debian.org/debian trixie/main amd64 libpython3.13-dev amd64 3.13.5-2+deb13u3 [5281 kB]
+2026-07-14T00:03:10.0502269Z #8 2.584 Get:22 http://deb.debian.org/debian trixie/main amd64 libpython3-dev amd64 3.13.5-1 [10.4 kB]
+2026-07-14T00:03:10.0503480Z #8 2.585 Get:23 http://deb.debian.org/debian trixie/main amd64 openssl amd64 3.5.6-1~deb13u2 [1503 kB]
+2026-07-14T00:03:10.0504825Z #8 2.589 Get:24 http://deb.debian.org/debian trixie/main amd64 python3.13-dev amd64 3.13.5-2+deb13u3 [504 kB]
+2026-07-14T00:03:10.0522882Z #8 2.591 Get:25 http://deb.debian.org/debian trixie/main amd64 python3-dev amd64 3.13.5-1 [26.1 kB]
+2026-07-14T00:03:10.0552421Z #8 2.729 debconf: unable to initialize frontend: Dialog
+2026-07-14T00:03:10.0566912Z #8 2.729 debconf: (TERM is not set, so the dialog frontend is not usable.)
+2026-07-14T00:03:10.0567938Z #8 2.729 debconf: falling back to frontend: Readline
+2026-07-14T00:03:10.2111130Z #8 2.736 debconf: unable to initialize frontend: Readline
+2026-07-14T00:03:10.2111976Z #8 2.736 debconf: (This frontend requires a controlling tty.)
+2026-07-14T00:03:10.2112439Z #8 2.736 debconf: falling back to frontend: Teletype
+2026-07-14T00:03:10.2112909Z #8 2.740 debconf: unable to initialize frontend: Teletype
+2026-07-14T00:03:10.2113393Z #8 2.740 debconf: (This frontend requires a controlling tty.)
+2026-07-14T00:03:10.2113847Z #8 2.740 debconf: falling back to frontend: Noninteractive
+2026-07-14T00:03:10.6046986Z #8 3.284 Fetched 41.7 MB in 0s (232 MB/s)
+2026-07-14T00:03:10.7050552Z #8 3.298 (Reading database ... 
+2026-07-14T00:03:10.7051673Z (Reading database ... 5%
+2026-07-14T00:03:10.7052286Z (Reading database ... 10%
+2026-07-14T00:03:10.7052704Z (Reading database ... 15%
+2026-07-14T00:03:10.7053104Z (Reading database ... 20%
+2026-07-14T00:03:10.7053482Z (Reading database ... 25%
+2026-07-14T00:03:10.7053855Z (Reading database ... 30%
+2026-07-14T00:03:10.7054111Z (Reading database ... 35%
+2026-07-14T00:03:10.7054444Z (Reading database ... 40%
+2026-07-14T00:03:10.7054856Z (Reading database ... 45%
+2026-07-14T00:03:10.7055238Z (Reading database ... 50%
+2026-07-14T00:03:10.7055630Z (Reading database ... 55%
+2026-07-14T00:03:10.7056017Z (Reading database ... 60%
+2026-07-14T00:03:10.7056423Z (Reading database ... 65%
+2026-07-14T00:03:10.7056817Z (Reading database ... 70%
+2026-07-14T00:03:10.7057201Z (Reading database ... 75%
+2026-07-14T00:03:10.7057586Z (Reading database ... 80%
+2026-07-14T00:03:10.7057979Z (Reading database ... 85%
+2026-07-14T00:03:10.7058374Z (Reading database ... 90%
+2026-07-14T00:03:10.7058761Z (Reading database ... 95%
+2026-07-14T00:03:10.7059104Z (Reading database ... 100%
+2026-07-14T00:03:10.7059743Z (Reading database ... 26761 files and directories currently installed.)
+2026-07-14T00:03:10.7060269Z #8 3.320 Preparing to unpack .../openssl-provider-legacy_3.5.6-1~deb13u2_amd64.deb ...
+2026-07-14T00:03:10.7060825Z #8 3.323 Unpacking openssl-provider-legacy (3.5.6-1~deb13u2) over (3.5.1-1) ...
+2026-07-14T00:03:10.7061308Z #8 3.353 Setting up openssl-provider-legacy (3.5.6-1~deb13u2) ...
+2026-07-14T00:03:10.7062081Z #8 3.371 (Reading database ... 
+2026-07-14T00:03:10.7062334Z (Reading database ... 5%
+2026-07-14T00:03:10.7062743Z (Reading database ... 10%
+2026-07-14T00:03:10.7062974Z (Reading database ... 15%
+2026-07-14T00:03:10.7063188Z (Reading database ... 20%
+2026-07-14T00:03:10.7063404Z (Reading database ... 25%
+2026-07-14T00:03:10.7063616Z (Reading database ... 30%
+2026-07-14T00:03:10.7063828Z (Reading database ... 35%
+2026-07-14T00:03:10.7064048Z (Reading database ... 40%
+2026-07-14T00:03:10.7064259Z (Reading database ... 45%
+2026-07-14T00:03:10.7064474Z (Reading database ... 50%
+2026-07-14T00:03:10.7064694Z (Reading database ... 55%
+2026-07-14T00:03:10.7064907Z (Reading database ... 60%
+2026-07-14T00:03:10.7065198Z (Reading database ... 65%
+2026-07-14T00:03:10.7065518Z (Reading database ... 70%
+2026-07-14T00:03:10.7065943Z (Reading database ... 75%
+2026-07-14T00:03:10.7066564Z (Reading database ... 80%
+2026-07-14T00:03:10.7066913Z (Reading database ... 85%
+2026-07-14T00:03:10.8630643Z (Reading database ... 90%
+2026-07-14T00:03:10.8631724Z (Reading database ... 95%
+2026-07-14T00:03:10.8632348Z (Reading database ... 100%
+2026-07-14T00:03:10.8633222Z (Reading database ... 26761 files and directories currently installed.)
+2026-07-14T00:03:10.8634100Z #8 3.390 Preparing to unpack .../libssl-dev_3.5.6-1~deb13u2_amd64.deb ...
+2026-07-14T00:03:10.8634952Z #8 3.392 Unpacking libssl-dev:amd64 (3.5.6-1~deb13u2) over (3.5.1-1) ...
+2026-07-14T00:03:10.9100794Z #8 3.589 Preparing to unpack .../libssl3t64_3.5.6-1~deb13u2_amd64.deb ...
+2026-07-14T00:03:11.0262320Z #8 3.593 Unpacking libssl3t64:amd64 (3.5.6-1~deb13u2) over (3.5.1-1) ...
+2026-07-14T00:03:11.0263719Z #8 3.706 Setting up libssl3t64:amd64 (3.5.6-1~deb13u2) ...
+2026-07-14T00:03:11.1472903Z #8 3.728 (Reading database ... 
+2026-07-14T00:03:11.1473719Z (Reading database ... 5%
+2026-07-14T00:03:11.1474136Z (Reading database ... 10%
+2026-07-14T00:03:11.1474529Z (Reading database ... 15%
+2026-07-14T00:03:11.1474912Z (Reading database ... 20%
+2026-07-14T00:03:11.1475293Z (Reading database ... 25%
+2026-07-14T00:03:11.1475670Z (Reading database ... 30%
+2026-07-14T00:03:11.1476050Z (Reading database ... 35%
+2026-07-14T00:03:11.1476465Z (Reading database ... 40%
+2026-07-14T00:03:11.1476865Z (Reading database ... 45%
+2026-07-14T00:03:11.1477242Z (Reading database ... 50%
+2026-07-14T00:03:11.1477622Z (Reading database ... 55%
+2026-07-14T00:03:11.1477921Z (Reading database ... 60%
+2026-07-14T00:03:11.1478139Z (Reading database ... 65%
+2026-07-14T00:03:11.1478369Z (Reading database ... 70%
+2026-07-14T00:03:11.1478606Z (Reading database ... 75%
+2026-07-14T00:03:11.1478858Z (Reading database ... 80%
+2026-07-14T00:03:11.1479088Z (Reading database ... 85%
+2026-07-14T00:03:11.1479307Z (Reading database ... 90%
+2026-07-14T00:03:11.1479525Z (Reading database ... 95%
+2026-07-14T00:03:11.1479746Z (Reading database ... 100%
+2026-07-14T00:03:11.1480087Z (Reading database ... 26761 files and directories currently installed.)
+2026-07-14T00:03:11.1480593Z #8 3.746 Preparing to unpack .../00-python3.13_3.13.5-2+deb13u3_amd64.deb ...
+2026-07-14T00:03:11.1481059Z #8 3.827 Unpacking python3.13 (3.13.5-2+deb13u3) over (3.13.5-2) ...
+2026-07-14T00:03:11.3758696Z #8 3.861 Preparing to unpack .../01-libpython3.13-stdlib_3.13.5-2+deb13u3_amd64.deb ...
+2026-07-14T00:03:11.3759566Z #8 3.905 Unpacking libpython3.13-stdlib:amd64 (3.13.5-2+deb13u3) over (3.13.5-2) ...
+2026-07-14T00:03:11.5338846Z #8 4.213 Preparing to unpack .../02-python3.13-minimal_3.13.5-2+deb13u3_amd64.deb ...
+2026-07-14T00:03:11.6558650Z #8 4.219 Unpacking python3.13-minimal (3.13.5-2+deb13u3) over (3.13.5-2) ...
+2026-07-14T00:03:11.6560353Z #8 4.335 Preparing to unpack .../03-libpython3.13-minimal_3.13.5-2+deb13u3_amd64.deb ...
+2026-07-14T00:03:11.8836306Z #8 4.412 Unpacking libpython3.13-minimal:amd64 (3.13.5-2+deb13u3) over (3.13.5-2) ...
+2026-07-14T00:03:11.9834710Z #8 4.663 Selecting previously unselected package build-essential.
+2026-07-14T00:03:12.0872350Z #8 4.666 Preparing to unpack .../04-build-essential_12.12_amd64.deb ...
+2026-07-14T00:03:12.0873273Z #8 4.667 Unpacking build-essential (12.12) ...
+2026-07-14T00:03:12.0874413Z #8 4.683 Selecting previously unselected package javascript-common.
+2026-07-14T00:03:12.0875206Z #8 4.686 Preparing to unpack .../05-javascript-common_12+nmu1_all.deb ...
+2026-07-14T00:03:12.0875688Z #8 4.687 Unpacking javascript-common (12+nmu1) ...
+2026-07-14T00:03:12.0876135Z #8 4.704 Selecting previously unselected package libgfortran5:amd64.
+2026-07-14T00:03:12.0876637Z #8 4.707 Preparing to unpack .../06-libgfortran5_14.2.0-19_amd64.deb ...
+2026-07-14T00:03:12.0877078Z #8 4.708 Unpacking libgfortran5:amd64 (14.2.0-19) ...
+2026-07-14T00:03:12.0877503Z #8 4.759 Selecting previously unselected package libjs-jquery.
+2026-07-14T00:03:12.0878012Z #8 4.762 Preparing to unpack .../07-libjs-jquery_3.6.1+dfsg+~3.5.14-1_all.deb ...
+2026-07-14T00:03:12.0878499Z #8 4.767 Unpacking libjs-jquery (3.6.1+dfsg+~3.5.14-1) ...
+2026-07-14T00:03:12.3102672Z #8 4.790 Selecting previously unselected package libjs-underscore.
+2026-07-14T00:03:12.3103490Z #8 4.793 Preparing to unpack .../08-libjs-underscore_1.13.4~dfsg+~1.11.4-3_all.deb ...
+2026-07-14T00:03:12.3104068Z #8 4.794 Unpacking libjs-underscore (1.13.4~dfsg+~1.11.4-3) ...
+2026-07-14T00:03:12.3104539Z #8 4.813 Selecting previously unselected package libjs-sphinxdoc.
+2026-07-14T00:03:12.3105026Z #8 4.816 Preparing to unpack .../09-libjs-sphinxdoc_8.1.3-5_all.deb ...
+2026-07-14T00:03:12.3105657Z #8 4.817 Unpacking libjs-sphinxdoc (8.1.3-5) ...
+2026-07-14T00:03:12.3106394Z #8 4.835 Selecting previously unselected package libopenblas0-pthread:amd64.
+2026-07-14T00:03:12.3107261Z #8 4.838 Preparing to unpack .../10-libopenblas0-pthread_0.3.29+ds-3_amd64.deb ...
+2026-07-14T00:03:12.3107785Z #8 4.839 Unpacking libopenblas0-pthread:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:12.4463730Z #8 5.125 Selecting previously unselected package liblapack3:amd64.
+2026-07-14T00:03:12.5613109Z #8 5.128 Preparing to unpack .../11-liblapack3_3.12.1-6_amd64.deb ...
+2026-07-14T00:03:12.5613727Z #8 5.130 Unpacking liblapack3:amd64 (3.12.1-6) ...
+2026-07-14T00:03:12.5614219Z #8 5.239 Selecting previously unselected package libopenblas-pthread-dev:amd64.
+2026-07-14T00:03:12.7143513Z #8 5.242 Preparing to unpack .../12-libopenblas-pthread-dev_0.3.29+ds-3_amd64.deb ...
+2026-07-14T00:03:12.7144457Z #8 5.243 Unpacking libopenblas-pthread-dev:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:12.8129224Z #8 5.492 Selecting previously unselected package liblapack-dev:amd64.
+2026-07-14T00:03:12.9683247Z #8 5.495 Preparing to unpack .../13-liblapack-dev_3.12.1-6_amd64.deb ...
+2026-07-14T00:03:12.9683990Z #8 5.497 Unpacking liblapack-dev:amd64 (3.12.1-6) ...
+2026-07-14T00:03:13.0161341Z #8 5.696 Selecting previously unselected package libopenblas0:amd64.
+2026-07-14T00:03:13.1615814Z #8 5.698 Preparing to unpack .../14-libopenblas0_0.3.29+ds-3_amd64.deb ...
+2026-07-14T00:03:13.1616617Z #8 5.699 Unpacking libopenblas0:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:13.1617055Z #8 5.715 Selecting previously unselected package libopenblas-dev:amd64.
+2026-07-14T00:03:13.1617560Z #8 5.719 Preparing to unpack .../15-libopenblas-dev_0.3.29+ds-3_amd64.deb ...
+2026-07-14T00:03:13.1618035Z #8 5.720 Unpacking libopenblas-dev:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:13.1618438Z #8 5.740 Selecting previously unselected package libpython3.13:amd64.
+2026-07-14T00:03:13.1618911Z #8 5.743 Preparing to unpack .../16-libpython3.13_3.13.5-2+deb13u3_amd64.deb ...
+2026-07-14T00:03:13.1619352Z #8 5.744 Unpacking libpython3.13:amd64 (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:13.1619773Z #8 5.841 Selecting previously unselected package libpython3.13-dev:amd64.
+2026-07-14T00:03:13.3154708Z #8 5.844 Preparing to unpack .../17-libpython3.13-dev_3.13.5-2+deb13u3_amd64.deb ...
+2026-07-14T00:03:13.3155607Z #8 5.845 Unpacking libpython3.13-dev:amd64 (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:13.3968200Z #8 6.076 Selecting previously unselected package libpython3-dev:amd64.
+2026-07-14T00:03:13.5722879Z #8 6.079 Preparing to unpack .../18-libpython3-dev_3.13.5-1_amd64.deb ...
+2026-07-14T00:03:13.5723824Z #8 6.080 Unpacking libpython3-dev:amd64 (3.13.5-1) ...
+2026-07-14T00:03:13.5724757Z #8 6.098 Preparing to unpack .../19-openssl_3.5.6-1~deb13u2_amd64.deb ...
+2026-07-14T00:03:13.5725524Z #8 6.101 Unpacking openssl (3.5.6-1~deb13u2) over (3.5.1-1) ...
+2026-07-14T00:03:13.6578152Z #8 6.337 Selecting previously unselected package python3.13-dev.
+2026-07-14T00:03:13.8797228Z #8 6.340 Preparing to unpack .../20-python3.13-dev_3.13.5-2+deb13u3_amd64.deb ...
+2026-07-14T00:03:13.8798202Z #8 6.341 Unpacking python3.13-dev (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:13.8799017Z #8 6.358 Selecting previously unselected package python3-dev.
+2026-07-14T00:03:13.8800021Z #8 6.361 Preparing to unpack .../21-python3-dev_3.13.5-1_amd64.deb ...
+2026-07-14T00:03:13.8800839Z #8 6.362 Unpacking python3-dev (3.13.5-1) ...
+2026-07-14T00:03:13.8801848Z #8 6.387 Setting up javascript-common (12+nmu1) ...
+2026-07-14T00:03:13.8802555Z #8 6.398 Setting up libpython3.13-minimal:amd64 (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:13.8803264Z #8 6.402 Setting up libssl-dev:amd64 (3.5.6-1~deb13u2) ...
+2026-07-14T00:03:13.8803895Z #8 6.404 Setting up libgfortran5:amd64 (14.2.0-19) ...
+2026-07-14T00:03:13.8804458Z #8 6.407 Setting up build-essential (12.12) ...
+2026-07-14T00:03:13.8805052Z #8 6.409 Setting up python3.13-minimal (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:14.3875694Z #8 7.067 Setting up libjs-jquery (3.6.1+dfsg+~3.5.14-1) ...
+2026-07-14T00:03:14.5674865Z #8 7.073 Setting up openssl (3.5.6-1~deb13u2) ...
+2026-07-14T00:03:14.5675586Z #8 7.077 Setting up libpython3.13-stdlib:amd64 (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:14.5676215Z #8 7.079 Setting up libjs-underscore (1.13.4~dfsg+~1.11.4-3) ...
+2026-07-14T00:03:14.5676676Z #8 7.082 Setting up libpython3.13:amd64 (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:14.5677128Z #8 7.084 Setting up libopenblas0-pthread:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:14.5678098Z #8 7.089 update-alternatives: using /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 to provide /usr/lib/x86_64-linux-gnu/libblas.so.3 (libblas.so.3-x86_64-linux-gnu) in auto mode
+2026-07-14T00:03:14.5679632Z #8 7.092 update-alternatives: using /usr/lib/x86_64-linux-gnu/openblas-pthread/liblapack.so.3 to provide /usr/lib/x86_64-linux-gnu/liblapack.so.3 (liblapack.so.3-x86_64-linux-gnu) in auto mode
+2026-07-14T00:03:14.5681162Z #8 7.094 update-alternatives: using /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblas.so.0 to provide /usr/lib/x86_64-linux-gnu/libopenblas.so.0 (libopenblas.so.0-x86_64-linux-gnu) in auto mode
+2026-07-14T00:03:14.5682828Z #8 7.096 Setting up python3.13 (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:15.1275187Z #8 7.807 Setting up libpython3.13-dev:amd64 (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:15.3223596Z #8 7.809 Setting up libjs-sphinxdoc (8.1.3-5) ...
+2026-07-14T00:03:15.3224086Z #8 7.812 Setting up libopenblas0:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:15.3224553Z #8 7.814 Setting up libopenblas-pthread-dev:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:15.3225545Z #8 7.819 update-alternatives: using /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so to provide /usr/lib/x86_64-linux-gnu/libblas.so (libblas.so-x86_64-linux-gnu) in auto mode
+2026-07-14T00:03:15.3226836Z #8 7.822 update-alternatives: using /usr/lib/x86_64-linux-gnu/openblas-pthread/liblapack.so to provide /usr/lib/x86_64-linux-gnu/liblapack.so (liblapack.so-x86_64-linux-gnu) in auto mode
+2026-07-14T00:03:15.3228101Z #8 7.825 update-alternatives: using /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblas.so to provide /usr/lib/x86_64-linux-gnu/libopenblas.so (libopenblas.so-x86_64-linux-gnu) in auto mode
+2026-07-14T00:03:15.3229219Z #8 7.831 Setting up liblapack3:amd64 (3.12.1-6) ...
+2026-07-14T00:03:15.3229560Z #8 7.836 Setting up libpython3-dev:amd64 (3.13.5-1) ...
+2026-07-14T00:03:15.3229904Z #8 7.839 Setting up python3.13-dev (3.13.5-2+deb13u3) ...
+2026-07-14T00:03:15.3230257Z #8 7.841 Setting up libopenblas-dev:amd64 (0.3.29+ds-3) ...
+2026-07-14T00:03:15.3230592Z #8 7.843 Setting up python3-dev (3.13.5-1) ...
+2026-07-14T00:03:15.3230911Z #8 7.846 Setting up liblapack-dev:amd64 (3.12.1-6) ...
+2026-07-14T00:03:15.3231392Z #8 7.852 Processing triggers for libc-bin (2.41-12) ...
+2026-07-14T00:03:15.4893567Z #8 DONE 8.2s
+2026-07-14T00:03:15.6404332Z 
+2026-07-14T00:03:15.6405294Z #9 [4/8] RUN pip install --upgrade pip &&     pip install --no-cache-dir cython
+2026-07-14T00:03:16.9135317Z #9 1.423 Requirement already satisfied: pip in /usr/local/lib/python3.13/site-packages (25.2)
+2026-07-14T00:03:17.0255241Z #9 1.485 Collecting pip
+2026-07-14T00:03:17.0256007Z #9 1.505   Downloading pip-26.1.2-py3-none-any.whl.metadata (4.6 kB)
+2026-07-14T00:03:17.0256540Z #9 1.515 Downloading pip-26.1.2-py3-none-any.whl (1.8 MB)
+2026-07-14T00:03:17.2526266Z #9 1.535    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 144.9 MB/s  0:00:00
+2026-07-14T00:03:17.2527098Z #9 1.554 Installing collected packages: pip
+2026-07-14T00:03:17.2527638Z #9 1.554   Attempting uninstall: pip
+2026-07-14T00:03:17.2528182Z #9 1.557     Found existing installation: pip 25.2
+2026-07-14T00:03:17.2528743Z #9 1.602     Uninstalling pip-25.2:
+2026-07-14T00:03:17.2529278Z #9 1.612       Successfully uninstalled pip-25.2
+2026-07-14T00:03:17.9683973Z #9 2.478 Successfully installed pip-26.1.2
+2026-07-14T00:03:18.1194275Z #9 2.479 WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+2026-07-14T00:03:18.6524776Z #9 3.162 Collecting cython
+2026-07-14T00:03:18.7646502Z #9 3.191   Downloading cython-3.2.8-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (4.2 kB)
+2026-07-14T00:03:18.7647952Z #9 3.196 Downloading cython-3.2.8-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (3.4 MB)
+2026-07-14T00:03:18.7649188Z #9 3.252    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.4/3.4 MB 84.7 MB/s  0:00:00
+2026-07-14T00:03:18.7649867Z #9 3.275 Installing collected packages: cython
+2026-07-14T00:03:19.4865027Z #9 3.996 Successfully installed cython-3.2.8
+2026-07-14T00:03:19.5907056Z #9 3.997 WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+2026-07-14T00:03:19.5910525Z #9 DONE 4.1s
+2026-07-14T00:03:19.7581040Z 
+2026-07-14T00:03:19.7582093Z #10 [5/8] COPY ./requirements.txt ./
+2026-07-14T00:03:19.7582663Z #10 DONE 0.0s
+2026-07-14T00:03:19.7582882Z 
+2026-07-14T00:03:19.7583189Z #11 [6/8] RUN pip install --no-cache-dir -r requirements.txt
+2026-07-14T00:03:20.1570114Z #11 0.549 Collecting fastapi==0.95.2 (from -r requirements.txt (line 1))
+2026-07-14T00:03:20.2638496Z #11 0.581   Downloading fastapi-0.95.2-py3-none-any.whl.metadata (24 kB)
+2026-07-14T00:03:20.2639515Z #11 0.603 Collecting starlette==0.27.0 (from -r requirements.txt (line 2))
+2026-07-14T00:03:20.2640432Z #11 0.607   Downloading starlette-0.27.0-py3-none-any.whl.metadata (5.8 kB)
+2026-07-14T00:03:20.2641351Z #11 0.614 Collecting aiomysql==0.2.0 (from -r requirements.txt (line 3))
+2026-07-14T00:03:20.2642544Z #11 0.618   Downloading aiomysql-0.2.0-py3-none-any.whl.metadata (11 kB)
+2026-07-14T00:03:20.2643442Z #11 0.626 Collecting passlib==1.7.4 (from -r requirements.txt (line 4))
+2026-07-14T00:03:20.2644571Z #11 0.629   Downloading passlib-1.7.4-py2.py3-none-any.whl.metadata (1.7 kB)
+2026-07-14T00:03:20.2645087Z #11 0.642 Collecting PyJWT==2.8.0 (from -r requirements.txt (line 5))
+2026-07-14T00:03:20.2645565Z #11 0.645   Downloading PyJWT-2.8.0-py3-none-any.whl.metadata (4.2 kB)
+2026-07-14T00:03:20.2646003Z #11 0.656 Collecting flask==2.3.2 (from -r requirements.txt (line 6))
+2026-07-14T00:03:20.4379724Z #11 0.662   Downloading Flask-2.3.2-py3-none-any.whl.metadata (3.7 kB)
+2026-07-14T00:03:20.4380852Z #11 0.675 Collecting Werkzeug==2.3.3 (from -r requirements.txt (line 7))
+2026-07-14T00:03:20.4381925Z #11 0.680   Downloading Werkzeug-2.3.3-py3-none-any.whl.metadata (4.2 kB)
+2026-07-14T00:03:20.5177299Z #11 0.910 Collecting sqlalchemy==2.0.28 (from -r requirements.txt (line 8))
+2026-07-14T00:03:20.6179746Z #11 0.918   Downloading SQLAlchemy-2.0.28-py3-none-any.whl.metadata (9.6 kB)
+2026-07-14T00:03:20.6180885Z #11 0.954 Collecting bcrypt==4.0.1 (from -r requirements.txt (line 9))
+2026-07-14T00:03:20.6182119Z #11 0.959   Downloading bcrypt-4.0.1-cp36-abi3-manylinux_2_28_x86_64.whl.metadata (9.0 kB)
+2026-07-14T00:03:20.6183125Z #11 0.992 Collecting asyncpg==0.29.0 (from -r requirements.txt (line 10))
+2026-07-14T00:03:20.6183665Z #11 0.996   Downloading asyncpg-0.29.0.tar.gz (820 kB)
+2026-07-14T00:03:20.8470271Z #11 1.010      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 820.5/820.5 kB 99.0 MB/s  0:00:00
+2026-07-14T00:03:20.8470810Z #11 1.089   Installing build dependencies: started
+2026-07-14T00:03:21.6675863Z #11 2.060   Installing build dependencies: finished with status 'done'
+2026-07-14T00:03:21.8186175Z #11 2.061   Getting requirements to build wheel: started
+2026-07-14T00:03:22.3149764Z #11 2.707   Getting requirements to build wheel: finished with status 'done'
+2026-07-14T00:03:22.4667358Z #11 2.708   Preparing metadata (pyproject.toml): started
+2026-07-14T00:03:22.5774078Z #11 2.970   Preparing metadata (pyproject.toml): finished with status 'done'
+2026-07-14T00:03:22.7034779Z #11 2.978 Collecting databases==0.9.0 (from -r requirements.txt (line 11))
+2026-07-14T00:03:22.7035669Z #11 2.982   Downloading databases-0.9.0-py3-none-any.whl.metadata (5.4 kB)
+2026-07-14T00:03:22.7036281Z #11 2.998 Collecting uvicorn==0.20.0 (from -r requirements.txt (line 12))
+2026-07-14T00:03:22.7036872Z #11 3.002   Downloading uvicorn-0.20.0-py3-none-any.whl.metadata (6.2 kB)
+2026-07-14T00:03:22.7037443Z #11 3.011 Collecting jinja2==3.1.2 (from -r requirements.txt (line 13))
+2026-07-14T00:03:22.7038041Z #11 3.014   Downloading Jinja2-3.1.2-py3-none-any.whl.metadata (3.5 kB)
+2026-07-14T00:03:22.7038619Z #11 3.096 Collecting pydantic==1.10.7 (from -r requirements.txt (line 14))
+2026-07-14T00:03:22.8089735Z #11 3.101   Downloading pydantic-1.10.7-py3-none-any.whl.metadata (145 kB)
+2026-07-14T00:03:22.8090670Z #11 3.118 Collecting alembic==1.13.2 (from -r requirements.txt (line 16))
+2026-07-14T00:03:22.8091935Z #11 3.121   Downloading alembic-1.13.2-py3-none-any.whl.metadata (7.4 kB)
+2026-07-14T00:03:22.8092858Z #11 3.132 Collecting authlib==1.3.1 (from -r requirements.txt (line 17))
+2026-07-14T00:03:22.8093729Z #11 3.136   Downloading Authlib-1.3.1-py2.py3-none-any.whl.metadata (3.8 kB)
+2026-07-14T00:03:22.8094624Z #11 3.145 Collecting python-dotenv==1.0.1 (from -r requirements.txt (line 18))
+2026-07-14T00:03:22.8095596Z #11 3.151   Downloading python_dotenv-1.0.1-py3-none-any.whl.metadata (23 kB)
+2026-07-14T00:03:22.8096443Z #11 3.183 Collecting tiktoken==0.7.0 (from -r requirements.txt (line 19))
+2026-07-14T00:03:22.8097184Z #11 3.189   Downloading tiktoken-0.7.0.tar.gz (33 kB)
+2026-07-14T00:03:22.8097784Z #11 3.201   Installing build dependencies: started
+2026-07-14T00:03:23.5122555Z #11 3.905   Installing build dependencies: finished with status 'done'
+2026-07-14T00:03:23.6632874Z #11 3.905   Getting requirements to build wheel: started
+2026-07-14T00:03:23.9794704Z #11 4.372   Getting requirements to build wheel: finished with status 'done'
+2026-07-14T00:03:24.1311352Z #11 4.373   Preparing metadata (pyproject.toml): started
+2026-07-14T00:03:24.1867822Z #11 4.579   Preparing metadata (pyproject.toml): finished with status 'done'
+2026-07-14T00:03:24.3056220Z #11 4.590 Collecting httpx==0.27.0 (from -r requirements.txt (line 20))
+2026-07-14T00:03:24.3057072Z #11 4.594   Downloading httpx-0.27.0-py3-none-any.whl.metadata (7.2 kB)
+2026-07-14T00:03:24.3058064Z #11 4.604 Collecting beautifulsoup4==4.12.3 (from -r requirements.txt (line 21))
+2026-07-14T00:03:24.3059088Z #11 4.608   Downloading beautifulsoup4-4.12.3-py3-none-any.whl.metadata (3.8 kB)
+2026-07-14T00:03:24.3060348Z #11 4.698 Collecting pandas==1.5.3 (from -r requirements.txt (line 22))
+2026-07-14T00:03:24.4808359Z #11 4.702   Downloading pandas-1.5.3.tar.gz (5.2 MB)
+2026-07-14T00:03:24.4809333Z #11 4.722      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.2/5.2 MB 270.3 MB/s  0:00:00
+2026-07-14T00:03:25.0059611Z #11 5.398   Installing build dependencies: started
+2026-07-14T00:03:26.5764204Z #11 6.969   Installing build dependencies: finished with status 'done'
+2026-07-14T00:03:26.7281026Z #11 6.970   Getting requirements to build wheel: started
+2026-07-14T00:03:27.1088405Z #11 7.501   Getting requirements to build wheel: finished with status 'error'
+2026-07-14T00:03:27.2638163Z #11 7.506   error: subprocess-exited-with-error
+2026-07-14T00:03:27.2638742Z #11 7.506   
+2026-07-14T00:03:27.2639626Z #11 7.506   × Getting requirements to build wheel did not run successfully.
+2026-07-14T00:03:27.2640462Z #11 7.506   │ exit code: 1
+2026-07-14T00:03:27.2640964Z #11 7.506   ╰─> [23 lines of output]
+2026-07-14T00:03:27.2641782Z #11 7.506       Traceback (most recent call last):
+2026-07-14T00:03:27.2642923Z #11 7.506         File "/usr/local/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 389, in <module>
+2026-07-14T00:03:27.2643994Z #11 7.506           main()
+2026-07-14T00:03:27.2644359Z #11 7.506           ~~~~^^
+2026-07-14T00:03:27.2645286Z #11 7.506         File "/usr/local/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 373, in main
+2026-07-14T00:03:27.2646480Z #11 7.506           json_out["return_val"] = hook(**hook_input["kwargs"])
+2026-07-14T00:03:27.2647141Z #11 7.506                                    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+2026-07-14T00:03:27.2648366Z #11 7.506         File "/usr/local/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 143, in get_requires_for_build_wheel
+2026-07-14T00:03:27.2649563Z #11 7.506           return hook(config_settings)
+2026-07-14T00:03:27.2650758Z #11 7.506         File "/tmp/pip-build-env-f37n9p2o/overlay/lib/python3.13/site-packages/setuptools/build_meta.py", line 333, in get_requires_for_build_wheel
+2026-07-14T00:03:27.2652343Z #11 7.506           return self._get_build_requires(config_settings, requirements=[])
+2026-07-14T00:03:27.2653139Z #11 7.506                  ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-07-14T00:03:27.2654367Z #11 7.506         File "/tmp/pip-build-env-f37n9p2o/overlay/lib/python3.13/site-packages/setuptools/build_meta.py", line 301, in _get_build_requires
+2026-07-14T00:03:27.2655491Z #11 7.506           self.run_setup()
+2026-07-14T00:03:27.2655926Z #11 7.506           ~~~~~~~~~~~~~~^^
+2026-07-14T00:03:27.2656918Z #11 7.506         File "/tmp/pip-build-env-f37n9p2o/overlay/lib/python3.13/site-packages/setuptools/build_meta.py", line 520, in run_setup
+2026-07-14T00:03:27.2658076Z #11 7.506           super().run_setup(setup_script=setup_script)
+2026-07-14T00:03:27.2658716Z #11 7.506           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-07-14T00:03:27.2659811Z #11 7.506         File "/tmp/pip-build-env-f37n9p2o/overlay/lib/python3.13/site-packages/setuptools/build_meta.py", line 317, in run_setup
+2026-07-14T00:03:27.2660882Z #11 7.506           exec(code, locals())
+2026-07-14T00:03:27.2661343Z #11 7.506           ~~~~^^^^^^^^^^^^^^^^
+2026-07-14T00:03:27.2662416Z #11 7.506         File "<string>", line 19, in <module>
+2026-07-14T00:03:27.2663488Z #11 7.506       ModuleNotFoundError: No module named 'pkg_resources'
+2026-07-14T00:03:27.2664119Z #11 7.506       [end of output]
+2026-07-14T00:03:27.2664523Z #11 7.506   
+2026-07-14T00:03:27.2665178Z #11 7.506   note: This error originates from a subprocess, and is likely not a problem with pip.
+2026-07-14T00:03:27.2666209Z #11 7.506 ERROR: Failed to build 'pandas' when getting requirements to build wheel
+2026-07-14T00:03:27.4027277Z #11 ERROR: process "/bin/sh -c pip install --no-cache-dir -r requirements.txt" did not complete successfully: exit code: 1
+2026-07-14T00:03:27.4260573Z ------
+2026-07-14T00:03:27.4261940Z  > [6/8] RUN pip install --no-cache-dir -r requirements.txt:
+2026-07-14T00:03:27.4263210Z 7.506           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-07-14T00:03:27.4264828Z 7.506         File "/tmp/pip-build-env-f37n9p2o/overlay/lib/python3.13/site-packages/setuptools/build_meta.py", line 317, in run_setup
+2026-07-14T00:03:27.4266769Z 7.506           exec(code, locals())
+2026-07-14T00:03:27.4267421Z 7.506           ~~~~^^^^^^^^^^^^^^^^
+2026-07-14T00:03:27.4268303Z 7.506         File "<string>", line 19, in <module>
+2026-07-14T00:03:27.4269312Z 7.506       ModuleNotFoundError: No module named 'pkg_resources'
+2026-07-14T00:03:27.4270076Z 7.506       [end of output]
+2026-07-14T00:03:27.4270807Z 7.506   
+2026-07-14T00:03:27.4271906Z 7.506   note: This error originates from a subprocess, and is likely not a problem with pip.
+2026-07-14T00:03:27.4273417Z 7.506 ERROR: Failed to build 'pandas' when getting requirements to build wheel
+2026-07-14T00:03:27.4274519Z ------
+2026-07-14T00:03:27.4274927Z 
+2026-07-14T00:03:27.4275727Z  [33m1 warning found (use docker --debug to expand):
+2026-07-14T00:03:27.4277165Z [0m - LegacyKeyValueFormat: "ENV key=value" should be used instead of legacy "ENV key value" format (line 3)
+2026-07-14T00:03:27.4370883Z Dockerfile:26
+2026-07-14T00:03:27.4371313Z --------------------
+2026-07-14T00:03:27.4374137Z   24 |     # install dependencies
+2026-07-14T00:03:27.4374545Z   25 |     COPY ./requirements.txt ./
+2026-07-14T00:03:27.4375211Z   26 | >>> RUN pip install --no-cache-dir -r requirements.txt
+2026-07-14T00:03:27.4375668Z   27 |     
+2026-07-14T00:03:27.4376303Z   28 |     # Pre-download models during build time to avoid runtime rate limiting
+2026-07-14T00:03:27.4377037Z --------------------
+2026-07-14T00:03:27.4377966Z ERROR: failed to build: failed to solve: process "/bin/sh -c pip install --no-cache-dir -r requirements.txt" did not complete successfully: exit code: 1
+2026-07-14T00:03:27.4423185Z ##[error]Process completed with exit code 1.
+2026-07-14T00:03:27.4585306Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-07-14T00:03:27.4586902Z Post job cleanup.
+2026-07-14T00:03:27.5435817Z [command]/usr/bin/git version
+2026-07-14T00:03:27.5474133Z git version 2.54.0
+2026-07-14T00:03:27.5513661Z Temporarily overriding HOME='/home/runner/work/_temp/a71b102d-7bff-41cc-be57-7fa0bff5a732' before making global git config changes
+2026-07-14T00:03:27.5515084Z Adding repository directory to the temporary git global config as a safe directory
+2026-07-14T00:03:27.5520330Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/loadtxtwebapp/loadtxtwebapp
+2026-07-14T00:03:27.5556086Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-07-14T00:03:27.5615552Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-07-14T00:03:27.5845665Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-07-14T00:03:27.5873448Z http.https://github.com/.extraheader
+2026-07-14T00:03:27.5884595Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2026-07-14T00:03:27.5916512Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-07-14T00:03:27.6135837Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-07-14T00:03:27.6166772Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-07-14T00:03:27.6541372Z Cleaning up orphan processes
+2026-07-14T00:03:27.7876859Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/

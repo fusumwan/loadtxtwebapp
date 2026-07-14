@@ -1,0 +1,13 @@
+﻿2026-07-14T00:02:51.5919164Z ##[group]Run echo $DOCKER_PASSWORD | docker login -u $DOCKER_USERNAME --password-stdin
+2026-07-14T00:02:51.5920513Z [36;1mecho $DOCKER_PASSWORD | docker login -u $DOCKER_USERNAME --password-stdin[0m
+2026-07-14T00:02:51.6067844Z shell: /usr/bin/bash -e {0}
+2026-07-14T00:02:51.6068714Z env:
+2026-07-14T00:02:51.6069313Z   DOCKER_USERNAME: ***
+2026-07-14T00:02:51.6069878Z   DOCKER_PASSWORD: ***
+2026-07-14T00:02:51.6070399Z ##[endgroup]
+2026-07-14T00:02:51.8864485Z 
+2026-07-14T00:02:51.8865459Z Login Succeeded
+2026-07-14T00:02:51.8867066Z WARNING! Your credentials are stored unencrypted in '/home/runner/.docker/config.json'.
+2026-07-14T00:02:51.8880578Z Configure a credential helper to remove this warning. See
+2026-07-14T00:02:51.8884877Z https://docs.docker.com/go/credential-store/
+2026-07-14T00:02:51.8885832Z 

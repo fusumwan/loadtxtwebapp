@@ -25,9 +25,6 @@ RUN pip install --upgrade pip && \
 COPY ./requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Pre-download models during build time to avoid runtime rate limiting
-RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')"
-
 # copy src code
 COPY ./accountslogin ./accountslogin
 

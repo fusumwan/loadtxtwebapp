@@ -50,7 +50,7 @@ git push -u origin main
 
 =========================================
 below is container image url
-docker.io/timothyfudocker/loadtxtwebapp:v1.2
+docker.io/timothyfudocker/loadtxtwebapp:v1.3
 
 docker.io/timothyfudocker/loadtxtwebapp:latest
 ============== create your google cloud run service===========
@@ -303,7 +303,7 @@ pip freeze > requirements.txt
 =========================================
 below is container image url
 
-docker.io/timothyfudocker/learnwiseaiwebapp:v1.2
+docker.io/timothyfudocker/learnwiseaiwebapp:v1.3
 
 
 ======================

@@ -22,11 +22,11 @@ jobs:
     - name: Build the Docker image
       run: docker build -t timothyfudocker/loadtxtwebapp:latest .
       
-    - name: Tag the Docker image with v1.1
-      run: docker tag timothyfudocker/loadtxtwebapp:latest timothyfudocker/loadtxtwebapp:v1.1
+    - name: Tag the Docker image with v1.2
+      run: docker tag timothyfudocker/loadtxtwebapp:latest timothyfudocker/loadtxtwebapp:v1.2
 
     - name: Push the Docker image (latest tag)
       run: docker push timothyfudocker/loadtxtwebapp:latest
 
-    - name: Push the Docker image (v1.1 tag)
-      run: docker push timothyfudocker/loadtxtwebapp:v1.1
+    - name: Push the Docker image (v1.2 tag)
+      run: docker push timothyfudocker/loadtxtwebapp:v1.2

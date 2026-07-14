@@ -1,6 +1,7 @@
 import json
 import logging
 import typing
+from typing import Any
 from os import PathLike
 from fastapi import APIRouter, Depends, HTTPException, Request, Form, status
 from fastapi.responses import HTMLResponse, JSONResponse, RedirectResponse
@@ -23,6 +24,13 @@ class BaseController:
         self.context={}
         # Initialize templates for rendering HTML
         self.templates = Jinja2Templates(directory="accountslogin/src/main/webapp/WEB_INF/views")
+        self.templates.env.globals["https_url_for"] = self.https_url_for
+
+    def https_url_for(self,request: Request, name: str, **path_params: Any) -> str:
+        # Generate the original URL
+        http_url = request.url_for(name, **path_params)
+        # Reconstruct the URL with the new scheme
+        return http_url._url.replace("http://","https://")
 
     def set_context(self, request: WebRequest, context: dict ={}):
         base_path = str(request.base_url)

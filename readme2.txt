@@ -50,7 +50,7 @@ git push -u origin main
 
 =========================================
 below is container image url
-docker.io/timothyfudocker/loadtxtwebapp:v1.3
+docker.io/timothyfudocker/loadtxtwebapp:v1.4
 
 docker.io/timothyfudocker/loadtxtwebapp:latest
 ============== create your google cloud run service===========
@@ -303,12 +303,9 @@ pip freeze > requirements.txt
 =========================================
 below is container image url
 
-docker.io/timothyfudocker/learnwiseaiwebapp:v1.3
+docker.io/timothyfudocker/learnwiseaiwebapp:v1.4
 
 
-======================
-.venv/Scripts/activate
-=================================
 
 python -m uvicorn accountslogin.main:app --port 8080 --reload --ssl-keyfile=accountslogin/loadtxtwebapp_ssl_key.pem --ssl-certfile=accountslogin/loadtxtwebapp_ssl_cert.pem
 ==========================
@@ -317,6 +314,9 @@ https://127.0.0.1:8080/
 https://127.0.0.1:8080/wikivoiceverseai
 
 
+======================
+.venv/Scripts/activate
+=================================
 
 ==========================
 

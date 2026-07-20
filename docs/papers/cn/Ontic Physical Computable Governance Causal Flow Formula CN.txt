@@ -1,0 +1,997 @@
+Ontic Physical Computable Governance Causal Flow Formula
+量體物理可計算治理因果流程公式
+A mathematically rigorous framework for energy-based civilizational governance
+一個基於數學的嚴謹框架，用於管理社會發展
+Ontic Physical Computable Governance Causal Flow Formula introduces a groundbreaking paradigm in political theory and governance: a system where all socio-political activity is redefined as measurable energy transactions between living systems, governed through explicit physical and mathematical laws. This new ontology abandons subjective legitimacy sources—such as the social contract, electoral majorities, or wealth accumulation—and instead measures all societal inputs and outputs using the Stellar Equivalent (StellarEq): an absolute energy currency denominated in Joules and mapped to solar energy equivalents. By establishing StellarEq as the universal metric, Ontic delivers unprecedented dimensional stability across different practical policy scenarios, allowing for rigorous, cross-domain comparison from local economic exchanges to planetary-scale projects.
+Ontic 物理可計算治理因果流程公式，引入一種在政治理論和治理中的創新模式：一種系統，其中所有社會和政治活動都被重新定義為生物系統之間的可測量的能量交易，並受明確的物理和數學法則的約束。這種新的知識框架，放棄了主觀的合法性來源——例如社會契約、選舉多數或財富積累，並採用「恆星等值」（StellarEq）來衡量所有社會的輸入和輸出，該等值以焦耳為單位，並與太陽能等值相關。通過將恆星等值作為普遍的衡量標準，Ontic 能夠在不同的實際政策場景中實現前所未有的穩定性，從而實現從地方經濟交易到行星規模項目的嚴謹、跨領域的比較。
+At the core of the Ontic framework is the Causal Graph power structure, a recursively updated dynamic graph that represents every theoretical, practical, and economic node in terms of their measured energy contribution. Power within this system is defined by a strict formula: 
+, where current power at time t arises directly from fresh, auditable contributions. Each contribution is decomposed into foundational theory, applied practice, and validated economic value, tracked over time through dynamic Causal Edge Weights and systematically converted into StellarEq. The result is a cybernetic, feedback-controlled model, continuously refined by real-world data and impervious to static wealth or hereditary monopoly.
+Ontic 框架的核心是「因果圖」結構，這是一個動態圖，會不斷更新，並代表所有理論、實務和經濟相關的要素，根據其測量出的能量貢獻。在這個系統中，權力定義為一個嚴格的公式： 
+ ，其中當前的權力直接來自可驗證的最新貢獻。每個貢獻都分解為基礎理論、實務應用和經過驗證的經濟價值，並透過動態因果邊權來追蹤，然後系統性地轉換為 StellarEq。這產生了一個具有回饋控制的網絡模型，並不斷地透過實際數據進行精細調整，並且不受靜態財富或世襲壟斷的影響。
+The Ontic system embeds rigorous anti-corruption logic at the algorithmic core. 
+, a time-dependent function derived from technical dependency ratios and structured TimeDecay, guarantees that all power, rights, or property created by intellectual or practical innovation will inevitably revert to public utility—mathematically dismantling the persistence of cross-generational class monopolies and preventing the feudal entrenchment seen in legacy systems. Risk, output, and input for every theory or project are dynamically computed, producing adaptive, scenario-specific scores for NetEnergyGain and risk-adjusted evaluation. Unlike legacy systems that lapse into inefficiency or exploitation, the Ontic protocol requires continuous and recursively validated contribution for the maintenance of any form of influence.
+Ontic 系統內置嚴格的反貪腐邏輯，位於演算法的核心。 
+ ，是一種取決於技術依賴性和結構化時間衰減的函數，確保所有由知識或實踐創新產生的權力、權利或財產，最終都會歸於公有利益——從數學上消滅跨世代的階級壟斷，並防止傳統系統中出現的封建式結構。對於每一個理論或專案，風險、產出和輸入都會動態計算，產生針對 NetEnergyGain 和風險調整的適應性評分。與傳統系統不同，Ontic 協議要求對任何形式的影響進行持續和遞迴驗證。
+Civilizational evolution and immunity against both totalitarian stasis and utopian stagnation are enforced by the 
+, a precision filter that multiplies each policy proposal’s effect by three time-dependent coefficients: stability, human empowerment, and cosmic judgement. This mechanism ensures that any societal path which reduces autonomy, creativity, or survival prospects is automatically stripped of power, regardless of superficial appearance or digital consensus. By binding governance to computable physical metrics rather than human identity, Ontic offers a realistic route out of existential crisis, including AI-driven labor displacement and algorithmic class hierarchy.
+透過 
+ ，一種精確過濾器，可以促進社會的演變，並對極權主義的停滯和烏託邦式的停滯提供保護。這個過濾器將每項政策建議的效果乘以三個時間相關的係數：穩定性、賦予人類力量，以及宇宙的判斷。這個機制確保，任何導致自主性、創造力或生存前景的社會發展路線，都會自動失去權力，無論其表面上看起來如何，或在數碼共識方面。透過將治理與可計算的物理指標聯繫起來，而不是人類身份，Ontic 提供一種實際的解決方法，以應對存在危機，包括由人工智能驅動的勞動流失和演算法的階級結構。
+Far from being a theoretical abstraction, the Ontic framework is designed as an evolvable, protocol-based Civilization OS. Its distributed implementation pathway—from initial ontology modeling and StellarEq datafication, to ledgers, dynamic governance, and layered adoption—mirrors the evolutionary rollout of internet or blockchain protocols, requiring no revolutionary rupture. Ontic is proposed as an open, self-correcting, and empirically testable replacement for static democratic or autocratic regimes—one where energy contribution, and not voting share or capital stock, is the only source of lasting power.
+Ontic 框架並非只是一種理論上的概念，而是旨在成為一種可發展、基於協議的「文明運作系統」。其分佈式實施途徑——從初始的知識建模和 StellarEq 數據化，到記錄、動態治理和分層採用——與互聯網或區塊鏈協議的演進實施方式相似，無需任何根本性的變革。Ontic 被建議作為一種開放、自我調整、並可通過實證測試的替代方案，取代靜態的民主或專制統治體系——在這種體系中，貢獻能源，而非投票權或資本，才是持久權力的唯一來源。
+Research Monograph  研究專書
+Interdisciplinary frameworks for computable, energy-based political governance
+多學科框架，應用於計算機、以能源為基礎的政治治理
+This research monograph is published by CoinJade Limited, Hong Kong, in July 2026. It presents an original, interdisciplinary synthesis unifying Political Ontology, Econophysics, Cybernetics, and Algorithmic Governance with a singular target: to formalize a rigorously computable, physically grounded, and recursively auditable theory of political power in the era of planetary and interstellar risk. The conceptual foundation of the Ontic institutional framework, the Political Energy Formula, and the Computable Political Language has been under rigorous theoretical development by the author since as early as February 17, 2017, coinciding with the launch of the original ONTIC Facebook page. Although the axiomatic core was conceived at that time, the detailed mathematical and cybernetic mechanics were intentionally kept in a state of rigorous internal incubation, deliberately withheld from exhaustive public exposition. The comprehensive public release of this theory was strategically reserved until 2026—a critical historical juncture when the exponential acceleration of artificial intelligence, the threat of digital totalitarianism, and the systemic risks of algorithmic governance rendered the civilizational necessity for a Computable Political Language undeniably mature. All theoretical frameworks, causal graphs, and mathematical structures—including the Stellar Energy Currency (StellarEq), Power Flow Protocol for Causal Governance (v1), dynamic causal graphs, edge weighting, and distributed knowledge ledgers—are the intellectual work of the author and publisher, unless explicitly acknowledged otherwise. Unauthorized reproduction, storage, or transmission of any part of this material is strictly prohibited, except for brief academic quotations or citations in accordance with copyright law.
+1. Disclaimer  1. 免責聲明
+1.1 Disclaimer  1.1 免責聲明
+This document is a dynamic theoretical framework subject to continual revision
+本文件是一個動態的理論框架，會不斷地進行修訂。
+This monograph presents Version 1.0 of the Ontic Physical Computable Governance Causal Flow Formula, a research framework designed to evolve and adapt as the fields of artificial intelligence, econophysics, and complex systems advance. Reflecting the Ontic commitment to 'Open Iteration' and algorithmic feedback control, all mathematical models, algorithms, and implementation protocols herein are intentionally structured as living components—open to recalibration, empirical validation, and iterative expansion.
+這份報告介紹了「Ontic 物理可計算治理因果流程公式」的第 1.0 版本，這是一個研究框架，旨在隨著人工智慧、經濟物理學和複雜系統等領域的發展而不斷演進和適應。鑑於「開放演進」和演算法反饋控制的 Ontic 承諾，本報告中的所有數學模型、演算法和實施協議，都是有意設計成具有生命力的組成部分，可進行調整、經驗驗證和迭代擴展。
+The mathematical structures described (including the StellarEq metric, Dynamic Causal Ledger, and CivilizationMultiplier variables) represent foundational components rather than immutable laws. Stakeholders and researchers should anticipate regular updates that incorporate both new theoretical insights and real-world data. For example, parameters governing the calculation of 
+ and the formulae for 
+, 
+, and model governance decision flows are subject to refinement as algorithmic methodologies are stress-tested in further observational and interdisciplinary research phases.
+所描述的數學結構（包括 StellarEq 測量、動態因果記錄和文明倍數變數）代表基礎組成部分，而非絕對的定律。 參與者和研究人員應預期定期更新，這些更新將包含新的理論洞察和實際數據。 例如，控制 
+ 計算的參數以及 
+ 、 
+ 和模型治理決策流程的公式，都將隨著算法方法的實證研究和跨學科研究階段而進行調整。
+All usage, interpretation, and application of these Ontic systems should reference the most current version available. Subsequent versions—such as 1.1, 2.0, and beyond—will formally integrate structural optimizations, expanded cross-scenario calibrations (including all different StellarEq cases), and more robust empirical cross-validation. The aim is to move steadily toward a fully computable, observation-constrained civilizational operating system for governance.
+所有關於這些 Ontic 系統的應用、解釋和運用，都應參考最新的可用的版本。 之後的版本，例如 1.1、2.0 及以上，將正式整合結構優化、擴展的跨情景校準（包括所有不同的 StellarEq 情境），以及更穩健的經驗數據驗證。 目標是逐步發展出一套完全可計算、受觀察條件約束的社會運作系統，用以管理。
+Users, developers, and system architects are specifically advised that this publication is not a definitive legal or policy prescription, but a continuously updated technical foundation for future research and implementation. All rights for future evolution, update, and scientific correction are strictly reserved by the author and CoinJade Limited.
+用户、開發者及系統設計師應清楚知悉，這份文件並非法律或政策的最終指南，而是一個持續更新的技術基礎，用於未來研究和實施。作者及 CoinJade Limited 擁有未來發展、更新及科學修正的全部權利。
+Target Reader  目標讀者
+For computational governance architects, physicists, and post-political civilization analysts
+適用於計算治理的設計師、物理學家以及後政治社會分析師
+This research monograph is intended for advanced scholars, practitioners, and system designers at the intersection of quantitative political theory, econophysics, cybernetics, distributed systems, mathematical physics, and evolutionary civilizational studies. The primary audience comprises those seeking to interrogate, design, or implement rigorously computable frameworks for social power—a pursuit extending far beyond conventional political science or public administration.
+這份研究報告旨在供於高級學者、實務人士以及在量化政治理論、經濟物理、網絡理論、分散系統、數學物理和演化文明研究等領域的專家使用。主要目標是為那些希望深入研究、設計或實施嚴謹的計算框架，以理解社會權力——這遠遠超越傳統政治科學或公共行政領域的研究者。
+Specifically, the work will serve:
+具體而言，這項工作將有以下用途：
+- Architects of algorithmic governance platforms—particularly those building next-generation distributed decision modules, knowledge-ledgers, and model-driven parliaments. - Mathematical physicists and econophysicists exploring the convergence of energy formalism, statistical mechanics, and human systemic behavior, with a specific emphasis on converting socio-economic flows into absolute energy-equivalent metrics. - AI researchers and software engineers developing governance algorithms, distributed ledger protocols, or cybernetic systems requiring a mathematically closed and physically constrained approach to power allocation and anti-corruption. - Evolutionary theorists and civilization-scale strategists with a focus on closed-loop, post-ideological, and recursively auditable institutional architectures capable of resisting oligarchic, neo-feudal, or algorithmic totalitarian traps. - Political ontologists and philosophers of technology receptive to a dimensional shift away from social contract or class theory in favor of objective energy transfer models.
+- 建築師，專注於開發下一代分散決策模組、知識區塊和以模型為主的議會。 - 數學物理學家和經濟物理學家，研究能量形式、統計力學和人類系統行為的結合，特別關注將社會經濟流轉換為絕對能量等價的指標。 - 人工智慧研究人員和軟體工程師，開發治理算法、分散式記錄協議或需要數學上嚴謹和物理上受限的方法來分配權力和防止腐敗的網絡系統。 - 進化理論家和規模化的策略師，專注於能夠抵禦寡頭、新封建或算法統治的、循環、非意識形態和可審計的制度架構。- 政治哲學家和科技哲學家，傾向於從社會契約或階級理論轉向，以採用客觀的能量傳輸模型。
+This work assumes fluency with concepts such as dynamic causal graphs, open recursive computation, feedback-controlled energy systems, and the translation of qualitative human or institutional activity into absolute units (StellarEq, Joules). Familiarity with LaTeX-standard mathematical expression is presumed. Readers should be prepared to engage with a framework that systematically dismantles static, identity-based, or majoritarian political legitimacy in favor of real-time, empirically calibrated, mathematically computed flows of contribution and risk. Theoretical scenarios (e.g., different mapped use cases, interstellar resource regimes, anti-monopoly time decay) are provided not as speculative fiction but as essential test cases for auditing system resilience against civilizational-level failure modes.
+本研究假設讀者已熟悉如動態因果圖、開放遞迴計算、反饋控制的能源系統，以及將定性的人類或組織活動轉換為絕對單位的概念（例如，StellarEq、焦耳）。預期讀者已熟悉 LaTeX 標準的數學表達。讀者應做好準備，以參與一個系統性地拆解靜態、以身份為基礎或以多數為基礎的政治合法性的框架，以促進實時、經驗數據校準、數學計算的貢獻和風險流動。理論情景（例如，不同的應用場景、星際資源體系、反壟斷時間衰減）並非作為臆想性的故事，而是作為評估系統對文明層面的失敗模式的韌性的重要案例。
+For state architects, super-congress designers, or governance theorists preparing for the transition from subjective, analog-era institutions to civilization-operating-systems, this monograph delivers the design schema, mathematical rigor, and evolutionary protocol required to implement the Ontic Model in real or simulated environments.
+對於國家建築師、超級會議設計師，或致力於從主觀、傳統的制度轉向文明運作系統的理論家，這本著作提供所需的設計模式、數學嚴謹性和在實際或模擬環境中實施「Ontic 模型」的演化程序。
+Core Promise  核心承諾
+Mathematically audited energy-contribution metrics unlock dynamic, anti-oligarchic governance
+經審核的能源貢獻指標，有助於建立動態、反壟斷的治理模式。
+The Ontic Physical Computable Governance Causal Flow Formula delivers a definitive paradigm shift: it replaces all static and subjective value metrics across political, economic, and social systems with physically grounded, mathematically computable energy measures—specifically, the Stellar Equivalent (StellarEq), denominated in Joules and mapped to solar energy. In practical terms, every individual action, institutional output, and civilizational process is rendered as an empirically auditable unit of energy contribution or consumption, eliminating ambiguous notions of ‘value’ or ‘rights’ that underpin legacy systems rooted in identity, wealth, or majority preference.
+「Ontic 物理可計算治理因果流程公式」帶來一個明確的轉變：它取代了在政治、經濟和社會系統中所有靜態和主觀的價值指標，用物理上可測量的能量指標來取代，具體來説是「Stellar Equivalent」（StellarEq），以焦耳為單位，並與太陽能相關。在實踐中，每一個個人行為、機構產出和文明過程，都被呈現為一種可驗證的能量貢獻或消耗的單位，從而消除了以身份、財富或大多數人偏好為基礎的傳統系統中存在的含糊不清的「價值」或「權利」概念。
+This rigorous quantification is executed in real time through the dynamic recursive Causal Graph power structure. Power is not treated as a static right nor an entitlement arising from wealth or lineage. Instead, it is continuously recalculated as 
+, where both terms are physically grounded and cybernetically validated. 
+ is itself the aggregate output of individual, group, or institutional activity, transformed by StellarEq and recursively apportioned through EdgeWeight(t), a time-dependent, technical dependency-weighting system. 
+ encodes anti-feudal, anti-monopoly protection directly into the power economy by ensuring that original contributions physically decay in influence over time, via a mathematical TimeDecay function, thus precluding the consolidation of hereditary or cross-generational control.
+這個嚴謹的量化，透過動態遞迴的因果關係結構，實時進行。權力並非簡單的權利或來自財富或血統的權利。相反，它會不斷重新計算，即 
+ ，其中兩個條件都是實際存在的，並且經過網絡驗證。 
+ 則是個人、羣體或機構活動的總體產出，經過 StellarEq 的轉換，並透過 EdgeWeight(t) 進行遞迴分配，這是一個時間相關的、技術依賴權重系統。 
+ 透過數學函數 TimeDecay，直接將反封建、反壟斷的保護機制融入權力經濟中，確保原始貢獻隨著時間的流逝，實際上的影響力會衰退，從而阻止世襲或跨世代的控制。
+Ontic’s systemic promise is realized through explicit feedback mechanisms and open, distributed computation. Every proposal, innovation, or governance action is evaluated by its 
+ value: 
+ divided by 
+, both of which are iteratively updated from empirical measurement and probabilistic scenario analysis. The system’s Dynamic Causal Ledger records and recalibrates these flows, ensuring that only demonstrably productive and widely adopted decisions exert enduring influence, while redundant or regressive claims are phased out as their risk-adjusted NetEnergyGain dwindles.
+Ontic 系統的實施，透過明確的反饋機制和開放、分散的計算。 每個建議、創新或管理措施，都會根據其 
+ 值進行評估，該值是 
+ 除以 
+ ，而這兩個值會透過實質測量和概率性情景分析進行迭代更新。 系統的動態因果記錄，會記錄和重新校準這些流程，確保只有經過驗證的有效性和廣泛採用，才能產生持久的影響，而冗餘或倒退的説法，會在其風險調整後的淨能量收益降低時逐步淘汰。
+To ensure civilizational resilience and adaptability, every output is further filtered by the 
+—a composite metric amplifying or nullifying influence based on current levels of societal stability, human empowerment, and the capacity for collective cosmic judgement. If any of these critical dimensions deteriorates, the multiplier auto-downregulates power transmission, rapidly dismantling the impact of proposals or actors that risk systemic stagnation, dependency, or authoritarian expansion.
+為了確保社會的韌性和適應性，每一個輸出都會進一步經過 
+ 的篩選。
+ 是一種綜合指標，它會根據當前的社會穩定性、人類的賦權以及集體對宇宙的判斷能力，放大或消除影響。如果任何一個關鍵維度出現惡化，這個自動調節機制會迅速降低影響力，從而消除那些可能導致系統停滯、依賴或專制擴張的建議或行為。
+Crucially, the Ontic model is designed for distributed, evolutionary deployment. Its computable constitution overlays existing political and economic systems, requiring no revolutionary rupture, and iteratively absorbs and audits new data. The multi-phase protocol begins with ontology and data capture, builds into a distributed knowledge ledger, employs StellarEq-based tokenomics, and culminates in a model-governed parliament where the Power Flow Protocol executes algorithmic, recursive governance. This layered, feedback-driven architecture mathematically guarantees that power and legitimacy can only be maintained through ongoing, verifiable, and civilization-serving contributions, and that anti-corruption is enforced not by institutional decree but through the structural evolution and time-decay of influence encoded in the very operating system of civilization.
+關鍵而言，Ontic 模型的設計是為了在分散式、不斷演進的環境中運作。 它的計算基礎覆蓋現有的政治和經濟體系，無需進行根本性的變革，並不斷地吸收和審查新的數據。 這個多階段的協議從建立知識的分散式記錄開始，運用 StellarEq 基礎的代幣經濟學，並最終發展成一個由模型所控制的議會，其中「權力流動協議」執行算法和遞迴的治理。 這種分層、以回饋為導向的架構，數學上保證權力和合法性只能透過持續、可驗證、並為社會服務的貢獻來維持，並且反腐敗的實施並非透過制度性的命令，而是透過社會運作系統中內建的影響，以及時間衰減的結構演變來實現。
+2. Author Bio  2. 作者簡介
+2.1 Author Bio  2.1 作者簡介
+Architect of Ontic Political Ontology and StellarEq Energy Framework
+Ontic 政治知識體和 StellarEq 能源框架的設計師
+Sum Wan Fu is the principal architect behind the Ontic Political Ontology and the Stellar Energy Currency (StellarEq) framework, pioneering a transition from subjective political systems towards rigorously computable, physics-grounded governance. He directs CoinJade Limited and possesses a multidimensional academic foundation combining a Bachelor of Science with First Class Honours in Computing, a Bachelor of Computer Science (Honours), and a Bachelor of Mathematical and Computer Sciences specializing in Artificial Intelligence from the University of Adelaide.
+Sum Wan Fu 是「Ontic 政治語義」和「StellarEq」框架的主要設計者，他致力於將主觀的政治系統轉向嚴謹、基於物理的治理體系。他擔任 CoinJade Limited，並擁有來自阿德萊德大學的豐富學術背景，包括計算學學士（榮譽），計算學學士（榮譽），以及人工智能學士，並擁有計算學、數學和計算學的專業知識。
+With nearly a decade of professional experience, Sum Wan Fu has engineered robust, high-reliability systems at societal scale, notably developing the DH-PIDS Handheld Dispensing Application for comprehensive deployment across all Department of Health clinics in Hong Kong. His expertise bridges advanced artificial intelligence disciplines, including deep neural networks, genetic algorithms, and language modeling, with algorithmic cybernetics and mathematical optimization—toolsets directly leveraged in modeling Ontic's Causal Graph architectures and Computable Political Language.
+憑藉近十年的專業經驗，沈文福已成功設計出規模化、高可靠性的系統，特別是在香港生署所有診所全面應用 DH-PIDS 應用程式方面。他的專業知識涵蓋先進的人工智慧領域，包括深度神經網絡、基因算法和語言模型，以及算法控制和數學優化，這些技術直接應用於模擬 Ontic 的因果關係圖和可計算的政治語言。
+Recognizing the fault lines in legacy political orders exposed by the rise of automation and AI, Sum Wan Fu built Ontic's systemic architecture to preempt the formation of digital oligarchies and economically obsolete classes. By uniting physical energy mathematics, dynamic feedback control, and open evolutionary protocols, his contributions provide a rigorous blueprint that recalibrates governance as an exact science. The Ontic system—encompassing StellarEq unitization, Dynamic Causal Ledgers, Edge Weight anti-corruption algorithms, and the Civilization Multiplier—reflects his integrated vision where computational design and civilizational theory converge.
+認識到自動化和人工智能帶來的傳統政治體制問題，Sum Wan Fu 構建了 Ontic 的系統架構，旨在預防數位寡頭和經濟過時階層的形成。通過整合實體能源數學、動態回饋控制和開放演化協議，他的貢獻提供了一個嚴謹的藍圖，旨在將治理體現為一門精確的科學。Ontic 系統——包括 StellarEq 單位化、動態因果記錄、邊緣權重反貪腐算法以及文明倍增器——體現了他整合的願景，即計算設計與文明理論的結合。
+Sum Wan Fu's mission centers on leveraging distributed intelligence and dynamic, physics-based computation to advance civilization beyond the critical hazards posed by centralized authority and stagnant social contracts. His leadership evolves governance infrastructure from abstract ethical debate into continuous, mathematically grounded, and empirically auditable practice, positioning the Ontic framework at the frontier of transhuman political evolution.
+Sum Wan Fu 的目標是利用分散式智能和基於物理的動態計算，以超越由集中權力和僵化的社會契約所帶來的關鍵風險，進一步發展社會。他將治理基礎設施從抽象的倫理辯論轉變為持續、基於數學的、並可驗證的實踐，將 Ontic 框架置於超越人類政治演化的前沿。
+Collapse of Subjective Political Models
+主觀政治模式的崩潰
+Technological acceleration exposes fatal limits of legacy governance frameworks
+科技發展暴露了傳統管理框架的嚴重缺陷。
+The accelerating transformations of the 21st century—driven by artificial intelligence, pervasive automation, and the expanding horizontal reach of algorithmic systems—have brought the structural weaknesses of subjective political models into sharp relief. Institutional forms born from majority-rule democracy, capital-based governance, and the social contract are being undermined by forces they were never designed to regulate. These legacy architectures, for centuries anchored in identity, opinion, or the aggregation of private interests, face a crisis of internal logic under contemporary conditions of speed, complexity, and machine-led societal integration.
+二十一世紀加速變革——由人工智能、普遍自動化以及演算法系統的擴大應用所驅動——已將主觀政治模型的結構性弱點暴露出來。基於多數決民主、資本主義治理以及社會契約的制度形式，正受到設計來規管它們的勢力所影響。這些歷史悠久的架構，長期以來以身份、觀點或個人利益的總和為基礎，正面臨在當今的快速、複雜以及由機器主導的社會整合的條件下，面臨內部邏輯危機。
+First, majoritarian democracy—nominally the gold standard of political legitimacy—suffers a critical incapacity to process the knowledge, data velocity, and technical causality now at play in social systems. Voting cycles are infrequent and disconnected from real-time decision environments. Voter aggregation reduces nuanced causal knowledge to binary choices, while the computational bottleneck of mass consent precludes the dynamic reallocation of authority in response to actual contribution, as demanded by real-time cybernetic systems.
+首先，普選制度——作為政治合法性的標準——在處理當今社會系統中出現的知識、數據速度和技術因果關係方面存在根本性的缺陷。選舉週期較為不頻繁，與實時決策環境脱節。選民的彙總，會將細緻的因果知識簡化為二元選擇，而大規模共識的計算瓶頸，則阻礙了根據實際貢獻動態重新分配權力的能力，這正是實時網路系統所要求的。
+Second, capital-monopoly frameworks—whether capitalist market economies or their technocratic variants—derive legitimacy and power distribution from static property allocation and historic resource accumulation. In a world where capital increasingly comprises intangible code, patents, and algorithmic platforms, centralized capital flows ossify into enduring digital monopolies. This leads to accelerating wealth polarization, class entrenchment, and the emergence of a 'useless class'—millions rendered redundant by automation, whose labour and agency decouple from value creation. The result is systemic instability: asset returns accrue to inherited capital, while productive participation is locked out by access barriers coded into the very algorithms that shape the market.
+其次，以資本為主的框架——無論是資本主義市場經濟還是其技術型變體——從靜態的財產分配和歷史資源的積累中獲得合法性和權力分配。在資本日益轉向無形碼、專利和演算法平台的時代，集中式的資本流會轉變成持久的數位壟斷。這導致財富日益集中，階級固化，以及「無用階層」的出現——數百萬人因自動化而變得多餘，他們的勞動和自主性與價值創造脱節。這種結果是系統的不穩定性：資產的回報歸於繼承的資本，而生產性參與則受到市場演算法中編碼的訪問障礙的限制。
+Third, the social contract model—stretching back to Rousseau, Hobbes, and Locke—relies on implicit consensus among subjects of the polity. Yet as networked platforms and automated decision-making expand, the boundaries of 'the social' blur, and contractarian assumptions lose explanatory and operational power. There is no credible procedural path to social consensus when millions interact at light speed within algorithmically segmented realities, and when power is mediated not by negotiation, but by hard-coded default rules and invisible computational feedback loops.
+第三，基於羅斯洛、霍布斯和洛克的社會契約理論，強調的是政權成員之間的默認共識。然而，隨著網路平台和自動決策系統的發展，"社會"的界限變得模糊，而契約論的解釋力和實用性也逐漸減弱。當數百萬人在算法劃分的現實中以極快的速度互動，且權力並非通過談判來實現，而是通過硬編碼的預設規則和隱藏的計算迴路來實現時，沒有可行的程序性途徑來達成社會共識。
+Compounding these foundational deficits is the rising dominance of platform states and global digital currencies (e.g., Bitcoin, Ethereum, corporate stablecoins). These demonstrate that political-economic power can migrate seamlessly outside the reach of territorial law and mass electoral will. Social media, fintech, and AI governance frameworks cooperate to establish governance architectures which are neither transparent nor recursively accountable to their affected populations. These systems exacerbate Hayek’s knowledge problem—central authorities are unable to compute or process the distributed, tacit facts of societal life—while simultaneously depriving citizens of meaningful input into rule formation or modification.
+這些基礎性問題的加劇，是由平台國家和全球性數碼貨幣（例如：比特幣、以太坊、企業穩定貨幣）的崛起所帶來的。這顯示出政治經濟權力可以無縫地從傳統的領土法和全民選舉之外轉移。社交媒體、金融科技和人工智能的治理框架，協同合作，以建立一種既不透明，也不會對受影響的人羣產生遞迴問責制的治理架構。這些系統，加劇了海耶克的知識問題——中央權力無法計算或處理社會生活的分散、默認的事實，同時又剝奪了公民參與規則制定或修改的機會。
+The combined result is a bifurcating trajectory for human societies: on one branch, the rise of digital oligarchies—algorithmically enforced class structures, where rule is exerted by capital owners via code, not consent; on the other, the prospect of algorithmic soft totalitarianism—digital communism by default, as mass populations subsist in dependency on universally distributed basic income and platform-administered services, without any mechanism for true civilizational empowerment.
+綜合而言，人類社會面臨兩種可能發展途徑：一方面，數位寡頭的崛起——透過程式碼施加的階級結構，由資本所有者控制，而非通過共識；另一方面，算法式的「軟式」專制統治的可能性——即通過普遍分發的基本收入和平台提供的服務，讓大眾社會依賴，而沒有任何真正賦予社會發展的力量的機制。
+These failures are not mere problems of management or ethics, but intrinsic limitations of subjective, identity-driven power systems. They lack the physical and mathematical infrastructure to solve the primary challenge of post-industrial governance: distributing power, resources, and responsibility in exact, causally grounded proportion to objectively measurable social and economic contribution. Thus, a new framework—computable, physically anchored, and cybernetically self-correcting—is required to prevent both hereditary oligarchy and algorithmically enforced human obsolescence.
+這些失敗並非僅僅是管理或倫理問題，而是主觀、以身份為基礎的權力系統固有的侷限性。 這些系統缺乏必要的物理和數學基礎，無法解決工業化社會的根本挑戰：以客觀可測量的社會和經濟貢獻為基礎，準確地分配權力、資源和責任。 因此，需要一個新的框架，這個框架是可計算的、物理上可執行的，並且具有網絡自我校正功能，以防止世襲寡頭統治和算法強制的人類淘汰。
+3. Ontic Political Ontology and Core Power Formula
+3. 實體政治學及核心權力公式
+3.1 Political Ontology: Energy, Not Ideology
+3.1 政治形狀：能源，而非意識形態
+All political agency quantified as energy exchange in living systems
+所有政治活動都可視為生物體內能量的交換
+Traditional political frameworks—grounded in social contract theory, majoritarian voting, or capital-based rule—define power through subjective interests, inherited identities, or static economic assets. The Ontic approach marks a decisive rupture with these legacies, advancing a rigorous political ontology in which all governance processes are strictly analyzed as flows of energy among biological agents. Political action, in this framework, is not an exercise of symbolic representation or ideological competition but a quantifiable, recursive network of energy conversion and transfer.
+傳統的政治框架，基於社會契約理論、多數決或資本主義，定義權力，並以此為基礎，權力是基於主觀利益、繼承的身份或靜態的經濟資產。這種「Ontic」方法，代表著與這些傳統的顯著轉變，它提出了一個嚴謹的政治學理論，其中所有治理過程都被視為生物體之間的能量流。在這種框架下，政治行動並非僅僅是象徵性的代表或意識形態的競爭，而是一種可量化的、循環的能量轉換和傳遞網絡。
+At the foundation of this ontology is the Stellar Equivalent (StellarEq), an absolute energy metric measured in Joules and universally referenced to solar energy. This metric enables the projection and calculation of energy input, output, and net transfer across different distinct societal scenarios, encompassing micro-level activities (such as labor, nutrition, cognitive work) and extending upward to macro processes (such as resource allocation, economic production, technological progress, and interstellar development). Every instance of political power, authority, or agency must therefore be reduced to mathematically computable terms: which input of energy results in what output, across which biological or civilizational systems, over which timeframes.
+這個知識框架的基礎是「恆星等值」(StellarEq)，是一種以焦耳為單位的絕對能量指標，並與太陽能相關。這個指標能夠預測和計算不同社會情境下的能量輸入、輸出和淨轉移，涵蓋微觀層面的活動（如勞動、營養、認知活動），並擴展至宏觀層面（如資源分配、經濟生產、科技進步和星際發展）。因此，任何形式的政治權力、權威或自主性，都必須被簡化為可計算的數學術語：即，哪種能量輸入會產生什麼輸出，在哪些生物或文明系統中，以及在什麼時間範圍內。
+This ontological redefinition explicitly rejects the legitimacy of power based on birthright, static property, identity group, or popularity. It similarly declines Marxian and contractarian frameworks that rely on class, ideology, or consensus. Authority within the Ontic system derives exclusively from the demonstrable physical reality of net energy contributed and adopted. Power is dynamically produced and always calculated at time t as:
+這個本體論上的重新定義，明確地否定了基於出身、靜態財產、身份羣體或人氣的權力。它同樣否定了基於階級、意識形態或共識的馬克思主義和契約論框架。在 Ontic 系統內，權力完全來自於實際存在的、被接受的淨能量。權力是動態產生的，並且在時間 t 處計算如下：
+Here, 
+ is recursively tallied via the Causal Graph structure that traces each theoretical or practical innovation’s energy impact, while 
+ quantifies the extent to which a proposal or action is integrated by collective systems. Both dimensions are iteratively measured in StellarEq, enabling an unbroken audit trail of causation and actual societal transformation.
+在這裡， 
+ 透過「因果關係圖」結構，會遞迴地計算每項理論或實用創新的能源影響；而 
+ 則量度某建議或行動，在羣體系統中的整合程度。兩者都透過 StellarEq 進行迭代性測量，從而實現因果關係和實際社會變革的完整追蹤。
+For example, a scientific innovation that enables more efficient food production is valued precisely by its net energy gain for the system, minus demonstrable risks, not by the prestige or identity of its proponent. Similarly, governance decisions are weighted only by their capacity to maximize net energy output and their actual adoption rate within civic or economic processes, as recorded on the dynamically updating distributed ledger.
+例如，一種能夠提高食物生產效率的科學創新，其價值在於其對整個系統的淨能量增益，減去可觀察的風險，而非其推廣者的聲譽或身份。同樣地，決策的價值僅取決於其最大化淨能量產出的能力，以及在公眾或經濟過程中實際的實施速度，這都記錄在動態更新的區塊鏈上。
+In this sense, the Ontic political ontology both narrows and universalizes the grounds upon which power and legitimacy operate: any actor—individual, team, or AI—can acquire influence only by verifiably increasing net available energy for the living system. Continuous feedback, time decay, and open causal graph mapping ensure that all political capital is transient, empirically verifiable, and subject to dilution as new contributions arise. The result is an anti-aristocratic, anti-plutocratic, and post-ideological system architecture, rigorously governed by the physicalist logic of energy transfer rather than subjective social values or identity markers.
+從這個角度來看，Ontic 的政治形狀學既將權力和合法性的基礎縮窄，又使其具有普遍性：任何實體——個人、團隊或人工智能——只能通過可驗證地增加生命系統的可用總能量來獲得影響力。持續的反饋、時間衰減和開放的因果關係圖，確保所有政治資源都是暫時的、可驗證的，並且會隨著新貢獻的出現而逐漸稀釋。這導致一種反等級、反資產主義和超越意識形態的系統架構，嚴格地由能量傳輸的物理邏輯所規範，而不是主觀的社會價值或身份標記。
+3.2 StellarEq: Mechanism, Metric, and Applications
+3.2 StellarEq：機制、指標及應用
+Solar-Equivalent Energy as the Universal Political Metric Across Different Scenarios
+StellarEq (Stellar Equivalent) constitutes the foundational metric of the Ontic framework by translating all political, economic, and social values into an absolute, physically rigorous unit: Joules, mapped to solar energy equivalents. This universal translation enables complex societal phenomena—ranging from an individual’s labor to civilizational-scale projects such as interplanetary resource allocation—to be reducible to a singular, objective denominator. By design, the StellarEq establishes a dimensional bridge across the full spectrum of different application scenarios delineated in the Ontic protocol, ensuring that allocation and assessment remain mathematically consistent, scenario-agnostic, and free from subjective or cultural distortions.
+StellarEq (恆星等值) 乃 Ontic 框架的基礎指標，透過將所有政治、經濟及社會價值轉換為一個絕對、實體嚴謹的單位：焦耳，並將其與太陽能等值對應。 這種普遍的轉換，使複雜的社會現象——從個人的工作到星際資源的分配等規模的項目——都能被簡化為一個單一、客觀的參考值。 StellarEq 旨在建立一個跨越 Ontic 協議中定義的所有不同應用場景的維度橋樑，確保分配和評估在數學上保持一致、不受場景影響，並免受主觀或文化偏誤。
+The mechanism of StellarEq operates via explicit energy-mapping functions. All material and immaterial outputs—food, electricity, monetary transfer, computational labor, cognitive innovation, or social infrastructure—are parsed into their absolute solar energy equivalent. For instance, an hour of highly skilled theoretical research is encoded as the Joule-equivalent cost to generate, sustain, and apply the neural metabolic processes within a human brain, discounted for infrastructural and technological multipliers. A resource such as food intake is mapped as the total solar energy required for agricultural production, transit, and consumption, fully traced from stellar input to biological output. Monetary transactions are similarly decomposed: currency use is validated only as an energy-accounting proxy, contingent on mapping all transactions through supply-chain energy flow audits (e.g., capital deployed for building infrastructure ultimately resolves to embodied energy within physical and cognitive labor, materials extraction, and temporal depreciation).
+The StellarEq transformation operates as an absolute dimensional converter. Rather than computing net value at the foundational level, it strictly converts the raw, objective energy of any activity, resource, or consequence 
+ at time 
+ into the universal political currency. It is formalized as:
+Where 
+ represents the objective, physically measured energy of the specific activity (whether it is energy consumed as a cost or energy saved/generated as a benefit), and the 
+ is the absolute system constant that calibrates Earth-based Joules to the standardized cosmic solar equivalent. By utilizing this pure dimensional converter at the base layer, the Ontic architecture ensures that both 
+ and 
+ can be aggregated seamlessly in universally comparable units, setting the stage for the mathematically rigorous calculation of 
+ higher up in the causal governance circuit.
+Scenario coverage is comprehensive. At the micro scale, individual decisions—such as optimizing a software algorithm or designing an energy-saving device—are converted into StellarEq absolutes to evaluate their contribution to systemic energy efficiency. At the macro scale, national or planetary strategies—say, reallocating energy infrastructure from fossil fuels to solar power, investing in educational cognitive capacity building, or executing interstellar probe missions—undergo identical StellarEq conversion. For social or political actions not directly physical, StellarEq leverages extended cybernetic mappings: social mobilization, knowledge-production, or cumulative organizational learning are assigned energy-equivalent valuations by tracking their direct and indirect impacts on overall civilizational energy efficiency or entropy reduction.
+Importantly, StellarEq’s universality eliminates the historical pathologies of subjective value, fiat currency manipulation, or political rent-seeking based on identity or narrative. All rights, privileges, and power allocations in the Ontic system are computed on the basis of validated energy-contributions, ruthlessly audited and recursively updated via empirical environmental and operational data. The StellarEq mechanism therefore disallows static ownership or perpetual monopoly: all influence is time-bound, empirical, contextual, and globally cross-comparable, mathematically negating class entrenchment and the ossification of power.
+此外，StellarEq 的普適性，消除了基於主觀價值、法定貨幣操縱或基於身份或敍事而產生的政治利益尋求的歷史問題。在 Ontic 系統中的所有權、特權和權力分配，都基於經過驗證的能量貢獻，並經過嚴格的實證數據審核和遞歸更新。因此，StellarEq 機制禁止靜態所有權和永久壟斷：所有影響都是時間限制的、實證的、情境的，並且可以在全球範圍內進行比較，從而消除了階級固化的現象以及權力的僵化。
+Applications of StellarEq span governance, economics, legal adjudication, and evolutionary optimization. Decision protocols within the Ontic system require every proposed policy, product, or institutional change to submit a StellarEq impact statement—quantifying total net energy gain (or loss) and establishing risk boundaries as a function of potential StellarEq loss. Distribution of political power, resource access, and civilizational advancement all scale commensurately with empirically registered StellarEq contributions. In effect, StellarEq transforms society into a solar-cybernetic organism, where survival, flourishing, and legitimacy are continuously recalibrated against the objective metric of cosmic resource conversion efficiency.
+StellarEq 的應用範圍涵蓋治理、經濟、法律裁決以及演化優化。在 Ontic 系統內，所有建議的政策、產品或組織變革都需要提交一份 StellarEq 影響聲明，以量化總淨能量的增減，並根據潛在的 StellarEq 損失，確立風險邊界。政治權力的分配、資源的獲取以及文明的進步，都與 empirically 記錄的 StellarEq 貢獻成比例。實際上，StellarEq 將社會轉變為一個太陽能-網路的生物，其中生存、繁榮和合法性，不斷根據宇宙資源轉換效率的客觀指標進行調整。
+To summarize: StellarEq is the mechanistic and mathematical backbone of Ontic’s computable governance, collapsing ideological, social, and economic disputes into a rigorous, dimensionality-reduced energy calculus. By enforcing a universal metric, it enables seamless translation of micro-level intentions into macro-civilizational outcomes, and vice versa, binding all political and social processes to physically computable, empirically auditable, and recursively adaptive standards.
+總而言之，StellarEq 乃 Ontic 運作的基礎，它將意識形態、社會和經濟上的爭論，轉化為一種嚴謹、經過縮減的能量計算。通過實施一套統一的標準，它能夠將微觀層面的意圖，無縫地轉化為宏觀的文明結果，反之亦然，並將所有政治和社會過程，與實質可計算、可驗證、以及可遞歸適應的標準聯繫起來。
+3.3 Power Flow Equation and Causal Graph Structure
+3.3 功率流方程及因果關係圖結構
+Definition of the Political Energy Formula
+政治能量公式的定義
+The Political Energy Formula (PEF) Framework
+政治能量框架 (PEF)
+Within the Ontic political ontology, the "Political Energy Formula" is not a singular, closed mathematical expression, but rather an open, extensible, and axiomatic mathematical framework—the absolute "laws of physics" for civilizational governance. It fundamentally redefines all human political, economic, and social activities as measurable energy exchanges between biological entities.
+在「Ontic」的政治形而上學框架下，「政治能量公式」並非一個單一、靜態的數學表達式，而是一個開放、可擴展、並基於公理的數學框架——這可以被視為社會發展的絕對「物理法則」。它根本上重新定義了所有人類的政治、經濟和社會活動，將其視為生物體之間的可量化的能量交換。
+Currently, this foundational framework is anchored by several core equations, including but not limited to: 1. The Stellar Equivalent (StellarEq) Formula: The absolute baseline equation that executes a dimensional collapse, converting all heterogeneous civilizational activities and resources into unified, computable solar energy units (Joules). 2. The Root Power Equation: The dynamic cybernetic equation (
+) that computes how validated energy contributions translate into real-time political influence.
+目前，這個基礎框架主要基於多個核心方程式，包括但不限於：1. 恆星等價 (StellarEq) 公式：這是一個基線方程式，能夠將所有不同類型的文明活動和資源轉換為統一的、可計算的太陽能單位（焦耳）。2. 根源權力方程式：這是一個動態的網絡方程式 ( 
+ )，用於計算經過驗證的能量貢獻如何轉化為實時的政治影響力。
+Continuous Evolution and Future Extensibility: As a living "Civilization OS," the Political Energy Formula framework is explicitly designed for continuous evolution. In the future, system architects, physicists, and distributed participants will continue to derive and develop new Political Energy Formulas. These future equations will be engineered to compute increasingly complex dimensions of transhuman coordination, macro-resource allocation, and interstellar energy optimization.
+持續發展與未來擴展：作為一個「政治能量公式」的「動態系統」，這個框架明確地旨在持續發展。未來，系統設計師、物理學家以及分散參與者將繼續推導和發展新的政治能量公式。這些未來公式將被設計用於計算越來越複雜的超人類協調、宏觀資源分配以及星際能源優化。
+The Core of the Computable Political Language: Crucially, in the future, the Computable Political Language (CPL) will utilize the Political Energy Formula as its absolute computational core. Just as the steam engine relies strictly on the underlying laws of classical mechanics (F=MA) and thermodynamics to generate physical momentum, the CPL will function as the "civilizational engine." It will use the Political Energy Formulas to rigorously verify hypotheses, execute the algorithmic Power Flow Protocol, and compute the optimal energy configuration for the entire civilization.
+Formalizing political power as the cybernetic intersection of dynamic energy transfer and civilizational evolution:
+The Ontic model fundamentally reconceptualizes political power by abandoning subjective legitimacy, identity-based voting, or capital accumulation. Instead, it substitutes an explicitly computable, auditable, and cybernetic mechanism for power attribution rooted in physics. Within this architecture, power at any given time 
+ is defined by the Root Power Equation:
+where 
+ quantifies the real-time proportion of system participants merging and adopting the proposal within the distributed super-congress, and 
+ serves as the rigorously evaluated measure of a node's true civilizational value.
+Crucially, the 
+ factor is not a mere aggregate of economic or practical outputs. Rather, it represents the transformative intersection of two distinct dynamic systems, transmuting politics from subjective power struggles into computable theoretical engineering. It is formally defined as:
+
+重要的是， 
+ 係唔係單純經濟或實用效益嘅總和。相反，佢代表兩個獨立嘅動態系統之間嘅轉變，將政治從主觀權力鬥爭轉化為可計算嘅理論工程。佢正式定義如下：
+These two dynamic halves intersect to produce the true political contribution of any proposer:
+1. The Absolute Physical Energy Ledger (
+): The first half of the equation calculates the absolute net StellarEq (Stellar Equivalent) energy value generated by the proposal. It sums the recursively auditable physical and economic outputs across the dynamic causal graph—incorporating direct theoretical value, applied engineering, and market scaling—while tracing derivative causal value through dynamic edge weights. This causal ledger summation is expressed as:
+The foundational component, 
+, operates as a real-time risk-adjusted energy audit. Its value is not permanently bought out but continuously recalculated:
+ 
+* 
+ computes the immediate physical profit/loss of the social action: 
+. * 
+ 
+. The weights 
+ are dynamic, reflecting the civilization's shifting systemic needs across different epochs (e.g., prioritizing food production during crises versus education during peacetime). * 
+ 
+, aggregating the dynamic societal and planetary costs. * 
+ updates via big data to forecast catastrophic potential: 
+.
+As theoretical models translate into applied technology and market goods, they generate the 
+ (
+) and the 
+ (
+).
+To prevent cross-generational monopolies and the entrenchment of neo-feudal privilege, the derivative value of these practical and economic nodes is filtered through the Causal Edge Weight (
+):
+ 
+ 
+This formulation elevates the Ontic system into a closed-loop cybernetic entity. It computes the precise proportion to which the 
+-th generation theory (
+) successfully derived the optimized 
+ through the distributed parliament's verification. Over time (
+) and with the stacking of new technological dependencies (
+), the historical edge weight obeys discrete mathematical limits to organically dilute. This strict recursive operation forcibly releases massive derivative StellarEq energy back into the public knowledge domain, physically crushing capital or totalitarian hereditary accumulation.
+為了防止跨世代壟斷以及新式封建特權的固化，這些實用和經濟樞紐的價值會通過「因果邊緣權重」（ 
+ ）進行過濾。這種形式將「Ontic 系統」提升為一個閉迴路型的網絡系統。它計算出第 
+ 代理論（ 
+ ）通過分散式議會的驗證，成功地獲得了優化的 
+ 的確切比例。隨著時間的推移（ 
+ ）以及新技術依賴的堆積（ 
+ ），歷史邊緣權重會按照離散數學的限制，自然地稀釋。這種嚴格的遞迴運算，強迫性地將巨大的「StellarEq」能量釋放回公共知識領域，從而強迫資本或專制世襲式積累。
+2. The Evolutionary Civilization Filter (
+): The second half of the Contribution equation acts as a relentless longitudinal health monitor. It continuously audits whether the absolute energy flow aligns with the highest teleological goals of human evolution:
+
+2. 進化的文明篩 ( 
+ ): 貢獻方程式的第二部分，作為一種持續的長期的健康監控系統。它不斷地檢查，絕對的能量流是否與人類進化的最高目的相符：
+This multiplier is the ultimate mathematical defense against utopian traps and totalitarian containment. If a static policy—such as an AI-administered universal basic income coupled with virtual reality containment—generates massive short-term economic StellarEq (yielding an extremely high 
+), it might initially appear successful. However, if longitudinal data (audited at time 
+) reveals a degradation in human autonomy and a collapse in cosmic truth-seeking, the 
+ collapses toward zero. By multiplying these two dynamic systems together, the equation mathematically obliterates the proposer's true political contribution, instantly stripping the policy of its systemic power and forcing civilizational recalibration.
+這個係數是一種數學上的防禦，可以抵禦烏託邦式的陷阱和極權主義的控制。如果一種靜態政策——例如，由人工智能管理的普遍基本收入，與虛擬現實的控制結合——產生了巨大的短期經濟效益（例如，極高的 
+ ），那麼它可能會在初期看起來是成功的。然而，如果長期數據（在 
+ 進行審查）顯示出人類自主性的退化和對宇宙真理的喪失，那麼 
+ 將趨向於零。通過將這兩個動態系統相乘，這個公式數學上徹底地消滅了提議者的真實政治貢獻，並立即剝奪了該政策的系統力量，迫使文明進行調整。
+Through this cybernetic intersection, the Ontic Power Flow Equation ensures that political power is strictly allocated to active, empirically validated energy contributions that simultaneously elevate the transhuman evolutionary trajectory, permanently shielding humanity from static class structures and algorithmic obsolescence.
+透過這個網絡系統，「Ontic Power Flow Equation」確保政治權力嚴格地分配給實際、經過驗證的能量貢獻，同時促進人類的變遷，並永久性地保護人類免受靜態的階級結構和算法的淘汰。
+3.4 Recursive Contribution Calculation
+3.4 遞迴貢獻計算
+Algorithmically tracking dynamic energy value through Causal Graph recursion
+透過因果關係迴圈，演算法性地追蹤動態能量值
+The Ontic system formalizes political contribution as a rigorously computable process, governed by a recursive algorithm that traces each node’s impact—Theory, Practice, and Economy—through unfolding time and network structure. Unlike static, one-time assignment of value or influence, the recursive contribution mechanism continuously audits and reallocates political power, ensuring that every gain must be dynamically proven by energy-equivalent (StellarEq) output and successfully adopted theory.
+Ontic 系統將政治捐款視為一種嚴謹的計算過程，並採用一種遞迴演算法，該演算法會追蹤每個節點對「理論、實踐和經濟」的影響，並隨著時間的流逝和網絡結構的變化而運作。與靜態、一次性的價值或影響分配不同，這種遞迴的捐款機制會持續審核和重新分配政治權力，確保每一次的利益都必須通過能量等價 (StellarEq) 產出的動態證明，並成功地應用於理論。
+At its mathematical core, the contribution value for each node, 
+, is calculated as a sum of all direct and indirect causal edges across the Causal Graph. Each instance of political intervention—be it original theoretical proposal, practical implementation, or market impact—is assigned a node. These nodes interlink via causality, and each link is weighted according to its dependency (the path fraction among all dependencies) and time decay, a crucial anti-oligarchic innovation. Formally, the recursive contribution of node n at time t can be summarized as:
+在數學上，每個節點 
+ 的貢獻價值，是通過在因果圖中計算所有直接和間接的因果關係總和。無論是最初的理論性建議、實施或市場影響，都將被賦予一個節點。這些節點通過因果關係相互連接，並且每個連接的權重取決於其依賴關係（所有依賴關係中的路徑比例）和時間衰減，這是一種重要的反寡頭壟斷的創新。形式上，在時間 t，節點 n 的遞歸貢獻可以總結如下：
+ 
+Here,
+ 
+ensuring that as the influence of a node propagates forward—whether through theoretical derivation, practical applications, or economic consequences—it is proportionally and temporally diluted. TimeDecay, often modeled as exponential or sigmoid decline, guarantees no contribution retains permanent privileged status; all intellectual property and energy claims gradually revert to the collective as new advances arise.
+在這裡，
+ 
+確保隨著資訊從一個節點傳播出去——無論是透過理論推導、實用應用或經濟影響——其影響會隨著時間的流逝而逐漸減弱。TimeDecay，通常以指數或對數形式模擬，保證任何獨有的權利或知識產權，隨著新進步出現，會逐漸歸於羣體。
+This recursive process spans three principal node categories: - TheoryNode: Quantifies original theoretical breakthroughs, measured as net StellarEq energy unlocked minus risk, normalized over adoption across the graph. - PracticeNode: Encapsulates the efficacy and scale of practical realization, dynamic weighting given to real-world adoption and loss mitigation. - EconomyNode: Aggregates market-scale scaling, profit, and systemic utility—again, strictly in StellarEq, immune to monetary distortion.
+這個遞迴過程涵蓋三個主要節點類別： * **理論節點：** 記錄原始理論的突破，以已解鎖的淨 StellarEq 能量減去風險，並根據在整個圖形中的採用程度進行標準化。 * **實踐節點：** 包含實際實施的有效性和規模，並根據真實世界的採用和風險降低進行動態加權。 * **經濟節點：** 匯集市場規模、利潤和系統性效益——同樣，完全基於 StellarEq，不受貨幣變動的影響。
+A concrete worked scenario: a new solar technology (TheoryNode) is developed and implemented (PracticeNode) across different energy grids (EconomyNodes). Each subsequent application node inherits a proportion of the root’s contribution via the causal weight and time decay, and if a refinement or substitute emerges downstream, the edge weight for the original diminishes further. If energy output or practical sustainability falls out of relevance, contributions rapidly approach zero, ensuring only actively empowering nodes hold significant value.
+一個具體的應用場景：一種新的太陽能技術 (TheoryNode) 被開發並應用於不同的能源網絡 (EconomyNodes)。 隨後應用於每個網絡的節點，會繼承一部分從根節點的貢獻，透過因果權重和時間衰減。 如果下游出現改進或替代方案，則原始節點的權重會進一步降低。 如果能源產出或實際的可持續性變得不相關，貢獻會迅速接近零，確保只有積極增強的節點才具有重要的價值。
+Recursive calculation guarantees full backward traceability, supporting transparent power audits. As the system evolves, the entire distributed ledger can recalculate all historical contributions at each epoch using current data and algorithmic rules, producing a living, self-correcting record. This is the algorithmic mechanism that replaces static office, capital accumulation, or inherited power: power flows only to nodes—and thus individuals or collectives—whose interventions are demonstrably productive, adopted, and causally sustained in the StellarEq network. Through this recursive design, the Ontic framework closes the feedback loop between action, consequence, and civilizational empowerment.
+遞迴計算確保完全的可追溯性，並支援透明的電力審核。隨著系統的發展，整個分散式賬本可以利用當前的數據和演算法規則，在每個時段重新計算所有歷史貢獻，從而產生一個生動、自我修正的記錄。這是一種取代靜態機構、資本積累或繼承權力的演算法機制：權力僅流向那些其幹預在 StellarEq 網絡中明顯、被採用並具有因果關係的節點——即個人或團體。透過這種遞迴設計，Ontic 架構實現了行動、後果和文明賦權之間的迴圈反饋。
+4. Anti-Corruption and Dynamic Equity Mechanisms
+4. 應對貪腐及動態公平機制
+4.1 EdgeWeight and TimeDecay Functions
+4.1 邊界權重及時間衰減函數
+Mathematical safeguards against monopolistic power and perpetual privilege
+數學上的方法，以防止壟斷權力及其永久性特權
+In the Ontic system, the distribution and dilution of political power is enforced through two linked mathematical constructs: the 
+ function and the TimeDecay factor. Together, they systematically prevent the persistent concentration of power and value within individual actors, families, or corporate structures across generations—a direct and measurable break from traditional feudal, capitalist, or static elite models.
+在 Ontic 系統中，權力和價值的分配和稀釋透過兩個相關的數學模型來實現： 
+ 函數和時間衰減因子。這兩個模型系統性地防止權力和價值在個人、家庭或企業結構中，在不同世代之間持續集中，這是一種與傳統的封建、資本主義或靜態精英模式的直接且可量化的差異。
+ quantifies the dynamic share of power, influence, or value apportioned to any given contributor (node) along a Causal Graph. This graph models all theoretical, practical, and economic activities as directed relations flowing from root contributors through successive innovation layers. Every edge in this recursive graph carries a weight that determines how much of the cumulative output remains attributable to the original contributor at time t.
+ 衡量了在因果圖中，任何一個參與者（節點）所擁有的權力、影響力或價值，以及這些價值在不同創新層次中的分佈情況。這個圖模擬了所有理論、實務和經濟活動，以有向關係的形式，從主要參與者開始，然後逐步擴展到後續的創新層。這個遞迴圖中的每一條邊都有一個權重，決定了在時間 t，原始參與者所產生的總體產出中，有多少部分仍然可以歸因於該原始參與者。
+Formally, 
+ is defined as follows:
+正式地， 
+ 定義如下：
+ 
+Here, DependencyPath_n denotes the unique, technically necessary chains of knowledge, theory, or resource on which current outputs depend, while TotalDependencies aggregates all active input paths. This ensures derivative or plagiaristic claims dilute rapidly, while true technical advances retain proportional but decaying recognition.
+在這裡，「DependencyPath_n」代表目前產生的結果所依賴的獨特、技術上必須的知識、理論或資源的連鎖，而「TotalDependencies」則匯總所有活躍的輸入途徑。 這樣可以確保抄襲或剽竊的聲譽會迅速消退，而真正的技術進步則會保持相對的、但逐漸減弱的影響力。
+The critical innovation is the TimeDecay function. Traditional systems—whether patent, intellectual property, or family inheritance—allow asset and privilege retention essentially in perpetuity. Ontic mathematically inverts this. The TimeDecay function is strictly decreasing: it forces the proportional influence or rights of any contribution to wane over time, regardless of attempts at asset hoarding or artificial extension. Canonical forms include exponential decay:
+關鍵的創新是「TimeDecay」函數。傳統系統——無論是專利、知識產權還是家族遺產——基本上允許資產和權利永久保留。而 Ontic 則數學上反向這種做法。 「TimeDecay」函數嚴格地會隨著時間的推移而遞減，無論是否嘗試囤積資產或人工延長。常見的形式包括指數遞減：
+where 
+ defines the decay rate and 
+ the origination time. This mirrors physical principles, such as radioactive decay or resource dissipation, ensuring even the most foundational contributions eventually revert their full value to the public domain.
+其中 
+ 定義衰變率，而 
+ 則代表發生的時間。這與物理原理相符，例如放射性衰變或資源流失，確保即使是最基礎的貢獻最終都會歸還到公眾領域。
+Consider a theory node introduced at 
+. After 10 time units, with 
+, its ongoing claim becomes exponentially small—preventing any class, enterprise, or lineage from extracting disproportionate StellarEq value without sustained new contributions.
+考慮一個在 
+ 引入的理論節點。經過 10 個時間單位，當 
+ 發生時，其持續的權益會呈指數式縮小，從而防止任何類別、企業或血統從未持續的全新貢獻中獲取不成比例的 StellarEq 價值。
+Integrating EdgeWeight and TimeDecay effectively severs the possibility of cross-generational class monopoly. As the Causal Graph expands and technical dependencies diversify, even initially dominant nodes see their influence distributed, then evaporate toward the commons. No static privilege remains, regardless of wealth, political control, or network engineering. Thus, long-term civilizational equity is mathematically enforced—not by human discretion, but as an explicit property of the governance protocol.
+通過有效地整合 EdgeWeight 和 TimeDecay，可以有效地防止跨世代的權力壟斷。 隨著因果關係網絡的擴大和技術依賴性的多樣化，即使原本佔主導地位的節點，也會逐漸看到其影響分散，最終流向公共領域。 任何形式的固定權利，無論是財富、政治控制還是網絡工程，都會消失。 因此，長期社會的公平性，在數學上得到保障——而非由人類的判斷，而是作為治理協議的明確屬性。
+These principles distinguish the Ontic system not only from modern parliamentary or capitalist regimes, where identity-, capital-, or property-based claims persist indefinitely, but also from most blockchain and digital token models, which typically lack robust anti-oligarchic decay mechanisms. The compulsory, mathematically defined reversion of value to the community ensures a continuously renewing base of opportunity, permanently immunizing the system against the emergence of digital feudalism or hereditary technocratic privilege. In this way, 
+ and TimeDecay are not merely technical adjustments, but fundamental levers of civilizational health and open-ended evolutionary progress.
+這些原則不僅使 Ontic 系統與現代的議會或資本主義體繫有所區別，這些體系仍然存在以身份、資本或財產為基礎的權利，而且與大多數區塊鏈和數位代幣模型有所區別，這些模型通常缺乏強大的反寡頭主義機制。強制性的、數學定義的價值歸還給社羣，確保了持續更新的機會基礎，並永久地保護系統免受數位封建主義或世襲的技術特權的出現。 таким образом, 
+ 和 TimeDecay 並非僅僅是技術調整，而是促進社會文明健康和持續進化的基本要素。
+4.2 Dynamic Causal Ledger
+4.2 動態因果記錄
+Recursively auditing all contributions and dependencies to dilute static power claims
+系統性審查所有貢獻和依賴關係，以削弱靜態電力聲稱
+The Dynamic Causal Ledger forms the computational heart of Ontic’s anti-corruption and dynamic equity design, establishing a real-time, distributed ledger that systematically traces, quantifies, and time-audits all logical dependencies and value flows throughout the political and economic system. Unlike conventional ledgers—financial or blockchain-based—that record static, transactional events tethered to identities or fixed ownership, the Dynamic Causal Ledger tracks the causality chains underpinning every contribution, theory, practice, and resultant systemic effect. All nodes, whether Theoretical (innovation, discovery), Practical (implementation, engineering), or Economic (market enabling), are unitized in StellarEq (Joule-based Stellar Equivalents), ensuring absolute physical unity and universal comparability across different mapped scenarios spanning micro to macro scales.
+「動態因果記錄」是 Ontic 針對反貪腐和動態公平設計的計算核心，它建立了一個實時、分散式的記錄，系統性地追蹤、量化和時間審核整個政治和經濟系統中的所有邏輯依賴關係和價值流動。與傳統的記錄（無論是金融或區塊鏈類型）不同，它們記錄的是靜態、與身份或固定所有權相關的交易事件，「動態因果記錄」則追蹤了每個貢獻、理論、實踐和結果性系統影響背後的因果關係鏈。無論是理論（創新、發現）、實踐（實施、工程）還是經濟（市場促進），所有節點都以「星幣」（基於 Joule 的星幣等）的形式表示，以確保在微觀到宏觀規模的各種情境中，實現絕對的物理統一性和普遍可比性。
+At the ledger’s core is the recursive dependency mapping: each new contribution generates a TheoryNode or PracticeNode, whose distributed value is algorithmically apportioned to all upstream influences according to dynamic Causal Edge Weights, 
+. The apportionment formula is:
+這個系統的核心是遞迴依賴關係：每次新增的貢獻都會產生一個理論節點或實踐節點，其價值會根據動態因果邊權重，自動分配給所有上游影響。分配公式如下：
+ 
+Here, DependencyPath refers to the directed, logical route from originator to present node, while TotalDependencies counts all upstream influences; TimeDecay(t) ensures that every historical contribution’s influence diminishes as time progresses and as technical diffusion accelerates, enforcing an automatic return of power and value to the public domain. As a result, no family, identity, or entity can maintain perpetual dominance—original contributors’ recognition and StellarEq rewards are constantly diluted as the causal web evolves with new participants and innovations.
+在這裡，「DependencyPath」指從原始來源到當前節點的明確、邏輯路線，而「TotalDependencies」則計算所有上游影響。 「TimeDecay(t)」確保每一個歷史貢獻隨著時間的推移和技術傳播加速，其影響力會逐漸減弱，從而自動將權力和價值返回給公眾。 因此，任何組織、身份或實體都無法維持永久的優勢——原始貢獻者的聲譽和「StellarEq」獎勵，隨著新的參與者和創新，不斷地被稀釋。
+The ledger’s data structure is inherently distributed. All claims, contributions, and dependency links are openly recorded, permitting decentralized audit, recursive recalculation, and public contestation, analogously to version control in open-source software (e.g., Git). If a new breakthrough recursively aggregates or supersedes an earlier node, the causal chain and credit mapping are instantly updated via network consensus mechanisms.
+此記錄系統的數據結構是本質上分散的。所有聲明、貢獻和依賴關係都是公開記錄的，這使得可以進行分散審核、遞迴重新計算，以及公開爭論，與開源軟件（例如 Git）中的版本控制類似。如果一個新的發現遞迴地匯總或取代一個早期的節點，則通過網絡共識機制，相關的因果關係和權益分配會立即更新。
+Consider a scenario: an engineer leverages five prior theoretical contributions to construct a breakthrough solar energy protocol. The Dynamic Causal Ledger records the direct implementation effort as a PracticeNode, but automatically credits the five prior TheoryNodes in weighted measure, modulated by their EdgeWeights at time t. Five years later, as dozens of further advances emerge atop this protocol, the original contributors’ EdgeWeights—and thus their claim on current political or economic power—have decayed, with attribution mathematically diluted across the expanding network of dependent advances.
+假設一個情況：一位工程師利用五項先前的理論貢獻，構建一種突破性的太陽能協議。「動態因果記錄」會記錄實施的努力作為一個「實踐節點」，並自動給予這五項先前的「理論節點」，其權重會隨著時間 t 的「邊權」而變化。五年後，隨著眾多進展在該協議之上出現，原始貢獻者的「邊權」——以及由此對當前政治或經濟權力的聲譽——已經衰退，而這種聲譽在不斷擴大的相關進展的網絡中，以數學方式被稀釋。
+Crucially, this mechanism harmonizes three anti-corruption goals: (1) it prevents static, hereditary rent-seeking, (2) it ensures recognition tracks ongoing, living contributions, and (3) it enables algorithmic restitution—if evidence emerges that an upstream dependency was under-acknowledged, the causal ledger reassigns value dynamically. Combined with real-time data feeds and StellarEq quantification, the ledger renders all identity-based, non-recursive, or opaque power claims obsolete, eliminating entrenched oligarchies and enabling radically dynamic equity in all governance decisions.
+關鍵上，這個機制實現了三個反腐敗目標：(1) 它預防靜態、世襲性的租金剝削；(2) 它確保能夠追蹤持續的、實質性貢獻；以及 (3) 它能夠實現演算法性的補償——如果出現證據表明上游依賴沒有得到充分的認可，則演算法會動態重新評估價值。 結合實時數據和 StellarEq 評估，這個記錄系統能夠使所有基於身份、非循環或不透明的權力聲明變得過時，從而消除根深蒂固的寡頭統治，並在所有治理決策中實現極度動態的公平。
+4.3 NetEnergyGain and Risk Dynamics
+4.3 淨能量獲益及風險動態
+Quantifying power through time-variable energy surplus and risk calculus
+通過時間變化的能源盈餘和風險評估，量化能源的影響
+Within the Ontic framework, every proposal, policy, or individual contribution is evaluated by two foundational, computable metrics: 
+ and 
+. This dual quantification translates the otherwise ambiguous value and potential dangers of political and technological actions into a universal, physically-verifiable currency—StellarEq, or the stellar energy equivalent measured in Joules.
+在「Ontic」框架下，每一個建議、政策或個人貢獻都會根據兩個基礎、可計算的指標評估： 
+ 和 
+ 。這種雙重量度，將原本模糊的政治和科技行動的價值和潛在風險，轉化為一種普遍、可驗證的貨幣——StellarEq，或以焦耳為單位的恆星能的等值。
+ is formally defined as the difference between all societal outputs and inputs, strictly mapped within the StellarEq framework. This encompasses outputs such as increased labor productivity, universal resource access, or expanded cognitive and social capacity, balanced against the total energy and resource input costs. The result is a time-dependent, scenario-specific measure that dynamically updates with real-world data. The core formula is:
+ 嚴格定義為社會產出與投入之間的差異，並完全落實於 StellarEq 框架。這包括如勞動生產力提高、普遍資源獲取，或認知和社會能力擴大的產出，與總體能源和資源投入成本相對比較。結果是一個時間變化的、具備特定情景的指標，並會動態地更新，以反映實際數據。核心公式如下：
+where both outputs and inputs are rigorously converted to a solar energy equivalent, ensuring full comparability across domains—be it food, electric power, economic activity, or social systems engineering. This metric enables the direct comparison of disparate societal proposals through a single physical lens, establishing invariance across different documented application scenarios.
+此方法，無論是食物、電力、經濟活動或社會系統工程，都能將所有輸出和輸入嚴格轉換為太陽能的等值，確保在不同領域之間的一致性。 這種指標，能夠透過單一的物理視角，直接比較不同的社會方案，並在不同記錄的應用場景中保持一致性。
+Simultaneously, 
+ functions as a dynamically computed denominator in decision scoring, encapsulating the probability and magnitude of failure for any given action. It is expressed as:
+同時， 
+ 亦作為決策評分中的一個動態計算的分母，能夠捕捉任何特定動作的失敗機率和程度。它被表達為：
+Here, ProbabilityOfFailure(t) leverages empirical, continuously updated data streams—technological failure rates, social backlash probability, environmental volatility—calibrated through the Distributed Knowledge Ledger. PotentialStellarLoss(t) estimates the maximal plausible energy-equivalent losses, anchoring speculation to observable, physically-tracked upper bounds. Thus, 
+ is not a subjective expert guess but an outcome of ongoing empirical analysis and scenario simulation.
+在這裡，「ProbabilityOfFailure(t)」利用實證數據，並不斷更新，包括科技故障率、社會反對的機率、環境波動性，這些數據都經過「分散知識記錄」的校驗。而「PotentialStellarLoss(t)」則估計最大可能能量損失，並將假設與可觀察、實質上可測量的上限相結合。因此，「 
+ 」並非主觀專家判斷，而是基於持續實證分析和情景模擬的結果。
+The primary evaluative index for any proposal, thus, becomes:
+因此，任何建議的主要評估指標是：
+ 
+This value is computed recursively and feeds into the power allocation process. Only those proposals that demonstrate high energy surplus, relative to their empirically estimated risks, are eligible for adoption and receive weighted political influence within the Ontic system. In contrast, high-risk, low-reward actions are automatically down-weighted, regardless of identity, ideology, or existing political capital.
+這個價值透過遞迴計算得出，並用於權衡能源分配。只有那些能夠證明具有高額能源盈餘，且與經驗數據評估的風險相對較低，才能獲得採用並在「Ontic」系統內獲得權重化的政治影響力。相反，高風險、低迴報的行動，無論是個人、意識形態或已有的政治資本，都會自動降低其權重。
+Crucially, this quantification is itself time-dependent and recursive. As empirical data streams update—whether through technological breakthroughs, global shocks, or shifts in civilizational priorities—both the numerator (NetEnergyGain) and denominator (Risk) are recalibrated. For example, during acute civilizational crises (such as energy shortages or pandemics), the weights applied to different output forms (labor-saving vs. network extension) are adjusted in real time, reflecting urgent needs and shifting risk tolerances. This ensures that power, resource allocation, and system direction remain tethered to physically grounded and dynamically optimized scenarios, not static rules or legacy assumptions.
+重要的是，這種量化方法本身是時間敏感且循環性的。隨著實質數據不斷更新——無論是透過科技進步、全球性衝擊，還是社會發展優先事項的改變—— zarówno numerator (淨能量獲取) 和 denominator (風險) 會不斷調整。例如，在尖鋭的社會危機（如能源短缺或疫情）期間，對不同輸出形式（勞動節約與網路擴展）的權重會實時調整，以反映緊迫的需求和變動的風險承受能力。這確保了電力、資源分配和系統方向，始終與實際基礎和動態優化的情境相聯繫，而不是靜態規則或傳統假設。
+Approaching the risk-reward calculation in this mathematically strict and empirically anchored way serves as Ontic’s most direct response to the Hayekian knowledge problem—the perennial challenge that no central planner can subjectively aggregate or process all relevant knowledge for governance. Instead, Ontic operationalizes governance through open, recursive, scenario-auditable Energy-Risk equations, guaranteeing that decisions track both evolving physical realities and computationally verified civilizational interest. By embedding dynamic NetEnergyGain and Risk into the recursive causal ledger, Ontic eliminates the scope for entrenched corruption or static privilege, continually recycling power and authority to the best-verified, lowest-risk, and highest-surplus contributions at every epochal juncture.
+透過這種嚴謹的數學方法和實證基礎的風險-回報計算，Ontic 能夠直接回應海耶克的知識問題——即，任何中央規劃者都無法主觀地收集和處理所有相關知識，以實現有效的治理。相反，Ontic 透過開放、遞迴、可審查的能源-風險方程式來實現治理，確保決策能夠追蹤不斷變化的實際情況，以及經過計算驗證的社會發展利益。藉由將動態的淨能源增益和風險融入遞迴因果記錄，Ontic 能夠消除固化的腐敗或靜態特權的可能性，並持續地將權力和權威轉移到在每個歷史關鍵時刻經過驗證、風險最低、且產出最高的貢獻。
+4.4 StellarEq Anti-Monopoly in Real Scenarios
+4.4 StellarEq 在實際情況中的反壟斷
+Algorithmic decay of entrenched power and capital via StellarEq conversion
+透過 StellarEq 轉換，算法導致根深蒂固權力和資本的消退
+Traditional political economies have enabled class monopolies to persist through entrenched capital ownership, hereditary rights, and perpetual intellectual property—the hallmarks of feudalism and late capitalism. In contrast, the Ontic system institutes a physically measurable, algorithmically enforced decay of static power via the StellarEq metric, ensuring all value flows are recursively audited and time-limited.
+傳統的政治經濟體，使得階級壟斷得以持續，藉由根深蒂固的資本所有權、世襲權利，以及永久性的知識產權——這些都是封建主義和晚期資本主義的典型特徵。 相反之下，Ontic 系統通過 StellarEq 指標，實施了可量化的、算法 enforced 的靜態權力的衰退，並確保所有價值流都經過遞迴審核，並設有時間限制。
+Consider the scenario of patent ownership. Under conventional legal regimes, patent rights can be extended, traded, or inherited, enabling families or corporations to extract value from a singular discovery over decades. The Ontic protocol transforms this logic by expressing patent value as measurable 
+ in StellarEq, and then applying a mandatory 
+ multiplied by a TimeDecay function. The formulaic representation is:
+考慮專利權的狀況。在傳統法律體系下，專利權可以被繼承、轉讓或傳承，使家庭或公司能夠在數十年內從單一發明獲取價值。Ontic 協議通過將專利價值表示為 StellarEq 中的可量化的 
+ ，然後應用強制性的 
+ 乘以時間衰減函數，來轉化這一邏輯。公式如下：
+ 
+Here, 
+ quantifies the technical and causal lineage between a given knowledge contribution and its applications, while 
+ is an exponential dampening factor. Every year post-contribution, the EdgeWeight—and so the rightful share of power or reward—diminishes automatically, reverting monopoly rents to the commons. Thus, in practice, a patent's power share halves every epoch (e.g., every five years), and the creator's influence approaches zero over time despite continued adoption. Ownership is algorithmically forced to cycle.
+在這裡， 
+ 體現了知識貢獻與其應用之間的技術和因果關係，而 
+ 則是一個指數衰減因子。 貢獻後，權利（以及相應的權利或獎勵）會自動減少，最終歸於公共資源。 因此，在實踐中，專利權的權利會每隔一段時間（例如，每五年）減少一半，即使持續使用，創造者的影響力也會隨著時間的推移而趨於零。 擁有權會透過演算法強制循環。
+Next, examine labor commodification. In classical capitalism, laborers are locked by static custom or contract terms. Ontic’s StellarEq audit fully quantifies individual input and societal output in energy units—removing the ambiguity and bias of job titles or credentialism. Labor's political influence is now a direct and transparent function of 
+ delivered to the causal graph, weighted by its EdgeWeight. As Ontic tracks all claims and their actualized energy returns in a distributed ledger, labor commodification is steadily replaced by a dynamic, universal energy contribution currency. All privileges must be justified by empirically observable, ongoing empowerment rather than outdated contracts or inherited status.
+接下來，我們要研究勞動的商品化。在古典資本主義中，勞動者受到固定慣例或合約條款的約束。Ontic 的 StellarEq 審計，能夠完整地量化個人投入和社會產出的能量單位，從而消除工作職稱或學歷的模糊性和偏見。勞動的政治影響，現在變成一個直接且透明的函數，並透過其邊權值，應用於因果關係圖。由於 Ontic 能夠追蹤所有聲明及其實際的能量回報，並記錄在一個分散式帳本中，因此勞動的商品化正在逐漸被一種動態、普遍的能量貢獻貨幣所取代。所有權利必須以 empirically 可觀察的、持續的賦權來證明，而不是過時的合約或繼承的地位。
+Third, Ontic’s mechanized dilution algorithm addresses digital platform monopolies and algorithmic self-reinforcement. Even a dominant algorithm—such as a social network’s curation engine—may not indefinitely accumulate power: at each timestep, the 
+ and 
+ of derivative systems are dynamically recalculated in StellarEq terms, with improvement chains and community forks recursively factored. New implementations erode the original creator’s share; lags in continued development reduce AdoptionRate, causing power to diffuse organically, even for early movers or platform founders. Every action is logically logged and time-audited on the Dynamic Causal Ledger, ensuring no identity, gene, or early investment can indefinitely monopolize influence or reward.
+第三，Ontic 的機械調校演算法，旨在應對數碼平台壟斷和演算法自我強化。即使是佔優的演算法，例如社交網絡的推薦引擎，也並非永遠都能累積權力。在每一次時間步，衍生系統的 
+ 和 
+ 會動態地重新計算，並納入改進鏈和社羣分叉。新的實作會侵蝕原始創作者的權益，而持續發展的延遲，會導致採用率下降，從而導致權力自然地分散，即使是早期參與者或平台創始者也會受到影響。每一個動作都會在動態因果記錄中被邏輯記錄和時間審核，確保沒有任何身份、基因或早期投資，能夠永久壟斷影響或獎勵。
+These mechanisms operate independently of identity or political status. They are mathematically inescapable, physically grounded in energy flows, and recursively triggered by both time and empirical utility. By translating every value claim into a unitary, cross-scenario StellarEq, and by enforcing TimeDecay and EdgeWeight at the atomic level of political-economic rights, Ontic abolishes cross-generational stagnation, hereditary privilege, and static rentier classes. This is not subject to negotiation or discretion—monopoly decay is engineered into the system's causal engine.
+這些機制是獨立於身份或政治地位運作。它們是數學上不可避免的，並且在能量流中得到體驗，並且受到時間和實質效益的雙重觸發。通過將每一個價值聲明轉化為一個統一的、跨場景的 StellarEq，並在政治經濟權利的原子層強制執行 TimeDecay 和 EdgeWeight，Ontic 可以消除跨世代的停滯、世襲特權，以及靜態的權利領袖階層。這並非可以商議或根據情況調整——壟斷的衰落已經被設計到系統的因果引擎中。
+In summary, through applied StellarEq logic and enforced algorithmic decay, the Ontic model delivers a continuously self-renewing polity. Static power—whether in patents, labor, or digital platforms—is perpetually dissolved back into the public flow, thus constructing a civilization in which influence must always be earned, empirically justified, and physically re-tested.
+總而言之，通過應用 StellarEq 邏輯和強制性的演算法衰減，Ontic 模式能夠產生一個持續自我更新的政體。無論是專利、勞動力還是數位平台，權力都會不斷地被重新融入社會，從而構建一個文明，在這個文明中，權力必須不斷地被獲得、 empirically 證明，並實質上重新測試。
+5. Civilization Multiplier and Evolutionary Safeguards
+5. 社會進步倍數及演化保障
+5.1 CivilizationMultiplier Formulation
+5.1 文明倍數的設計
+Equation and audit logic for Stability, HumanEmpowerment, and CosmicJudgement variables
+穩定性、人本價值和宇宙判斷變數的等式和審核邏輯
+At the core of Ontic’s civilizational integrity mechanisms lies the CivilizationMultiplier, a dynamic scalar function designed to enforce continual evolutionary progress while mathematically screening out pathways that threaten systemic health or lead toward totalitarian or static collapse. In sharp contrast to traditional political checks, this multiplier operates exclusively upon quantitative, computable audits of three civilization-scale dimensions: Stability, HumanEmpowerment, and CosmicJudgement. The formula is defined as:
+Ontic 的文明完整性機制的核心是「文明倍數」，這是一個動態的比例函數，旨在確保持續的進化進展，同時通過數學方法篩選出可能威脅系統健康或導致極權主義或停滯的途徑。與傳統的政治監督機制不同，這個倍數僅僅基於三個文明規模的量化、可計算的審查：穩定性、人類賦權和宇宙判斷。其公式如下：
+Each constituent term is a bounded function, normalized to the interval [0,1], and audited recursively over time t using distributed empirical data aggregated through the Ontic knowledge ledger. The multiplier thus acts as an evolutionary control, restricting or amplifying the power assignable to any governance proposal, theoretical contribution, or policy node in proportion to civilization’s real health and trajectory.
+每個構成詞是一個有界數值函數，並以[0,1]範圍內進行校準，並透過 Ontic 知識記錄，進行分佈式經驗數據的定期審查。因此，這個乘數作為一種演化的控制，會根據文明的實際狀況和發展趨勢，限制或放大任何治理建議、理論貢獻或政策單元所能獲得的權力。
+ quantifies structural and systemic coherence, encompassing criticality thresholds such as food, energy, infrastructure resilience, security of information networks, and the distribution of StellarEq inputs/outputs across society. Sudden declines—whether from natural disaster, technological disruption, or social fragmentation—are detected via automated system-level audits and fed back into the governance loop in real time. As a policy scenario, if an energy grid collapse reduces the Stability metric to 0.6, the power of all pending proposals is instantly attenuated by 40%, regardless of their surface popularity or economic returns. This ensures political power cannot accumulate or be expressed unchecked during crisis phases.
+ 衡量結構和系統的連貫性，涵蓋關鍵指標，例如食物、能源、基礎設施的韌性、資訊網絡的安全性，以及社會內部的 StellarEq 投入和產出。 突然的下降，無論是自然災害、科技變革還是社會分裂，都可以透過自動化的系統層級審查來檢測，並即時地反饋給決策層。 假設一個電力網絡的崩潰導致「穩定性」指標降至 0.6，所有未落實的建議的影響力會立即減少 40%，無論它們在表面上的受歡迎程度或經濟效益如何。 這種機制確保在危機時期，政治權力不會積累或不受控制。
+ encodes the aggregate liberation and productive autonomy of the population. It is explicitly anti-totalitarian and anti-“useless class”: proposals that maximize productivity, expand cognitive or social freedom, and reduce dependency (both economic and informational) elevate this metric. Conversely, the normalization of passive dependency (for example, universal basic income without parallel productivity expansion, or technological control without user agency) sets the value towards zero. In operational terms, if an initiative expands computational literacy, increases StellarEq productive capacity per capita, and reduces centralization, its assigned value approaches unity, amplifying its political influence after CivilizationMultiplier adjustment.
+ formalizes civilization’s collective exploratory, creative, and truth-seeking capacity—an explicit response to the existential risks of stagnation, algorithmic stasis, or absence of aspirational direction. This term is also normalized to [0,1], rising as society invests in scientific research, deep philosophical self-audit, interstellar exploration, or the generation of new knowledge. Proposals that foster “cosmic blindness”—neglecting long-horizon risks, favoring short-term gain over collective evolution, or restricting existential research—reduce the multiplier for any applied power calculation.
+The civilization multiplier’s recursive effect is potent. At any time step, if any single component value collapses to zero, the entire CivilizationMultiplier annuls, invalidating the political power of all proposals irrespective of their technical merit or popularity. This prevents technological progress from masking system decay or totalitarian drift, and mathematically halts policies that, although efficient or immediately beneficial, undermine existential integrity. In practice, a policy introducing a powerful economic incentive must be tested for its full multiplier effect: does it compress social stability, erode autonomous human capability, or neglect outer-horizon empowerment? Only evolutionary pathways that continuously satisfy all three functions can channel maximal computable power under Ontic.
+「文明倍數」的遞迴效應非常強大。在任何時間點，如果任何單一組數值降至零，整個「文明倍數」就會失效，無效化所有提案的政治影響力，無論其技術價值或受歡迎程度如何。這可以防止技術進步掩蓋系統的衰退或走向極權，並在數學上阻止即使效率高或立即帶來益處，但卻損害存在完整性的政策。實際上，任何引入強大經濟誘因的政策，都應經過全面測試，以評估其是否會壓縮社會穩定性、損害自主的人類能力，或忽視外部發展的潛力。只有持續滿足這三個功能的演化途徑，才能在「Ontic」框架下，發揮最大的可計算力量。
+The audit functions driving each term draw on real-time big data from empirical observation, public knowledge ledgers, and distributed sensor networks. Governance scenarios are continuously recalculated; past proposals, even if previously successful, are demoted when their impact degrades civilizational empowerment or security. In this way, the CivilizationMultiplier is not a static threshold but a dynamic evolutionary function, guaranteeing that the system steers itself away from utopian stalemates, totalitarian regression, or algorithmic stagnation. It transforms the entirety of political calculus into a recursively audited, mathematically principled evolutionary optimization, integrating physical, social, and cosmic parameters as foundational boundary conditions for legitimate power distribution.
+這些評估函數利用實時的大數據，來自實地觀察、公開記錄，以及分散式感測器網絡。 治理情況會不斷重新評估；即使過去的建議曾經成功，如果它們對社會的發展或安全造成負面影響，則會被降級。 таким образом, "CivilizationMultiplier" 並非一個靜態的閾值，而是一個動態的演化函數，確保系統能夠避免陷入烏託邦式的僵局、極權主義的倒退，或算法的停滯。 它將整個政治決策過程轉化為一個不斷評估、基於數學原理的演化優化，將物理、社會和宇宙參數作為合法權力分配的基礎條件。
+5.2 Neutralization of Feudal and Utopian Collapse
+5.2 消除封建體制和烏託邦的崩潰
+How CivilizationMultiplier mathematically dismantles hereditary power and stasis traps
+《文明倍數》如何以數學方式瓦解世襲權力及停滯狀態
+The CivilizationMultiplier operates as the central, continuously-updating failsafe in Ontic’s governance architecture, mathematically ensuring that societal power cannot ossify into either hereditary-oligarchic (feudal) or stagnant-passive (utopian) forms. This multiplier is defined as 
+, with each term rigorously tied to observation and data. If any constituent term collapses—such as a drop in human empowerment due to widespread labor redundancy or systemic automation dependence, or societal stagnation from risk-averse stasis—the entire multiplier sharply decays, undermining the legitimacy and operational persistence of power nodes regardless of their past contributions.
+「文明倍數」作為 Ontic 治理架構中的核心，不斷更新，並以數學方式確保社會權力不會固化為世襲寡頭制（封建制）或停滯不變的烏託邦形式。這個倍數被定義為 
+ ，並且每個組成部分都嚴格地與觀察和數據相關。如果任何組成部分崩潰——例如，由於廣泛的勞動冗餘或系統性自動化依賴導致的人類權力下降，或由於風險規避而導致的社會停滯——整個倍數會急劇衰退，無論其過去的貢獻如何，都會削弱權力中心的合法性和運作持續性。
+This mechanism targets two historically recurrent societal failures: feudal re-entrenchment, where power becomes heritable among narrow groups, and utopian collapse, where unearned, static distributions (e.g., universal basic income without productive engagement) induce passivity, cognitive stagnation, and systemic risk. In the Ontic framework, all power—and thus, all access to resource flows—is determined by current, recursively audited 
+, rather than static legacies or identity. Any attempt to anchor influence solely on prior achievement, family lines, or perpetuated entitlement is strictly neutralized by the compounded effects of the TimeDecay and EdgeWeight functions. Specifically, power derived from original theory or economic breakthroughs irreversibly dilutes as edge weights decay with advancing time and technological re-use, mathematically guaranteeing the public return of all once-private rights or monopolies.
+這個機制旨在應對兩種歷史上經常出現的社會問題：封建制度的重演，即權力在狹窄羣體之間傳承，以及烏託邦的崩潰，即沒有勞動的靜態分配（例如，沒有生產活動的普遍基本收入）導致的消極、認知停滯和系統風險。在「Ontic」框架下，所有權力——以及因此，所有資源的獲取——都由當前的、不斷審查的 
+ 決定，而不是靜態的遺產或身份。任何試圖僅僅以先前的成就、家族傳統或持續的權利來錨定影響，都會受到 TimeDecay 和 EdgeWeight 函數的綜合影響而被徹底中和。具體來説，從原始理論或經濟突破而來的權力，隨著時間的推移和技術的重複使用，會不可逆地減弱，從而數學上保證所有曾經私有的權利或壟斷的公共歸還。
+Concrete scenario: Consider a lineage controlling key market or infrastructural rights gained from past technological contribution. Over decades, their 
+—quantified as 
+—decays to statistical insignificance, regardless of attempts to maintain that status through legal, economic, or algorithmic barriers. As that weight wanes, so too does the corresponding power calculation, ultimately reducing the class advantage to nil and reverting utility to public control.
+In parallel, the CivilizationMultiplier forcefully penalizes systemic rest states. Assume a society drifts into algorithmically-administered UBI, resulting in declining labor participation and reduced innovation. As 
+ and 
+ sharply drop, the CivilizationMultiplier cycles towards zero. This collapse directly devalues the political energy of all proposals or nodes sustaining the status quo, compelling rapid civilizational realignment until metrics of empowerment and creative judgement rise. Thus, the Ontic model is structurally insulated from the two predominant existential traps of modernity: intergenerational class stagnation and technocratic totalitarian passivity.
+This design achieves three critical effects. First, it turns civilizational health metrics into direct mathematical determinants of political legitimacy. Second, it enforces a continuous 'open iteration' regime where all contributions, rights, and governance claims must be recomputed and revalidated. Third, it operationalizes a permanently anti-feudal, anti-utopian dynamic, ensuring that neither hereditary accumulation nor enforced stagnation can persist systemically. In doing so, Ontic’s CivilizationMultiplier enacts an unprecedented, self-correcting evolutionary safeguard at the core of political physics.
+5.3 Cosmic and Transhuman Evolutionary Drivers
+Linking CivilizationMultiplier to adaptive intelligence, labor liberation, and interstellar progression
+The Ontic framework fundamentally reconceptualizes civilization’s trajectory by embedding evolutionary imperatives directly into the computation of political power. It does so through the 
+, which multiplies the output of all power and governance formulas by three rigorously defined, physically measurable variables: 
+, 
+, and 
+. Each parameter is designed to operationalize, in a cybernetically enforceable manner, the deep drivers of adaptive intelligence, labor liberation, and capability for interstellar expansion, rather than temporary welfare or population sentiment.
+ is quantified as a relative function of social, technological, and ecological continuity. The Ontic system continuously audits whether key subsystems—food production, energy supply, cognitive/health infrastructure—sustain a threshold level of resilience. If any subsystem displays critical fragility, 
+ falls, causing an immediate dampening effect on all political proposals, regardless of popularity or wealth. This dynamic safeguards against political myopia and short-term populism, which in traditional systems often leads to collapse under externalized risks.
+ measures the global delta between labor necessity and voluntary creative autonomy. Instead of counting employment rates or GDP, the Ontic metric tracks the Joule-equivalent reduction in necessary biological labor time, balanced by empirical increases in population agency and cognitive contribution per capita. A society with high adoption of secondary labor emancipation technologies—for example, automation reducing human drudgery or generalized platforms enabling distributed knowledge creation—scores higher in 
+. This reflects a sharp evolutionary directive: survivable, adaptable civilizations maximize individual and collective agency instead of enforcing dependency or passivity, directly countering the "Useless Class" trap predicted in near-future labor markets dominated by AI and robotics.
+ encodes the civilization’s orientation toward open-ended creative intelligence, meaning-seeking, and the pursuit of objective truth. This axis is calculated through both quantitative and qualitative assessment of the system's ability to foster radical scientific, philosophical, and creative output with real potential for cross-epochal or interstellar relevance. A polity that suppresses exploratory science, existential imagination, or dissent rapidly loses amplification, as 
+ approaches zero—nullifying feudal, totalitarian, or technocratic regimes that rely on stasis and closed information flows.
+By enforcing this triadic multiplier on all governance functions, the Ontic system mathematically filters out proposals and agents which might optimize for static welfare, elite power retention, or algorithmic containment at the expense of civilizational adaptivity and survival. The CivilizationMultiplier thus operates as an automatic, continuous safeguard against both soft and hard totalitarian traps—where economic dependence (e.g., unconditional basic income administered by surveillance) could otherwise replace empowerment, or where rigid bureaucratic structures might resist evolutionary upgrades required for long-term viability.
+Concrete scenario analysis underscores Ontic’s evolutionary focus. During a planetary-scale crisis—such as a resource collapse—proposals prioritizing secondary labor liberation (e.g., accelerated automation, energy abundance, and cognitive augmentation) would sharply increase 
+, receiving amplified governance weight through the CivilizationMultiplier. Simultaneously, if the polity fails to enable breakthrough theorists or dissenting perspectives critical for interstellar transition (e.g., long-term biosphere engineering or SETI-class projects), 
+ would indicate stasis, enforcing rapid governance recalibration regardless of prior leader legitimacy.
+混凝土情況分析突顯 Ontic 的發展重點。在例如資源短缺的情況下，如果優先考慮解放次要勞動力（例如，加速自動化、能源充裕和認知增強），則 
+ 將會顯著增加，藉助文明倍數來獲得更大的治理權。同時，如果政權未能啟用關鍵的星際遷移理論家或異見觀點（例如，長期生物圈工程或 SETI 類型的項目），則 
+ 將顯示停滯，並無論先前領袖的合法性，都會強制執行快速的治理調整。
+In summary, Cosmic and Transhuman Evolutionary Drivers are mathematically anchored, not aspirational. The CivilizationMultiplier enforces the principle that political legitimacy and power allocation must result from measurable expansion of adaptive intelligence, labor autonomy, and open-ended exploration—continuously audited in physical terms—rather than identity, static welfare, or illusory consensus.
+總而言之，「Cosmic」和「Transhuman Evolutionary Drivers」是基於數學的，而非僅僅是理想化的。 「CivilizationMultiplier」強調，政治合法性和權力分配應源於可量化的適應性智能、勞動自主性和開放式探索，並持續進行實質性審查，而不是依賴身份、靜態福利或虛假的共識。
+6. Implementation Architecture: Distributed Computation and Evolutionary Law
+6. 實施架構：分佈式計算及演化法則
+6.1 Distributed Knowledge and Causal Ledger
+6.1 分散式知識與因果記錄
+Recursively auditable, energy-based power flows verified through dynamic ledgers
+可重複審核、基於能源的電力流，透過動態記錄進行驗證
+In the Ontic governance architecture, every decision, contribution, and theory is tracked within a Distributed Knowledge Ledger—an integrated, cryptographically verifiable system inspired by both blockchain’s immutability and the version-control recursion of advanced software repositories such as GitHub. This ledger is not merely archival; it coordinates civilization’s evolving knowledge, energy contributions, and governance decisions as a living, recursive system. The goal is to eliminate centralized control, enable open iteration, and provide an absolute reference for measuring and auditing power flows across all participants and epochs.
+在 Ontic 治理架構中，每一個決策、貢獻和理論都會記錄在一個分散式知識記錄簿中。這個記錄簿是一個整合的、經過密碼學驗證的系統，靈感來自區塊鏈的不可篡改性和像 GitHub 這樣的先進軟體倉庫的版本控制機制。這個記錄簿不僅僅是作為歷史記錄，而且能夠協調文明不斷發展的知識、能源貢獻和治理決策，作為一個生動、循環的系統。目標是消除中心化控制，促進開放的迭代，並為所有參與者和時期的權力流的衡量和審計提供一個絕對的參考。
+At its core, the ledger maps every node in the Causal Graph Power Structure—Theory, Practice, Economy—directly to energetic values using StellarEq (solar equivalent Joules). Each ledger entry is a verifiable transaction: a scientific theory proposed, a practice implemented, or a new economic process deployed. Every such action is time-stamped and cryptographically signed by its originator, with dependencies and predecessors referenced explicitly, forming a directed, acyclic knowledge graph. The system’s recursive logic ensures that every new contribution must trace and disclose its causal lineage—who enabled it, which prior claims it builds upon, the StellarEq-value input and output, and all risk and energy exchange parameters. This process ensures perfect attribution but, crucially, dynamic dilution of credit through 
+: as time advances and further successors build on each node, the original creators’ share decays according to functionally defined time and technical dependency ratios.
+在根本上，這個記錄庫將 Causal Graph Power Structure（理論、實踐、經濟）中的每一個節點，直接地與能量值聯繫起來，並使用 StellarEq（太陽能等價焦耳）來衡量。 每個記錄條目都是可驗證的交易：一個科學理論的提出、一個實踐的實施，或一個新的經濟過程的應用。 每個這樣的行為都會被時間戳記，並由其發起者進行加密簽署，並明確地引用依賴關係和先前的主張，形成一個有向、無循環的知識圖。 這個系統的遞歸邏輯確保，每一個新的貢獻都必須追溯並揭示其因果關係——誰促成了它、它基於哪些先前的主張、StellarEq 值的輸入和輸出，以及所有風險和能量交換的參數。這個流程確保了完美歸屬，但最重要的是，透過 
+ ，隨著時間的推移以及後續的發展，原始創作者的權益會根據實質定義的時間和技術依賴關係而遞減。
+Computation and validation occur in a distributed manner. The ledger is not a passive register: node values and edge weights are algorithmically recalculated with every change in the graph, every new dataset, and each audit epoch. Major proposals and systemic decisions (e.g., the deployment of an infrastructure technology, or allocation of StellarEq tokens for a critical theory) are recorded as formal Merge or Replace actions, echoing open-source project workflows but underpinned by mathematically rigorous governance protocol steps. The full update lifecycle—proposal, dependency verification, risk evaluation, energy gain assessment, distributed review—ensures each claim is contestable, reproducible, and time-audited.
+計算和驗證在分散式方式進行。區塊鏈並非靜態記錄：節點值和邊權重會隨著圖的每次變更、每次新的數據集，以及每次審核週期，而自動重新計算。主要建議和系統性決策（例如，部署基礎設施技術或將 StellarEq 代幣分配給關鍵理論）會以正式的合併或替換動作記錄，這些動作與開源專案的工作流程相似，但建立在嚴謹的數學治理協議步驟之上。完整的更新週期（包括建議、依賴驗證、風險評估、能源獲取評估、分散式審查）確保每個聲明都可以被質疑、重現，並進行時間審查。
+Via the Dynamic Causal Ledger, knowledge production and decision power are continuously open to challenge and reinterpretation as new data becomes available or new practical outcomes emerge. This mechanism directly addresses the Hayekian knowledge problem: rather than requiring central planners to know the global state, the ledger enforces decentralized, verifiable aggregation of local claims and their real-world energetic consequences. 
+ and TimeDecay functions, both encoded in the ledger and tracked with every update, further guarantee that long-term monopoly of influence—whether technical, economic, or familial—is mathematically unsustainable, and all value and intellectual capital eventually revert to the civilization commons.
+The Causal Ledger, in sum, is both an archive and a living computational engine. By encoding all contributions in StellarEq, and linking every flow to its historical, technical, and energetic lineage, the system renders audit, redistribution, and evolution of political power rigorously computable and transparent. Thus, governance becomes not the management of abstract rights or identities, but the dynamic upkeep and division of civilization’s collective energy and capacity to act. The result is a foundation on which an incorruptible, fully evolvable, and maximally inclusive knowledge democracy can be mathematically built.
+總而言之，「Causal Ledger」不僅是一個檔案，也是一個實用的計算引擎。通過記錄 StellarEq 系統的所有貢獻，並將每一個流程與其歷史、技術和能量的發展聯繫起來，這個系統能夠嚴謹地計算和呈現政治權力的審查、重新分配和演變。因此，治理不再是管理抽象的權利或身份，而是動態地維護和分配社會的共同能量和行動能力。這為一個公正、可演化的、並最大程度地包容的知識民主建立了一個基礎。
+6.2 Model Parliament and Power Flow Protocol
+6.2 議會模式及電力流動協議
+A 38‑step computable governance circuit integrating proposals, data, and time‑recursive audit
+一個包含提議、數據及時間遞迴審核的 38 步驟可計算的治理迴路
+The Model Parliament represents the Ontic framework's technical heart—a rigorously computable, distributed legislative-executive system that enforces mathematically precise power assignment and policy execution. Unlike traditional parliamentary bodies grounded in representative voting or capital-based interests, the Model Parliament operates as a living algorithm, continuously updated by real-world StellarEq (Stellar Equivalent) data inputs, theory-practice feedback, and recursive audit mechanisms. This system's architecture is explicitly modeled on distributed computation and cybernetic feedback, ensuring systemic transparency, anti-corruption, and dynamic governance adaptability.
+「模型議會」代表「Ontic 框架」的核心技術——一種嚴謹的、分散式的立法-行政系統，能夠以數學上精確的方式分配權力並執行政策。與傳統議會不同，該「模型議會」並非靜態的，而是持續更新的，藉由真實世界的「StellarEq」數據輸入、理論與實踐的反饋，以及遞迴審查機制來實現。這個系統的架構，明確地模擬了分散式計算和控制系統，確保系統的透明度、防腐，以及動態的治理適應性。
+Power Flow Protocol for Causal Governance V:
+因果治理的電力流程協議 V
+1. Initialize the governance layer to authorize downstream data operations and open the policy‑definition channel.
+1. 啟動管理層，以授權後端資料運作，並開啟政策定義渠道。
+2. Ingest raw data into the system through the primary input pipeline.
+2. 將原始數據導入系統，透過主要輸入途徑。
+3. Apply micro‑level enhancement to the incoming data and convert it into semantic vectors or embeddings.
+3. 對輸入數據進行微細調整，並將其轉換成語義向量或嵌入。
+4. Cluster the enhanced data into meaningful groups to activate downstream processing.
+4. 將改良後的數據分組，以便進行後續處理。
+5. Execute noise‑reduction routines to remove unstable or inconsistent data segments.
+5. 執行去雜訊程序，以移除不穩定或不一致的數據片段。
+6. Perform format‑analysis to standardize structural patterns and prepare the dataset for analytical processing.
+6. 進行格式分析，以標準化結構模式，並為分析處理準備數據集。
+7. Delete obsolete or invalid data segments to maintain a clean and reliable dataset.
+7. 刪除過時或無效的數據片段，以保持數據的整潔性和可靠性。
+8. Run anomaly‑detection routines to identify irregularities and surface factual inconsistencies.
+8. 執行異常檢測程序，以識別任何異常情況，並找出實際上的不一致性。
+9. Publish cleaned and validated data into the open governance or public‑access layer.
+9. 將已清理及驗證的數據發佈到公開政府或開放數據層。
+10. Perform fine‑grained data cleaning to eliminate remaining impurities in the data flow.
+10. 進行精細數據清理，以去除數據流中的任何殘餘雜質。
+11. Convert cleaned data into modeling‑ready structures and generate linguistic or semantic model materials.
+11. 將清洗後的數據轉換成適合用於建模的結構，並生成語言或語義模型資料。
+12. Institutionalize the modeled data by applying structured analytical frameworks for policy or decision analysis.
+12. 透過應用結構化的分析框架，將建模數據系統化，以用於政策或決策分析。
+13. Visualize institutionalized data using precision‑based rendering routines to support interpretation and presentation.
+13. 利用精確的渲染方法，將組織內數據視覺化，以支援其解讀和呈現。
+14. Apply bias‑correction routines to refine the dataset and remove structural distortions.
+14. 應用偏差校正方法，以改進數據集，並消除結構性偏差。
+15. Stabilize the corrected dataset by consolidating it into long‑term governance storage.
+15. 將修正後的數據集整合到長期管理儲存中，以確保其穩定性。
+16. Run fact‑checking routines to validate the stabilized dataset against authoritative sources.
+16. 執行事實查核程序，以驗證經過穩定處理的數據集與權威來源的相符性。
+17. Re‑open the governance layer and generate hypotheses based on validated factual data.
+17. 重新啟動決策層，並根據已驗證的客觀數據，構建假設。
+18. Surface emerging issues by allowing new data to flow into the problem‑identification layer.
+18. 通過讓新數據流入問題識別層，來呈現現時出現的問題。
+19. Generate political‑language or domain‑specific linguistic models using fine‑grained semantic materials.
+19. 利用精細的語義資料，生成特定領域或政治領域的語言模型。
+20. Activate deep‑analysis routines to identify underlying or “real” problems within clustered data.
+20. 啟動進一步分析，以找出羣組數據中的潛在或「真實」問題。
+21. Conduct structured political analysis using standardized analytical frameworks.
+21. 運用標準化的分析框架，進行有組織的政治分析。
+22. Produce high‑precision insights derived from the analytical layer.
+22. 產生經由分析層分析所得的高精度資訊。
+23. Present policy or analytical solutions using precision‑based rendering and communication routines.
+23. 運用精確的視覺呈現及溝通方法，闡述現時的政策或分析性解決方案。
+24. Refine political‑language outputs by iterating on semantic corrections and institutional language rules.
+24. 透過不斷修正語義和組織性語言規則，進一步優化政治語言的表達。
+25. Apply reflective correction to institutional structures by adjusting boundaries and preventing systemic errors.
+25. 透過調整界限並預防系統性錯誤，對組織結構進行反思性調整。
+26. Redistribute power or resource flows by cutting and reallocating structural components within the system.
+26. 透過調整和重新分配系統內部的結構性組件，重新調整權力或資源的流動。
+27. Terminate outdated institutional structures and dismantle obsolete governance patterns.
+27. 終結過時的組織架構，並取消已過時的管理模式。
+28. Convert proposed solutions into structured institutional formats suitable for governance implementation.
+28. 將建議的解決方案轉化為結構化的組織形式，以便於實施管理。
+29. Validate institutionalized solutions using anomaly‑detection routines to ensure structural correctness.
+29. 利用異常檢測方法，驗證方案的正確性，以確保其結構的正確性。
+30. Deploy validated solutions into the public governance or execution layer.
+將經過驗證的解決方案應用於公共治理或執行層。
+31. Integrate redistributed data back into the global flow through fine‑grained consolidation routines.
+31. 將重新分配的數據重新整合到全球流程中，透過精細的整合程序。
+32. Re‑enhance integrated data to regenerate semantic vectors or embeddings for the next modeling cycle.
+32. 重新處理整合數據，以產生新的語義向量或嵌入，用於下一個建模循環。
+33. Re‑cluster enhanced data to activate new grouping structures for downstream analysis.
+33. 重新組織優化數據，以啟用後端分析所需的全新羣組結構。
+34. Perform policy‑analysis routines on the newly clustered data using standardized analytical frameworks.
+34. 利用標準化的分析框架，對新整理的數據進行政策分析。
+35. Apply reflective correction to institutional structures by adjusting boundaries and preventing systemic errors.
+35. 透過調整組織結構的界限，並預防系統性錯誤，實施反思性修正。
+36. Stabilize structural conflicts by consolidating them into long‑term governance storage.
+36. 通過將結構性衝突整合到長期管理儲存中，以穩定它們。
+37. Return to the governance initiation layer to begin a new cycle of legislative or policy‑definition operations.
+37. 返回到政策制定的起步階段，開始一個新的立法或政策制定週期。
+At the core of this implementation is the Power Flow Protocol, a tightly ordered sequence comprising 37–38 algorithmic steps. These steps define the lifecycle of each proposal or theory-node, from knowledge capture and energy measurement to decision deployment and post-facto causal reattribution. The entire sequence is maintained on a Distributed Knowledge Ledger—a version-controlled database where all theory, data input, and resultant outputs are rendered in StellarEq units (Joules), mapped to a unified solar energy standard. This ensures that all political capital is based on objective, physical metrics, allowing for direct cross-domain comparability: whether the proposal concerns genetic engineering, energy policy, or interstellar mission logistics, its contribution to civilization is quantifiable on the same energetic basis.
+這個方法的核心是「Power Flow 協議」，這是一個包含 37–38 個演算法步驟的嚴格步驟。這些步驟定義了每個建議或理論的生命週期，從知識收集和能量測量，到決策實施和事後因果重新歸屬。整個流程在一個版本控制的資料庫中運作——「分散知識記錄」。這個資料庫包含所有理論、數據輸入和結果，以「StellarEq」單位（焦耳）表示，並與統一的太陽能標準對應。這確保了所有政治決策都基於客觀、實質的指標，從而實現跨領域的直接比較：無論是關於基因工程、能源政策還是星際任務的物流，其對文明的貢獻都可以以相同的能量基礎來量化。
+The protocol commences with proposal submission and contextualization. Each new theoretical or practical claim is: (1) formally described using the Computable Political Language; (2) mapped as a TheoryNode, PracticeNode, or EconomyNode on the Causal Graph; (3) assigned initial input/output StellarEq values; and (4) given a branching DependencyPath, which tracks all required antecedent knowledge. Proposals are then recursively evaluated through model-driven simulation and peer input, with their projected 
+ and 
+ calculated according to:
+該協議從提呈建議及背景資訊開始。 每次新的理論或實務主張：(1) 採用「可計算政治語言」進行正式描述；(2) 在因果圖上作為「理論節點」、「實務節點」或「經濟節點」；(3) 賦予初始的 StellarEq 變數；以及 (4) 獲得一個分岔的依賴路徑，用於追蹤所有必要的先驗知識。 之後，通過模型驅動的模擬和同行評估，對提案進行遞歸評估，並根據以下方式計算其預計的 
+ 和 
+ ：
+ 
+where 
+ is determined by the probabilistic function:
+而 
+ 則由隨機函數決定。
+Each proposal’s power potential is then integrated into the parliament’s dynamic Causal Graph. The computation accounts for 
+, which is calculated as 
+, guaranteeing that origination credit is proportionally diluted by time and subsequent contributions. This mechanism mathematically forestalls cross-generational class entrenchment: revolutionary ideas and high-impact actions achieve influence, but only as long as their real-world energetic contributions remain empirically validated and socially adopted.
+然後，每個建議的潛力會被整合到議會的動態因果關係圖中。 這種計算會考慮到時間和後續貢獻所導致的比例性稀釋，確保原始貢獻與時間和後續貢獻成比例。 這種機制在數學上預防跨世代的階級固化：具有革命性思想和高影響力的行動，只要它們在現實世界中持續產生實質性的貢獻，並得到社會的認可，就能產生影響。
+Following evaluation, the protocol mandates collective feedback and big data recalibration. Proposals may be iteratively refined or merged—for instance, via GitHub-style forks and pull requests—embedding open trackability and distributed intellectual ownership. Once consensus on StellarEq valuation emerges, the Model Parliament allocates computational political power via:
+經過評估後，該協議要求收集整體反饋並重新校正數據。建議可以不斷改進或合併——例如，通過類似 GitHub 的分支和請求——以實現開放式追蹤和分散的知識所有權。一旦就 StellarEq 的價值達成共識，則議會將通過以下方式分配計算政治權力：
+This formula is executed in real-time: as decision execution proceeds, live StellarEq metrics are constantly funneled back into the Dynamic Causal Ledger, ensuring that all real outcomes—both benefits and failures—are quantified, assigned, and recursively audited.
+這個演算法會實時執行：隨著決策的執行，實時的 StellarEq 數據會不斷地傳回給動態因果記錄，確保所有實際結果——無論是成功還是失敗——都能被量化、分配，並不斷地進行審查。
+The Power Flow Protocol’s final stages involve periodic dynamic epochal audit. Here, all allocations are holistically reviewed using the 
+, which enforces macro-political legitimacy by demanding ongoing advances in 
+, 
+, and 
+. This audit is not a bureaucratic process but a full algorithmic recalibration. Any stagnation, disempowerment, or retreat from civilization’s cosmic trajectory triggers multiplier reductions, rapidly stripping outdated proposals (and their associated power) from the system.
+Power Flow 協議的最後階段包括定期的動態時序審查。在此，所有資源都會全面審查，利用 
+ ，這通過要求持續改進 
+ 、 
+ 和 
+ 來確保宏觀政治的合法性。這種審查並非一種官僚程序，而是一種全面的算法調整。如果出現停滯、失去權力或退離文明的宇宙軌跡，就會導致倍數的減少，迅速從系統中移除過時的建議（以及它們相關的權力）。
+Through this layered, recursive chain—underpinned by hard-coded anti-corruption mathematics and computable law—the Model Parliament functions as a distributed, self-correcting parliamentary operating system. It provides a scalable blueprint for transitioning from identity-driven or capital-driven governance to a physically-grounded, auditable, and future-proofed civilization OS, capable of integrating empirical data, theoretical innovation, and multi-scalar decision execution in one seamless, mathematically coherent protocol.
+藉由這個層次結構、遞迴系統，並以硬編碼的反貪措施和可計算的法律為基礎，這個模型議會可以作為一個分散式、自我調整的議會運作系統。 它可以提供一個可擴展的藍圖，從以身份或資本為基礎的治理，轉向一個實際基礎、可審查、且具有未來可預測性的文明運作系統，能夠整合實證數據、理論創新，以及多個尺度的決策執行，並在一個無縫、數學上一致的協議中實現。
+6.3 Gradual Adoption and Layered Evolution
+6.3 漸進式採用及分層發展
+Overlay protocols enable phased integration with existing state and market systems
+這些協定允許與現有的政府和市場系統逐步整合。
+A critical strength of the Ontic governance protocol is its capacity for phased, non-disruptive integration with legacy systems—including nation-states, markets, corporate entities, NGOs, and ad hoc voluntary organizations. Rather than demanding revolutionary rupture or immediate institutional overhaul, Ontic advances through an overlay model, akin to the evolutionary deployment of internet protocols or blockchain infrastructure atop preexisting socio-technical environments.
+Ontic 治理協議的一個關鍵優勢在於其能夠以漸進式、不擾亂的方式與現有的系統整合，包括國家、市場、企業、非政府組織，以及臨時性的自願組織。與要求徹底的變革或即刻的組織性變革不同，Ontic 採用一種疊加式的方法，類似於在現有的社會技術環境中，逐步部署互聯網協議或區塊鏈基礎設施。
+This process unfolds in distinct evolutionary layers. Initially, Ontic coexists alongside traditional legal and economic mechanisms as an auxiliary analytical and accounting platform. Early integration leverages the Stellar Equivalent (StellarEq) unit to standardize diverse inputs—material, cognitive, financial—across up to different complex application scenarios, permitting fine-grained translation of disparate economic, political, and social activities into a unified physical-energy metric. Through dual accounting, participants can continue to operate within conventional currency and governance structures while incrementally adopting StellarEq-based ledgers for parallel value-tracking, experimentations with open-source distributed knowledge ledgers, and structured documentation of causal contributions (e.g., scientific advances, technological deployments, or policy interventions).
+這個過程分為不同的發展階段。首先，Ontic 作為一種輔助的分析和會計平台，與傳統的法律和經濟機制並存。早期應用利用「Stellar Equivalent」（StellarEq）單位，以標準化各種輸入（如材料、認知、財務），適用於多種複雜的應用場景，並實現對不同經濟、政治和社會活動的精細化翻譯，使其轉換為統一的物理-能量指標。透過雙重會計，參與者可以在維持傳統貨幣和治理結構的同時，逐步採用基於 StellarEq 的記錄，以進行並行的價值追蹤、使用開源的分佈式知識記錄，以及記錄因果貢獻（例如科學進步、技術應用或政策幹預）。
+The gradualism extends to Ontic’s Model Governance mechanism, which is layered atop traditional representations such as parliaments and markets as a distributed, recursive audit protocol. Early deployment does not require immediate full-spectrum shift to algorithmic decisionmaking; instead, Ontic’s Power Flow Protocol—composed of 37–38 algorithmically explicit steps—operates as a transparent meta-layer that tracks and scores theoretical, practical, and economic contributions within existing institutional workflows. This design ensures full backward compatibility and sidesteps the high resistance typically faced by transcendent political-economic reforms.
+這種漸進式方法也應用於 Ontic 的模型治理機制，該機制建立在傳統的代表體系，如議會和市場之上，並作為一個分散式、遞迴的審查協議。在早期實施時，不需要立即轉向算法決策；相反，Ontic 的「權力流協議」（由 37-38 個算法明確步驟組成）作為一個透明的元層，用於追蹤和評估現有的組織流程中產生的理論、實務和經濟貢獻。這種設計確保了完全的向後相容性，並避免了通常在超越性政治經濟改革中遇到的高阻力。
+A key technical strategy is the use of a dynamic Causal Ledger, recording time-weighted EdgeWeights and allowing for recursive recalibration of power at every node as new evidence or contributions accumulate. This process leverages Git/GitHub-style cryptographic provenance, open iteration, and merge/replace mechanics: legacy actors, governments, or companies may pilot Ontic as a federated overlay—allocating experimental StellarEq tranches to departments, research projects, or cross-border cooperation initiatives without altering core operational code. Over months or years, trust in the accuracy and utility of StellarEq and model-based Contribution metrics grows organically, facilitating wider adoption by network effect and observable superior correlation to real productivity, empowerment, and systemic risk mitigation.
+一個關鍵的技術策略是利用動態的因果記錄，記錄時間加權的 EdgeWeights，並允許在每個節點上進行遞迴校正。這個過程利用 Git/GitHub 樣式的密碼學溯源、開放迭代和合併/替換機制：傳統的組織、政府或公司可以先試用 Ontic 作為一個聯網覆蓋，並將實驗性的 StellarEq 資源分配給部門、研究項目或跨境合作項目，而無需修改核心運作程式碼。隨著時間的推移，人們對 StellarEq 和基於模型的貢獻指標的準確性和實用性越來越信任，這有助於通過網絡效應和可觀察到的與實際生產力、賦權和系統風險減輕的更好相關性，促進更廣泛的採用。
+Historically, technology-layer transitions—such as TCP/IP networking, blockchain settlement layers, or digital payment rails—have succeeded through such compatibility and opt-in extensibility. Similarly, Ontic’s uptake is designed to intensify at critical thresholds: as more governance, market, and civil society actors demonstrate functional gains (e.g., anti-corruption efficacy via time decay, more precise risk analysis, or improved innovation incentives), the ontic layer can be trustlessly ratified as canonical for growing domains of decision-making. This evolutionary trajectory enables global-scale adoption within a decade-long timeframe, with cumulative integration measured by the extent of societal flows denominated, audited, and executed in StellarEq and modeled through dynamic causal law, rather than static identity or legacy power.
+在歷史上，技術層的轉變，例如 TCP/IP 網路、區塊鏈結算層或數位支付系統，都透過這種相容性和自願擴展的機製成功。同樣地，Ontic 的應用也旨在在關鍵閾值上得到加強：當更多治理、市場和公民社會的參與者展示出實質性的效益（例如，透過時間衰減的防腐 skuteczność、更精確的風險分析或改進的創新激勵），則 Ontic 疊層可以被毫無信任地，作為日益擴大的決策領域的標準。這種演化的發展模式，可以在十年內實現全球規模的採用，並以 StellarEq 中被記錄、審核和執行的社會流動的程度，以及透過動態因果法則進行的模擬，來衡量累計的整合，而不是靜態的身份或傳統權力。
+Layered evolution also endows the Ontic model with resilience and learning capacity in the face of civilizational contingency. Instead of forcing universal consensus, Ontic can be piloted at municipal, sectoral, or transnational project levels, iterating parameters such as EdgeWeight calibration, CivilizationMultiplier, or algorithmic risk filters according to empirical evolutionary success. In effect, Ontic acts as a governance OS layer—progressively eating the old world not by fiat, but by recursive practical superiority and systemic fitness, mathematically benchmarking every adoption step against real increases in empowerment, productivity, and cosmic reach.
+這種分層演化的特點，賦予了 Ontic 模式在應對文明的變動時的韌性和學習能力。與其強迫普遍共識，Ontic 可以在地方、部門或跨國層級進行，並根據實證演化的成功情況，迭代參數，例如邊權校準、文明倍數或演算法風險過濾器。從實際角度來看，Ontic 就像一個治理系統，透過遞歸的實用優勢和系統適應性，逐步取代舊的模式，並在每一次採用步驟上，進行數學性的評估，以衡量在賦權、生產力和宇宙範圍方面的實際增長。
+6.4 Hayek Problem Resolution and Autopoietic Feedback
+6.4 海耶克問題的解決及自組織迴饋
+Ontic’s knowledge ledger achieves evolutionary, decentralized coordination without central planners
+Ontic 的知識記錄，能夠實現演進式、去中心化的協調，而無需中央規劃者。
+The persistent challenge outlined by Friedrich Hayek—the decentralization of knowledge and the practical impossibility of effective governance via central planning—has historically undermined the efficiency and legitimacy of both command economies and centralized technocracies. Ontic directly addresses this knowledge problem through a distributed, autopoietic knowledge architecture—namely, the Dynamic Causal Ledger and its recursive, real-time updating protocol.
+費裏希·海耶克所提出的持續挑戰——知識的去中心化以及通過中央計劃實現有效治理的實際困難——在歷史上一直損害了計劃經濟和中央技術官僚體系的效率和合法性。Ontic 透過一種分散式、自組織的知識架構來直接應對這個知識問題，具體來説是動態因果記錄以及其遞迴、實時更新協議。
+Unlike classic markets or even distributed blockchain voting, the Ontic framework operationalizes governance as an open, multistage evolution of validated causal claims. Every 
+ enters a civilization-wide Distributed Knowledge Ledger, where all theories, practices, and economic actions are registered as distinct nodes connected within a Causal Graph. These contributions are recursively audited and weighted according to direct energy impact, with each data point mathematically transformed into StellarEq (Joule) units. As new knowledge enters the system, the adoption rate, impact, and legitimacy of past contributions are dynamically recalculated, enforcing rigorous time-sensitive feedback. This process embodies the principle of autopoiesis: Ontic's regulatory logic continuously self-generates and self-corrects, with no central authority controlling knowledge validation or power allocation.
+與傳統市場或分散式區塊鏈投票不同，Ontic 框架將治理視為一種開放、多階段的驗證因果聲明的演變。每個 
+ 進入一個全域的知識記錄，其中所有理論、實踐和經濟行為都被記錄為連接在因果圖中的獨立節點。這些貢獻會經過遞歸審核和權重，根據直接的能量影響進行計算，並且每個數據點都會被轉換為 StellarEq (焦耳) 單元。隨著新知識進入系統，過去貢獻的採用率、影響力和合法性會動態重新計算，從而強制嚴格的時間敏感的迴饋。這個過程體現了自組織的原則：Ontic 的監管邏輯會持續自我生成和自我修正，而沒有任何中央權力來控制知識的驗證或權力的分配。
+Decentralization in Ontic is not merely a matter of network distribution but is enforced through protocol-level open iteration. All nodes independently submit and amend causal claims, with recursive dependency tracking ensuring that governance recommendations are persistently self-updating in light of new empirical data or theoretical advances. This open recursion is central to Ontic’s strategy to dissolve entrenched information asymmetries. Instead of top-down decree, the recursive audit process mathematically forces all power flows—economic or political—to be recalculated with each new epoch of verified data. The requirement for continuous, empirical, StellarEq-based recalibration is the key mechanism that prevents the emergence of rent-seeking, closed information monopolies, or static power structures.
+在 Ontic 系統中，去中心化不僅僅是網絡分佈的問題，而是通過協議層面的開放迭代來實現。所有節點獨立提交和修改因果聲明，並通過遞歸依賴追蹤，確保治理建議能夠持續地根據新的實證數據或理論進展而更新。這種開放的遞歸是 Ontic 系統實現消除根深蒂固的信息不對等性的關鍵策略。與從上而下的命令不同，遞歸審查過程通過數學方式，強制所有權力流——無論是經濟還是政治——在每次驗證數據的新週期中重新計算。持續、基於實證數據的 StellarEq 重新校準的要求，是防止出現尋租、閉鎖式信息壟斷或靜態權力結構的關鍵機制。
+For example, if a new practice or theory node generates a significant surge in 
+, this value immediately propagates through the Causal Graph, altering the downstream EdgeWeights, and diminishing the influence of legacy nodes whose contribution has become obsolete or marginal. Through the time-dependent EdgeWeight and TimeDecay functions, the ledger ensures that control cannot be maintained by mere historical precedence. The recursive, epochal audit process built into the ledger authenticates each iteration against both physical resource flows and distributed knowledge claims, precluding the stagnation and corruption endemic to command economies or algorithmic technocracies.
+例如，如果一個新的實踐或理論產生了對 
+ 的顯著增長，這個值會立即傳播到因果圖，改變下游的邊權重，並降低已過時或邊際化已存在節點的影響。透過時間依賴的邊權重和時間衰減函數，這個記錄系統確保，控制不能僅憑歷史先例來維持。這個記錄系統內置的遞迴、週期性審核過程，會驗證每個階段，並與實際資源流和分散知識聲明進行比較，從而防止在命令經濟或演算法技術體系中常見的停滯和腐蝕。
+This dynamic, distributed governance ensures that decision-making never ossifies within a central committee or proprietary algorithm. Instead, the process is continuously and openly regenerated by the entire participant base. Autopoietic feedback—the recursive self-renewal of political and economic influence based strictly on current and auditable energy-contribution metrics—outmodes static decision rules, majority votes, or semantic fiat. The Ontic system achieves what Hayek declared impossible for centralized states: it transforms the knowledge problem into a solved variable, using computable, cybernetically validated flows of information and energy to create a self-correcting, civilization-scale operating system for collective advancement.
+這個動態、分散式的治理體系，確保決策決不被集中委員會或專有演算法所束縛。相反，整個參與者羣體會持續且公開地重新產生決策過程。這種自生式的反饋——基於當前的、可驗證的能源貢獻指標，持續地自我更新——取代了靜態的決策規則、簡單的投票或概念性的指令。「Ontic」系統實現了海耶克所聲稱不可能的目標：它將知識問題轉化為一個可解決的變數，利用可計算、經過網絡驗證的信息和能源流，創造一個能夠自我調整、適用於整個社會的運作系統，以促進共同的進步。
+7. Comparison with Legacy Political Systems
+7. 與傳統政治體系的比較
+7.1 Limitations of Majoritarian, Capital, and Algorithmic Regimes
+7.1 權勢派、資本主義及演算法統治的主要限制
+At its core, any institutional design is fundamentally a mechanism for resource and interest allocation. Within legacy power pyramids, the elite strata orchestrating these systems compute decisions almost exclusively through the vectors of raw "power" and "interests"—where "95%" serves not as a rigid statistic, but as a figurative adjective denoting their absolute behavioral dominance. They utilize concepts like "freedom" or "morality" merely as rhetorical facades rather than operational objectives. Historically, this has manifested in two dominant, yet equally flawed, civilizational paradigms: the Eastern "Power-Money Standard" and the Western "Money-Power Standard."
+在根本上，任何組織的設計，實際上是一種資源和利益分配的機制。在傳統的權力結構中，控制這些系統的精英階層，主要通過「權力」和「利益」來做出決策，而「95%」並非一個嚴謹的數據，而是一種比喻性的形容詞，代表著他們的絕對支配地位。他們僅僅將「自由」或「道德」等概念作為修辭性的手段，而非實際的目標。歷史上，這體現在兩種主要的、但同樣存在缺陷的文明模式：東方的「權力-金錢標準」和西方的「金錢-權力標準」。
+The traditional Eastern paradigm, rooted in the ancient Chinese ontology of "All under heaven" (*Tianxia*), projects surface values of moral constants (such as benevolence, righteousness, propriety, wisdom, and trust). However, its underlying algorithmic reality operates strictly on a Power-Money Standard: absolute political authority is supreme, and institutional power is weaponized top-down to extract economic profit.
+傳統的東方模式，源於古老的中國哲學“天下皆準”，強調道德規範（如仁、義、禮、智、誠信）的表面價值。然而，其深層的運作邏輯卻嚴格遵循權力與金錢的標準：絕對的政治權力至高無上，並將制度權力以從上到下的方式利用，以榨取經濟利益。
+Conversely, the modern global order engineered by the West operates on a worldview of "Binary Opposition" (e.g., Capitalism vs. Communism). While its surface architecture broadcasts values of human rights, freedom, democracy, and individualism, its true underlying logic is the Money-Power Standard: capital is supreme, and accumulated economic wealth is utilized bottom-up to purchase, capture, and monopolize political power.
+另一方面，西方所建構的現代全球秩序，則基於「二元對立」的世界觀（例如：資本主義對比共產主義）。雖然這種秩序表面上宣揚人權、自由、民主和個人主義的價值，但其深層邏輯卻是「金錢與權力」的標準：資本至上，並將累積的經濟財富從下往上利用，以購買、控制和壟斷政治權力。
+Both legacy regimes ultimately fail because their hidden operational axes—whether power-driven profit or profit-driven power—inevitably lead to the cross-generational ossification of elite classes. The Ontic system exposes and mathematically collapses both paradigms. By redefining both "power" and "money" as objective flows of cosmic energy (StellarEq), Ontic bypasses these subjective, elite-driven games, computing governance solely based on verified evolutionary contribution rather than historical privilege or capital accumulation.
+無論是過去的統治模式，最終都會失敗，因為它們的隱藏運作方式——無論是基於權力獲取還是財富獲取——不可避免地導致精英階層的世代固化。Ontic 系統能夠揭示並數學上解決這兩種模式。通過將「權力」和「財富」重新定義為宇宙能量的客觀流動（StellarEq），Ontic 能夠繞過這些主觀、由精英所驅動的遊戲，並僅僅基於經過驗證的演化貢獻來進行治理，而不是歷史權力或資本積累。
+Legacy rule systems mathematically guarantee class ossification under accelerating automation
+傳統的系統設計，在自動化加速的情況下，能夠數學上保證類別的隔離。
+Traditional political systems—majority-rule democracy, capital-based oligarchy, and top-down algorithmic technocracy—share a structurally fatal flaw: their core criteria for decision and power allocation are mathematically incapable of adapting to the compound acceleration and unbounded complexity introduced by artificial intelligence, automation, and globally integrated economic flows.
+傳統的政治體系——以多數決定的民主、以資本為基礎的寡頭統治，以及從上到下的演算法統治——都存在一個結構性的缺陷：它們在決策和權力分配方面的核心標準，無法適應人工智慧、自動化以及全球經濟流動所帶來的複合加速和無限複雜性。
+In majoritarian democracy, political power is allocated on the basis of votes. While this appears participatory, the voting mechanism is strictly identity-ordinal rather than contribution-metric. The aggregation of preferences by headcount does not scale: it reduces the dimensionality of civilizational decision space to a binary or n-ary selection, ignoring the recursive, multi-scale feedbacks between specialized knowledge, actualized labor, and technological progress. As the number of eligible voters N increases, the probability that individual knowledge, technical contribution, or energy-saving insight is converted into proportionate power approaches zero, especially in technical contexts where expertise is required for effective governance. Consequently, emergent phenomena such as regulatory capture, partisan manipulation, and voter demotivation proliferate. In the context of accelerating automation and data volume—witnessed since the early 21st century—the inability of majoritarian mechanisms to filter, amplify, or reward high-contribution theorists or practitioners results in a 'mediocrity equilibrium': an inherent bias toward status-quo and lowest-common-denominator governance, mathematically guaranteeing that outlier innovators and systemic correctors are disenfranchised at scale.
+在大多數人民主制度下，政治權力根據投票結果分配。雖然這種方式看起來是具有參與性，但投票機制實際上是基於身份的順序，而非貢獻的指標。僅僅根據投票人數來總結偏好，無法擴展：它將社會發展的決策空間簡化為二元或多元選擇，而忽略了專業知識、實際勞動和技術進步之間的遞迴、多尺度反饋。隨著合格選民數 (N) 增加，個人知識、技術貢獻或節能的見解轉化為相應權力的機率趨向於零，尤其是在需要專業知識的技術環境中。因此，出現瞭如監管操縱、黨派操縱和選民動機下降等現象。自…二十一世紀初期——當主要決策機制無法篩選、放大或獎勵有貢獻的理論家或實踐者時，就會導致一種「平均化」狀態：這種狀態內在偏向維持現狀和最低共同點的治理，並且數學上確保，具有創新性和系統修正作用的人會受到大規模的排斥。
+Capital-based regimes, including liberal market economies and their plutocratic derivatives, structurally tie influence to accumulations of monetary wealth or asset ownership. In energy-system terms, these models mistake static capital stocks (fiat, securities, land, IP) for ongoing energetic or theoretical contribution. The power law dynamics of asset compounding ensure that, over time, wealth and thus power centralize via hereditary, corporate, or algorithmically managed vehicles—regardless of declining actual net contribution to civilization’s energy flow. These models do not natively implement a TimeDecay function: capital, patents, and entitlements are insulated from obsolescence. As observed in real-world data since at least the mid-20th century (see Piketty, 2014), this mechanism yields cross-generational class monopoly, oligarchic entrenchment, and a shrinking 'useful class' whose labor or knowledge is rendered obsolete by AI or capital automation. As AI productivity accelerates, the economic value of human participation becomes increasingly decoupled from capital reward distributions, mathematically guaranteeing permanent underclass formation or 'useless class' expansion, irrespective of civilizational need or possible empowerment.
+以資本為基礎的經濟體系，包括自由市場經濟及其衍生的寡頭經濟，將權力與貨幣財富或資產的積累聯繫起來。在能源系統的框架下，這些模式將靜態的資本（如法定貨幣、債務、土地和知識產權）視為持續的能量或理論貢獻。資產的複利效應確保，隨著時間的推移，權力會集中在繼承、公司或算法管理的體系中，無論實際的貢獻對文明的能源流動是否減少。這些模式並未內置時間衰減函數：資本、專利和權利受到保護，不會過時。如從 20 世紀中期開始的實際數據顯示（參見皮凱，2014 年），這種機制導致跨世代的階級壟斷、寡頭的鞏固，以及一個「不再有用的階級」，其勞動或知識已經被 AI 淘汰。資本自動化。隨著人工智能生產力不斷增長，人類參與的經濟價值與資本獎勵分配之間的關係變得越來越不相關，從數學上來説，這將導致永久性的弱勢羣體形成或「無用階層」的擴大，無論是社會的需求或可能的賦權。
+Algorithmic or technocratic regimes—where decision rights are delegated to centralized expert committees, data-driven heuristics, or monolithic AI—claim increased rationality but reintroduce the 'knowledge problem' in a new form. The selection and tuning of algorithms, and the authorization of baseline objectives, remain subject to static meta-political choices, with technical debt and error propagation compounding over each (generation, decision cycle, crash event). Absent full recursion and energy-based contribution accounting, these algorithmic mechanisms cannot dynamically decouple decision power from static design or founding biases. Furthermore, by vesting decisive control in design committees (public or private) or initial programmers, these systems mathematically pre-lock power structures, driving a new elite stability. History since the 2010s has demonstrated how algorithmic scoring, social credit, and platform moderation can instantiate a digital feudalism, replacing analog classes with computational castes governed by non-transparent feedback processes.
+演算法或技術官僚體制——其中決策權委託給中央專家委員會、數據驅動的準則或單一的 AI——聲稱能提高理性的程度，但卻重新引入了「知識問題」，只是以新的形式。 算法的選擇和調整，以及基礎目標的授權，仍然受到靜態的政治選擇的影響，而技術債務和錯誤的傳播會隨著每一次（世代、決策循環、崩潰事件）而累積。 由於缺乏完全的遞歸和以能量為基礎的貢獻計算，這些演算法機制無法動態地將決策權與靜態設計或根本性的偏見分離。 此外，通過將決策權委託給設計委員會（無論是公立還是私立）或最初的編程者，這些系統在數學上預先鎖定了權力結構，從而產生了新的精英穩定性。自 2010 年至今，已經證明瞭演算法評分、社會信貸以及平台審查如何導致一種數字化的封建主義，將傳統的階級社會轉變為由不透明的評分系統所控制的計算型階級。
+Across all three paradigms, the absence of time-dilutive, energy-contribution-coupled, and universally computable power metrics provably results in class ossification, risk of systemic capture, and rapid divergence between civilizational need and actual governance response—risks which escalate geometrically under the pressure of exponential AI, cross-border automation, and recursive digital ecosystems.
+在所有三個框架下，缺乏能夠衡量時間、能量貢獻以及可計算的功率指標，顯然導致了社會分層、系統被控制的風險，以及社會需求與實際治理反應之間的快速脱離——這些風險在指數型人工智能、跨境自動化以及遞迴數字生態系統的壓力下，會呈指數級增長。
+7.2 Ontic Versus Digital Communism and Tech Oligarchy
+7.2 實體主義對比數位共產主義及科技寡頭統治
+Energy-based dynamic audit neutralizes algorithmic class traps and surveillance power
+Conventional digital governance models—whether explicitly communist in design or oligarchic by control—converge on algorithmic centralization. Both approaches rely on state or corporate algorithms to allocate resources or monitor population activity, often underpinned by opaque code bases and insulated technocratic elites. In "digital communism," a centralized protocol distributes basic outputs—housing credits, food, social permits—ostensibly promising equality through automation, yet always via fixed rules and static user identities. Tech oligarchy, meanwhile, reifies wealth or platform control, allowing digital asset holders or platform developers to entrench rule, sometimes circumventing nation-state oversight altogether through proprietary infrastructure, network effects, or algorithmic black-boxes.
+Both models are critically vulnerable to the formation of algorithmic class monopolies, cross-generational asset hoarding, and locksmith power asymmetries. Surveillance architectures—biometric ID, credit-scoring, or predictive policing—entrench digital neo-feudalism by algorithmically locking populations into roles with little room for exit or upward mobility. Even when digitized, social contracts recover only the symptoms of obsolete political metaphysics, never the physical roots: energy flows and empirical contribution.
+In contrast, the Ontic framework severs these legacies by enforcing a physically computable and recursively audited energy currency foundation. All activities and rights are mapped in real time to StellarEq (Stellar Equivalent) units, grounding civilizational value in measurable Joules. The core power allocation function, 
+, ensures no power persists without ongoing, empirically tracked net contribution across knowledge (TheoryNode), practice (PracticeNode), and economy (EconomyNode). This calculation is continuously recalibrated via a Distributed Knowledge Ledger and Dynamic Causal Ledger, rendering all value flows auditable, transparent, and mathematically reversible.
+另一方面，Ontic 框架通過實質性計算和持續審核的能源貨幣基礎，來打破這些傳統。所有活動和權利都實時地映射到 StellarEq（恆星等值）單位上，將文明價值與可測量的焦耳聯繫起來。核心的電力分配函數， 
+ ，確保沒有電力在沒有持續、實質性追蹤的淨貢獻的情況下存在（在理論、實踐和經濟三個方面）。這個計算會通過一個分佈式知識賬本和動態因果賬本不斷校正，使所有價值流動可審查、透明，並且可以用數學方式可逆。
+Key to Ontic’s anti-totalitarian defense is the Causal Edge Weight 
+, dampened by a strict TimeDecay factor. This mechanism mathematically guarantees that no static allocation—whether digital capital, hereditary influence, or prior algorithmic "first moves"—can escape dilution over time. Thus, even if a protocol architect or a founding cohort initially amasses significant influence through computational breakthroughs, 
+ will, by design, diffuse their claim on network power at a mathematically predictable rate, ultimately reverting any gains to the civilizational public domain. There is no digital rentier lock-in; all governance is subject to a recursive audit and open iteration protocol.
+Ontic 系統的反獨特主義防禦的核心是「因果邊界權重 
+ 」，並受到嚴格的時間衰減因素的影響。 這種機制數學上保證，無論是數碼資產、世襲權力，或先前的演算法「首批行動」，都無法隨著時間的流逝而消失。 因此，即使演算法設計師或創始團隊在計算突破方面最初獲得了顯著影響力， 
+ 將通過設計，以一種可預測的數學速率，將其對網路權力的影響力轉移回公眾領域。 這種情況下，不會出現數位壟斷；所有治理都受到一種循環審查和開放演算法的約束。
+This paradigm starkly contrasts with blockchain "governance tokens," reputation points, or digital credit systems. Those systems valorize early-mover advantage or reputation inertia, artificially entrenching power through technical scarcity or privileged identity. Ontic’s StellarEq quantifies only ongoing, real-world, energy-substantiated contributions. The 
+ further safeguards against digital stasis or dystopian traps by algorithmically nullifying any systemic drift toward UBI-induced passivity, automated dependency, or totalitarian consensus. Instability, de-empowerment, or loss of cosmic judgement capacity triggers a multiplier collapse, dynamically erasing influence from stagnant protocols.
+這種模式與區塊鏈「治理代幣」、「聲譽積分」或數碼信用系統截然不同。這些系統強調早期進入者優勢或聲譽的穩定性，藉由技術稀缺或特權身份，來人工地鞏固權力。Ontic 的 StellarEq 僅量測實際、持續的、與能源相關的貢獻。此外， 
+ 也能有效防止因 UBI 導致的被動、自動化依賴或專制共識，進而產生系統性變動。不穩定、權力喪失或失去宇宙判斷能力，會導致影響迅速消失，從而消除停滯的協議。
+Practically, this results in a civilization operating system immune to both soft algorithmic totalitarianism and hard digital oligarchy. Algorithmic decisions and identity frameworks cannot ossify: every policy, statute, or technical intervention must undergo perpetual, public, mathematically governed audit, with all inputs and outputs mapped directly to the material-energy dimension. This computational, energy-contribution ground truth eclipses both subjective political fiat and digital identity gaming, providing a mathematically secure pathway for distributed knowledge democracy and robust prevention of class lock-in across both biological and algorithmic generations.
+實際上，這導致一種不受軟性演算法統治和硬體數字寡頭統治影響的社會系統。演算法決策和身份框架不能僵化：每項政策、法規或技術幹預都必須經過持續、公開、由數學規範的審查，所有輸入和輸出都直接與物質-能量維度相關。這種基於計算和能量的真實情況，遠遠超越了主觀的政治決定和數字身份遊戲，為分散式知識民主和在生物和演算法世代之間的堅實的防止提供了數學安全的途徑。
+7.3 Dimensional Collapse Outcomes
+7.3 體積收縮的結果
+How StellarEq Renders Politics in One Algorithmic Dimension
+StellarEq 如何以一個演算法的視角呈現政治
+The Ontic system achieves a foundational dimensional collapse by converging the immense social, economic, and technological heterogeneity of legacy political systems into a single physically computable axis: the Stellar Equivalent (StellarEq), quantified in absolute energy units (Joules). In contrast, legacy systems such as democracy, capitalism, and communism are inherently multidimensional, relying on irreducible, often subjective variables—votes, capital, class, identity, law, and cultural narratives—that resist universal commensurability and thus prohibit unambiguous optimization.
+Ontic 系統通過將傳統政治系統的巨大社會、經濟和科技差異性，整合到一個單一、可計算的軸：星體等值 (StellarEq)，以絕對能量單位（焦耳）為單位。 相反，例如民主、資本主義和共產主義等傳統系統，本質上是多維的，依賴於不可分割的、通常是主觀的變數——如投票、資本、階級、身份、法律和文化敍事，這些變數難以進行普遍的比較，因此無法實現明確的優化。
+This tangle of incompatible metrics is the root cause of persistent political deadlock, inefficiency, and capture in traditional regimes. For example, capitalist allocation relies on fiat currency, which is recursively defined by political fiat and central bank discretion—untethered from any physically measurable anchor. Majority-rule democracy counts ballots but conflates the intensity, knowledge, or energetic value of input, enabling both populist volatility and technocratic gridlock. Socialism and communism deploy class-based models that are non-computable, heavily path-dependent, and easily co-opted by emerging bureaucracies. All such frameworks require meta-institutions (courts, parliaments, central committees) to continually negotiate, reinterpret, and redefine legitimacy, preventing convergence upon objective outcomes.
+這種不相容的指標系統是傳統政權持續的政治僵局、效率低下和被操控的根本原因。例如，資本主義的資源分配依賴於法定貨幣，而這種貨幣的定義則取決於政治決策和中央銀行的裁量—與任何可測量的實體脱離。以多數決定的民主制度，雖然計數選票，但卻混淆了輸入的強度、知識或能量價值，從而導致民粹主義的波動和技術官僚的僵局。社會主義和共產主義採用階級主義的模式，這些模式不可計算、高度依賴於歷史發展，並且容易被新興官僚所利用。所有這些框架都需要元機構（法院、議會、中央委員會）不斷地協商、重新詮釋和重新定義合法性，從而阻止對客觀結果的共識。
+Ontic’s dimensional collapse is engineered via the universal application of the StellarEq transformation: each input or output—whether labor, economic value, invention, governance proposal, or social service—is mapped to a solar energy equivalent. This operation is mandatory and recursive. For instance, a hospital procedure, a banking algorithm, or a policy whitepaper each must pass through an explicit StellarEq mapping, quantifying total net energy converted or conserved for civilization. This enables direct, lossless aggregation, comparison, and optimization across previously incommensurable sectors.
+Ontic 的「時空塌縮」機制，透過應用普遍的 StellarEq 轉換：無論是勞動力、經濟價值、發明、政策建議或社會服務，都將轉換成太陽能的等值。 這種運作是強制性的，並且是循環性的。 舉例來説，醫院的流程、銀行算法或政策文件，都需要經過明確的 StellarEq 轉換，以量化文明所轉換或保留的總淨能量。 這種方法，能夠直接、無損地在以往無法比較的領域進行匯總、比較和優化。
+Formally, all political and economic flows, regardless of origin or context, are recursively forced into a computable scalar:
+ 
+where every 
+ is the time-dependent energy flow of node i (person, institution, proposal) expressed as its precise contribution to system-wide energy budget. Governance, distributional fairness, and even intergenerational justice are then grounded in arithmetic operations over this unified dimension, eliminating the need for ad hoc legal, moral, or identity criteria.
+This collapse of governance dimensionality yields three transformative outcomes. First, it annihilates pathways for power obfuscation, since all claims must resolve to transparent energy balances, subject to empirical audit. Second, it radically accelerates political computation and feedback, bypassing the combinatorial explosion of multi-criteria negotiation. Proposals are immediately ranked by NetEnergyGain per unit Risk, producing a globally optimal causal sequence. Third, Ontic’s dimensional unity makes the system autopoietic and self-correcting: errors in policy or attribution quickly propagate as measurable energetic deficits, automating both detection and correction while minimizing the space for corruption or cognitive capture.
+這種治理層次的崩解產生三個轉型性的結果。首先，它消除了權力掩蓋的途徑，因為所有聲明都必須與透明的能源平衡相符，並經過實證審核。其次，它極大地加速了政治計算和反饋，繞過多標準協商的組合爆炸。建議立即根據每單位的淨能量收益進行排序，產生一個全球優化的因果順序。第三，Ontic 的層次統一使系統具有自組織和自我修正能力：政策或歸屬上的錯誤會迅速擴散為可測量的能量短缺，自動化檢測和修正，同時最大限度地減少腐敗或認知操縱的空間。
+In sum, Ontic’s dimensional collapse is the kernel innovation that precludes legacy tragedies—class ossification, bureaucratic drift, or populist excess—by unifying all governance processes within an unambiguous, lossless, and algorithmically computable physical order. This reconstitution of political agency along one energetic axis is the necessary precondition for both planetary and interstellar-scale coordination in the age of algorithmic civilization.
+總而言之，Ontic 的「空間壓縮」是核心的創新，能夠避免傳統的弊端，例如階級固化、官僚主義的停滯，或民粹主義的過度，藉著將所有治理流程整合於一個明確、無損、且可透過演算法計算的物理秩序。這種在單一軸上重塑政治權力，是於演算法文明的時代，實現全球及星際規模的協調的必要先決條件。
+8. Discussion: Future Trajectories and Practical Outlook
+8. 討論：未來發展趨勢及實務展望
+8.1 Open Research and Evolutionary Calibration
+8.1 開放式研究及演化校正
+Algorithmic governance requires continuous empirical validation and systemic learning
+演算法式管理需要持續的實證驗證和系統性學習
+The Ontic Physical Computable Governance Causal Flow Formula is intentionally designed not as a static framework, but as an evolutionary research program. Its core premise—that all political, economic, and social activity can be reduced to empirically verifiable, energy-based computations—demands ongoing recalibration as civilizational complexity increases and technological frontiers advance. Open research, therefore, is not an ancillary concern for the Ontic system; it is a core operational requirement for its long-term validity and civilizational resilience.
+「Ontic 物理計算治理因果流程公式」是專為設計成一種動態的研究計劃，而非靜態的框架。其核心假設——所有政治、經濟和社會活動都可以被簡化為經驗上可驗證、基於能量的計算——需要隨著文明複雜度和科技發展不斷調整。因此，開放的研究對於「Ontic」系統來説並非次要問題，而是其長期有效性和文明韌性的核心運作要求。
+The recursive auditability of Ontic’s formulas, especially the Calculation of 
+, mandates dynamic evolutionary feedback. As new data on systemic outputs, social impacts, and risk patterns become available (via real-time big-data streams, distributed ledgers, or social sensors), the weights assigned to energy inputs, risks, or civilization multipliers must be continuously updated. For example, the TimeDecay and 
+ functions—critical for anti-oligarchic and anti-feudal filtering—require empirical testing across epochs and domains to properly gauge when knowledge or power should revert to the commons. Scenario-based calibration, such as varying labor-saving or resource-redistribution values in response to crises or technological shifts, becomes essential in ensuring the continued accuracy and fairness of StellarEq computations.
+Ontic 嘅公式具有遞迴審查性，尤其係「 
+ 」嘅計算，需要持續嘅演化式回饋。 隨著有關系統性輸出、社會影響同風險模式嘅新數據出現（透過實時大數據流、分佈式賬本或社會感應），需要持續更新賦予能源輸入、風險或文明倍數嘅權重。 譬如，「TimeDecay」同「 
+ 」函數，對於防止寡頭主義同封建主義，需要喺不同時期同領域進行經驗測試，以準確判斷知識或權力應該歸於公眾。 透過應對危機或科技變革，例如調整勞動節省或資源重新分配嘅價值，成為確保 StellarEq 運算持續準確同公平嘅重要方法。
+Institutional iteration also interacts directly with the system’s evolution. The recommended multi-phase implementation pathway—ontology building, knowledge ledger constitution, StellarEq economy refinement, then full-scale Model Governance—was formulated to facilitate modular recalibration. Each stage establishes empirical baselines and feedback loops, allowing social scientists, programmers, and citizens to collectively audit, refine, and dispute both input metrics and decision algorithms. This collaborative revision, enforced through the Distributed Knowledge Ledger and Dynamic Causal Ledger, automatically prevents model ossification and adapts to emergent threats such as manipulation, data drift, or unanticipated feedback effects.
+此外，制度演變也會直接影響系統的發展。建議的分階段實施途徑——包括建立知識語庫、構建知識記錄、改進 StellarEq 經濟，然後是全面規模的模型治理——旨在促進模組化調整。每個階段都會建立實證基礎和回饋循環，使社會科學家、程式設計師和市民能夠共同審查、改進和爭論輸入指標和決策演算法。透過分散式知識記錄和動態因果記錄，這種協同改進能夠自動防止模型僵化，並適應出現的新風險，例如操縱、數據漂移或意外的回饋效應。
+Rather than relying on expert authority or historical precedent, Ontic codifies open iteration as a functional necessity. At every level, the 
+ dynamically filters policy and theoretical progress, so that the system—like an evolving artificial intelligence—self-corrects toward the highest empowerment, stability, and truth-seeking capacity. Discursive feedback, adversarial testing, civic participation, and cross-domain auditing are essential to this autopoietic process. For maximal robustness, routine epochal audits should be institutionalized, wherein all systemic variables, weighting mechanisms, and computed outputs undergo rigorous reevaluation against direct empirical observation, scenario testing, and cross-system comparison.
+Ontic 採用實用性的方法，而非依賴專家意見或歷史先例。在每個層面， 
+ 會動態地篩選政策和理論的進展，從而使系統——就像一個不斷發展的人工智慧——能夠自動調整，以實現最高的權力、穩定性和真理尋求能力。為了實現最大的可靠性，應將定期的大規模審查制度化，其中，系統的所有變數、權重機制和計算結果，都應經過嚴格的重新評估，並與直接的實證觀察、情景測試和跨系統比較進行對比。
+Ultimately, the Ontic paradigm asserts that no model, however mathematically elegant, is exempt from empirical revision or algorithmic improvement. Rather, it makes the process of evolutionary calibration a foundational pillar, ensuring that the governance architecture remains physically grounded, politically legitimate, and perpetually aligned with real-world complexity.
+總體而言，Ontic 框架認為，無論模型有多麼精巧，都無法逃過經驗性的修正或演算法的改進。相反，它強調演化的校正是一個基礎，確保治理架構始終保持實質基礎、政治合法性，並與實際世界的複雜性保持一致。
+8.2 Human Free Will, Adversarial Dynamics, and Resilience
+8.2 人類的自由意志、競爭環境及應變能力
+How Ontic’s dynamic mathematics safeguards non-authoritarian agency in post-labor society
+Unlike conventional political frameworks, which oscillate between authoritarian stability and populist volatility, the Ontic model mathematically encodes the protection of human free will and adaptive civilizational agency as a direct function of its core physical variables. This is accomplished through a recursive, algorithmically-audited structure that binds all governance flows to objective contributions, adaptive risk metrics, and an unceasing feedback mechanism that dissolves static power strata.
+At the heart of this architecture lies the 
+, itself the product of three continuously measured variables: 
+, 
+, and 
+. This multiplier acts as a non-ideological, high-frequency audit on any policy or proposal, instantly modulating political decision-making power according to the empirical state of human autonomy, productivity, and creative advancement. Should any vector—such as autonomous capacity or meaning-seeking agency—decline due to over-automation, algorithmic control, or enforced dependency, the multiplier contracts. This automatically erases the influence of stagnating proposals and disables entrenchment of oppressive structures, mathematically forcing regeneration or innovation as the survival default.
+這個架構的核心是 
+ ，而這個本身是由三個持續監測的變數： 
+ 、 
+ 和 
+ 構建而成。這個乘數作為一種非意識形態、高頻度的審查，能夠立即根據人類自主性、生產力和創造力的實際情況，調整政治決策權。如果任何變數——例如自主能力或尋求意義的行為——因為過度自動化、演算法控制或強制性依賴而下降，這個乘數就會縮小。這會自動消除停滯的建議的影響，並阻止壓迫性結構的固化，從而強制性地實現再生的或創新的狀態。
+The 
+ function, derived from each contributor’s causal link in the knowledge and practice graph, ensures that power flows are always time-diluted and contextually redistributed. In adversarial scenarios—such as attempts by dominant AI stakeholders or tech oligarchs to perpetuate systemic control—Ontic’s TimeDecay mechanism neutralizes static privilege by algorithmically reverting value to the collective, preventing monopolistic control over either data or labor. Every node’s legitimacy, whether theory, technology, or institutional, is continually challenged and updated based on current measurable contribution, not on identity or legacy.
+Labor liberation, particularly in a world approaching secondary workforce obsolescence, is mathematically enacted as all essential economic, creative, and social processes are measured and compensated strictly by their net energy contribution (StellarEq units) and current-impact factor. This banishes the conditions for a "useless class" or enforced dependency, as even distributed micro-contributions—cognitive, creative, or collaborative—are dynamically tokenized and valued by their systemic impact rather than traditional employment contracts. As AI and automation absorb routine roles, Ontic’s risk matrices and energy calculations guarantee that the only legitimate path to political or economic power is through identifiable, auditable, and public net contribution.
+勞動自由，尤其是在勞動力逐漸被淘汰的全球背景下，在數學上被實現，因為所有重要的經濟、創造和社會過程都嚴格地根據其淨能量貢獻（StellarEq 單位）和當前影響因素來衡量和補償。 這種方法可以消除「無用階層」或強制依賴的條件，即使是分散的微小貢獻（例如認知、創造或協作）也會根據其系統影響，而不是傳統的就業合約來動態地評估和價值。 隨著人工智能和自動化逐漸取代 routine 的工作，Ontic 的風險評估和能量計算確保，通過可識別、可驗證和公開的淨貢獻，才是通往政治或經濟權力的唯一合法途徑。
+Resilience to adversarial capture is built into the physical underpinnings of the model. By encoding all authority in current and posterior contribution, and by subjecting rights and resource allocation to relentless open iteration and epochal audit, Ontic establishes a moving target for would-be centralizers. Distributed knowledge input (the solution to the Hayek knowledge problem) compounds this protection, ensuring no single class or algorithmic authority can cap, contain, or monopolize civilizational direction. The result is an evolutionary architecture: automatically resilient to authoritarian drift, oligarchic recursion, or mass passivity. Only the self-renewing dynamism of collaborative human knowledge, empowered by physical law and measured in energetic terms, is countenanced as a legitimate governance driver.
+對敵方攻擊的抵抗力，已內建於模型的基本架構之中。透過記錄所有當前及未來貢獻的權限，並將權力和資源分配 subjected to 頻繁的開放審查和週期性審查，Ontic 建立了對潛在中央勢力的動態目標。分散式知識輸入（解決海耶克知識問題的方案）進一步增強了這一保護，確保沒有任何單一類別或演算法權力可以限制、控制或壟斷社會發展的方向。結果是一個演化的架構，能夠自動抵抗專制主義、寡頭統治或大規模的無動性。只有基於物理定律，並以能量為單位的，自發性、協作的人類知識，才被視為合法的治理動力。
+In sum, the Ontic framework does not defend free will through appeals to abstract rights or tradition but by mathematically embedding non-reducible agency, mandatory empowerment, and continual civilizational self-renewal into the very mechanics of power distribution. Against all adversarial dynamics—be they algorithmic, economic, or cultural—the system’s core mathematical flows robustly favor adaptive, liberated, and non-authoritarian human flourishing.
+總而言之，Ontic 框架並非透過引用抽象權利或傳統來捍衞自由意志，而是透過將不可分割的自主性、強制性的賦權以及持續的社會文明自我更新，融入權力分配的根本機制。 針對所有形式的競爭性互動——無論是算法、經濟還是文化層面——這個系統的核心數學運作，堅定地支持適應性、自由和非威權的社會發展。
+8.3 Towards a Model-Governed, Distributed Knowledge Democracy
+8.3 邁向以模型為主的、分散式知識民主
+Evolution from hierarchical governance to cybernetic, energy-based collective intelligence
+從傳統的層級式管理系統，發展到以網絡和能源為基礎的協同智慧
+The Ontic framework envisions a phased, non-revolutionary migration from legacy political infrastructures toward a civilization-scale operating system: a distributed, model-governed knowledge democracy. This transition is not a sudden shift, but a layered, cybernetically-managed integration—analogous to how the internet or blockchain protocols progressively overlay existing societal processes. Rather than relying on electoral cycles, entrenched capital flows, or static identity, the Ontic system executes a deeply recursive transfer of power, where all validity and authority are mathematically tethered to real-time, empirically verified contributions, quantified as Stellar Energy Equivalents (StellarEq) across a universal energy ledger.
+Ontic 框架預見到，從現有的政治基礎設施逐步轉向一個規模龐大的運作系統：一個分散式、以模型為基礎的知識民主。這個轉變並非突然發生，而是一個分層、透過網路管理的整合—與互聯網或區塊鏈協議的逐步疊加相似。與依賴選舉週期、固化的資本流動或靜態身份不同，Ontic 系統會執行一個深層次的權力轉移，其中所有權力和權威都與實時、經驗證明的貢獻聯繫起來，並以「星能等值」（StellarEq）的形式記錄在一個全球性的能源帳户中。
+The practical trajectory begins with systematic data capture and the articulation of a computable ontology. This phase involves mapping all existing and emergent social, economic, and cognitive input-output flows into energy-based units, using StellarEq as a single coherent metric. Pilot implementations may start in technical domains—open science, large-scale engineering, or distributed R&D platforms—where evaluating contributions by net thermodynamic effect, not institutional status or monetary capital, is already culturally viable.
+The next operational step is constructing a Distributed Knowledge Ledger: a versioned, recursively auditable causal graph where Theory, Practice, and Economy nodes are scored and weighted according to dynamic 
+ functions and monitored through continuous TimeDecay. In this protocol, every contribution and its downstream effects can be traced, compressed, and resolved back to their root dependencies, mathematically destroying the possibility of static, cross-generational power monopolies. Unlike reputation systems or patent registries, which ossify control, the Ontic ledger ensures influence continually reverts to the commons unless perpetually reinforced with new, measurable advancement.
+At scale, this architecture supports a Model Parliament—the distributed execution layer of Ontic governance. Here, all proposals, regulations, and value allocations are deliberated, upgraded, or discarded through energetic calculus: the 
+ formula, risk scoring, and the CivilizationMultiplier filter acting as evolutionary selection. Distributed consensus is achieved not through rigid majorities or plutocratic gatekeeping, but through collaborative, algorithmic audit of energy-contribution flows, with open iteration and error-corrective dynamics encoded into institutional fabric.
+Crucially, Ontic’s compatibility with gradual adoption allows it to interoperate with, rather than instantly replace, existing legal, economic, or knowledge systems. Early overlay applications may include scientific publishing, open hardware consortia, or mission-driven DAOs, each benefiting from the anti-corruption, recursive feedback, and open iteration mechanisms built into the Dynamic Causal Ledger.
+Looking to civilizational horizons, the Ontic operating system provides the mathematical and cybernetic substratum required for both planetary-scale coordination and the interstellar ambitions of humanity. As AI-driven automation intensifies and the Great Reset accelerates, only systems anchored in physical reality—the conversion of biological and technological energy for human empowerment—can prevent irreversible bifurcation into digital authoritarianism or economic obsolescence. By universalizing energy contribution as the unit of political value, Ontic opens the path to a civilization that is radically collaborative, self-correcting, and prepared for transcendence beyond terrestrial limitations.
+9. Final Level Statement
+9.1 The Survival Equation
+Mathematical power formulas secure freedom and adaptive resilience at planetary scale
+At the heart of the Ontic Physical Computable Governance framework is a pivotal realization: human and civilizational survival, particularly in the face of coalescing automation, algorithmic governance, and planetary crisis, requires that the dynamics of political power be grounded in absolute, physically computable laws. The central formula, 
+, directly embeds the principle that legitimate influence can only emerge from actively validated, measurable contributions, dynamically updated and scrutinized through open feedback. All such contributions are universally reduced to StellarEq units—solar energy equivalents measured in Joules—guaranteeing cross-domain comparability and eliminating arbitrary social or monetary privilege.
+在「Ontic 物理可計算治理」框架的核心，是一個關鍵的認識：人類和文明的生存，特別是在面對自動化、演算法治理和全球危機的情況下，都需要政治權力的運作基於絕對、可計算的法律。 核心公式 
+ ，直接體現了，只有透過積極驗證、可量化的貢獻，並經過動態更新和審查，才能產生合法的影響力。 所有這些貢獻都統一地轉換為「StellarEq」單位——以焦耳為單位的太陽能等值，確保在不同領域的可比性，並消除任意的社會或財產權益。
+The Survival Equation does not merely enumerate system flow; it mathematically embeds systemic safeguards to prevent collapse into authoritarianism, feudalism, or oligarchic stasis. Every contribution to theory, practice, or economy is processed through the Causal Graph Power Structure, with time-sensitive EdgeWeight functions ensuring power is continually diluted unless supported by ongoing advances and adoption. This TimeDecay mechanism is not a metaphor: the explicit exponential decay of inherited or static influence mathematically guarantees that no individual, family, algorithm, or class can maintain economic or political control across generations solely through legacy.
+「生存方程式」並非僅僅列舉系統運作；它更會以數學方式內建系統性的保障，以防止系統崩潰，轉向專制、封建或寡頭統治。所有對理論、實踐或經濟的貢獻，都會經過「因果關係圖權力結構」的處理，並透過時間敏感的「邊權重」函數，確保權力會不斷分散，除非持續進步和應用。這個「時間衰減」機制並非是一種比喻：明確的指數衰減，確保任何個人、家庭、演算法或階級，都無法單憑遺傳或靜態影響，在世代之間維持經濟或政治控制。
+Further, every system output—ranging from resource allocation and labor to scientific discovery and social innovation—must proceed through the CivilizationMultiplier, defined as 
+. Policies or projects that fail to measurably reinforce civilizational stability, expand empowerment (i.e., productivity, autonomy, freedom from dependency), or sustain creative cosmic judgement see their ‘multiplier’ drop. In real terms, this means resource allocation, legal validity, and collective attention are dynamically withdrawn from proposals whose continued existence would otherwise breed stagnation or soft totalitarian traps.
+此外，無論是資源分配、勞動力，還是科學發現和社會創新，每一個系統的產出都必須通過「文明倍數」（定義為 
+ ）進行。如果政策或項目未能顯著增強文明的穩定性、擴大自主性（即生產力、自主性和擺脱依賴），或維持創造性的宇宙判斷，則其「倍數」會下降。換句話説，這意味著資源分配、法律效力和集體關注會從那些持續存在可能會導致停滯或軟式極權統治的提案中動態撤回。
+Applied in succession, these formulas form an adaptive, evolving feedback circuit: the Distributed Knowledge Ledger ensures all contributions, rights, and responsibilities are recorded and evaluated in real-time; EdgeWeights and TimeDecay prevent static elite capture; the CivilizationMultiplier functions as an autopoietic audit, forcing path-dependent escalation toward planetary and interstellar autonomy or terminating failed projects before sclerotic patterns emerge.
+這些公式依次應用，形成一種自適應、不斷演化的迴路：分散知識記錄庫確保所有貢獻、權利和責任實時記錄和評估；邊緣權重和時間衰減防止精英固化；文明乘數作為一種自生式的審查，強制根據歷史發展趨勢，逐步實現行星甚至星際自主，或在僵化模式出現之前，終止失敗的項目。
+Compared to legacy political and economic models—whether majoritarian democracy, static liberal capitalism, command socialism, or emerging digital technocracy—the Survival Equation delivers a categorical advance: it mathematically disallows the ossification of power, makes immunity to corruption a system property, and aligns civilizational trajectory with physical first principles rather than subjective ideology. With StellarEq as the universal metric and recursive mathematical formulas embedded at every control node, the Ontic framework is designed as a civilization OS: inherently distributed, evolutionary, and scale-invariant, capable of evolving with and protecting human autonomy in any planetary or cosmic epoch.
+與傳統的政治和經濟模式——無論是多數民主、靜態自由資本主義、計劃經濟，還是 emerging 數字技術——相比，Survival Equation 帶來了顯著的進展：它數學上禁止權力固化，使防腐成為系統屬性，並將文明的發展方向與物理基本原則對比，而非主觀意識。 藉助 StellarEq 作為普遍的指標，以及在每個控制節點內嵌入的遞歸數學公式，Ontic 架構被設計為一種文明運作系統：本質上是分散的、進化的，並且具有可擴展性，能夠隨著和保護人類在任何行星或宇宙時代的自主性。
+10. Mathematical Appendix
+10. 數學附錄
+10.1 Formal Definitions and Equations Core Ontic power formulas, StellarEq conversion, and recursion logic
+The Political Energy Formula (PEF) Framework Within the Ontic political ontology, the "Political Energy Formula" is not a singular, closed mathematical expression, but rather an open, extensible, and axiomatic mathematical framework—the absolute "laws of physics" for civilizational governance. It fundamentally redefines all human political, economic, and social activities as measurable energy exchanges between biological entities. This foundational framework is anchored by core equations (such as the Root Power Equation and StellarEq) but is explicitly designed for continuous evolution. In the future, the Computable Political Language (CPL) will utilize these Political Energy Formulas as its absolute computational core to rigorously verify hypotheses, execute the algorithmic Power Flow Protocol, and compute the optimal energy configuration for the entire civilization.
+This appendix consolidates these foundational mathematical definitions, providing formal expressions for power computation, energy conversion, recursive contribution tracking, risk assessment, and civilization-scale metrics. All variables and functions below are defined in canonical notation.
+1. The Political Energy Formula (Root Power Equation) Ontic political power is rigorously defined at each time 
+ as the cybernetic intersection of contribution and distributed verification:
+Where 
+ measures the real-time proportion of the proposal's integration within the distributed super-congress, formally calculated as:
+ 
+This formula ensures that influence is strictly a function of ongoing, demonstrable input and collective integration, rather than static identity or wealth.
+1. 政治能量公式（根本權力方程式）：在每個時間點 ( 
+ )，政治權力嚴格定義為透過網絡互動，以及貢獻和分散驗證的結合：
+其中， 
+ 測量了提案在分散超級議會中的實時比例，並正式計算如下：
+ 
+這種公式確保，影響力完全取決於持續、可觀察的輸入和集體整合，而非靜態身份或財富。
+2. Contribution Valuation via Causal Graph and Civilization Filter Total Contribution at time 
+ is not merely the sum of physical outputs, but the transformative product of the absolute physical energy ledger (
+) and the evolutionary civilization filter:
+The causal ledger summation (
+) dynamically sums direct theoretical value, practice, and economic derivative values through dynamic edge weights:
+
+2. 透過因果圖及文明過濾器的貢獻評估：在時間 
+ ，貢獻並非僅僅是實際產出的總和，而是絕對物理能量記錄 ( 
+ ) 與演化的文明過濾器的綜合產物：
+透過動態邊權，因果記錄的總和動態地總結了理論價值、實踐和經濟衍生價值：
+3. StellarEq Absolute Dimensional Conversion All societal resources, efforts, and outcomes are strictly mapped and collapsed into Joule-based Stellar Equivalents (StellarEq) to ensure physical commensurability across 153 diverse scenarios. This transformation operates as a pure dimensional converter, not a net value calculation:
+For example, brain metabolic cost, server electricity output, or space mission payloads are all converted to objective Joules and multiplied by the constant 
+ for unified cosmic measurement. This metric serves as the absolute foundation for all higher-level ledger operations.
+3. StellarEq 絕對尺寸轉換：所有社會資源、努力和結果，均嚴格地轉換為基於焦耳的 StellarEq，以確保在 153 種不同情況下實現物理上的可比較性。這種轉換是一種純粹的尺寸轉換，而非淨值計算：
+例如，大腦的代謝成本、伺服器的電力輸出或太空任務的貨物，都轉換為客觀的焦耳，然後乘以常數 
+ ，以實現統一的宇宙測量。這個指標是所有更高層級的記錄操作的絕對基礎。
+4. Causal Edge Weight and Time Decay Enforcement To systematically prevent cross-generational monopoly and power ossification, Ontic mathematically dilutes ancestor contributions over time and technological dependence. The recursive weight of an edge 
+ at time 
+ is:
+ 
+where 
+ enumerates the direct causal lineage verified by the Power Flow Protocol for Causal Governance (v1), 
+ is the expanding sum of prerequisite nodes, and 
+ is a strictly decreasing function (e.g., exponential decay) that gradually reduces historical weight, forcing value back to the public commons.
+4. 緣關係權重與時間衰減實施：為了系統性地防止跨世代壟斷和權力固化，Ontic 數學上會隨著時間和技術依賴，逐漸稀釋祖先的貢獻。在時間 
+ ，邊 
+ 的權重計算如下：
+ 
+，其中 
+ 顯示了通過「因果治理協議 (v1)」驗證的直接因果關係， 
+ 是先驗節點的總和，而 
+ 是一個嚴格遞減函數（例如指數衰減），逐漸降低歷史權重，將價值重新帶回公眾領域。
+5. TheoryNode Score (Proposal Evaluation) All proposals or innovations are scored (and thus prioritized for resource allocation) according to a dynamically computed TheoryNode value:
+ 
+Where 
+ computes the immediate physical profit/loss of the social action:
+And 
+ evaluates empirical hazard limits:
+
+5. 理論樞紐評分 (建議評估) 所有建議或創新會根據動態計算出的「理論樞紐」值進行評分 (因此，資源分配優先次序會根據此評分決定)：
+ 
+其中， 
+ 計算社會行動的即時經濟效益/損失：
+並且， 
+ 評估實證風險限制：
+6. Dynamic Civilization Multiplier Legitimacy and macro-safety against totalitarianism and utopian traps are secured by the CivilizationMultiplier, a compound variable serving as a longitudinal health monitor:
+Each term is grounded in observable measures. Should any component—such as truth-seeking capacity (
+) or self-sufficiency (
+)—atrophy due to automation-induced passivity, the multiplier rapidly approaches zero, mathematically abolishing the associated political influence.
+6. 文明增益的合法性和對極權主義及理想主義陷阱的安全性，由文明增益負責，這是一個綜合變數，作為一種長期健康指標：
+每個變數都基於可觀察的指標。如果任何組成部分——例如，求真能力（ 
+ ）或自給自足（ 
+ ）——由於自動化導致的消極，則增益會迅速接近零，從而從數學上消除相關的政治影響。
+7. Distributed Knowledge and Evolutionary Audit The Ontic framework implements a Dynamic Causal Ledger, recursively updating all contributions, claims, and dependencies as a function of real-world audit and peer refinement via the Power Flow Protocol for Causal Governance. This ensures that all rights and influence are subject to algorithmic open iteration and inescapable time audit, mathematically destroying any residual static power allocations.
+7. 分佈式知識與演化審查：Ontic 框架實施一種動態因果記錄，並透過 Power Flow 協議進行實時審查和同儕審查，不斷更新所有貢獻、聲明和依賴關係。 這樣可以確保所有權和影響力都受到算法的持續審查和不可避免的時間審查，從而消滅任何剩餘的靜態權力分配。
+10.2 Scenario Computation Examples
+10.2 情況計算的例子
+Worked StellarEq conversions for agriculture, technology, and knowledge production
+成功地為農業、科技及知識生產提供星光等轉換解決方案。
+To operationalize the Ontic framework, this section details the stepwise computation of societal value using the StellarEq system across representative scenarios. By converting all inputs, outputs, and risks into solar energy equivalents (Joules), Ontic achieves rigorous cross-domain comparability for political-economic decisions.
+為了應用 Ontic 框架，本節詳細説明瞭利用 StellarEq 系統，在典型情況下，逐步計算社會價值的方法。透過將所有輸入、輸出和風險轉換為太陽能的等值（焦耳），Ontic 能夠實現跨領域的嚴謹比較，以用於政治經濟決策。
+Example 1: Food Production—Wheat Collaboration Chain Suppose a network of agricultural contributors—farmers, mill operators, transporters—produces a ton of wheat. The total energy input (labor, machinery, fertilizer, fuel) is calculated in Joules, using standardized urban and rural conversion tables, and is immediately dimensionally collapsed into StellarEq (assuming a standardized cosmic `SolarEnergyRatio` of 0.001). TotalInput: Farming input: 
+ Transport and processing: 
+ 
+ TotalOutput: The final edible nutritional energy and market distribution is quantified as 
+.
+例 1：食品生產 – 小麥供應鏈 假設一個農業參與者網絡 – 農民、麵粉生產者、運輸人員 – 共同生產一噸的小麥。總能量輸入（勞動、機械、肥料、燃料）以焦耳為單位計算，並使用標準化的城鄉轉換表，然後立即簡化為「StellarEq」（假設標準化的宇宙 `SolarEnergyRatio` 為 0.001）。總輸入：農業投入： 
+ 運輸及加工： 
+ 
+ 總輸出：最終可食用的營養能量及市場分銷量為 
+ 。
+The net political energy gain is then computed in universally unified units:
+
+然後，淨政治能量的總和會以統一的單位計算：
+This negative result (in economic, energetic terms) triggers the Ontic model’s dynamic feedback: innovations must be introduced or alternative processes adopted to align the chain with a net-positive StellarEq output. If a new irrigation system reduces the raw input energy to 
+ (which dimensionally converts to 
+), the 
+ flips to positive, guiding real-time civilizational optimization.
+這個負面結果（從經濟和能量的角度來看）會觸發 Ontic 模型的動態反饋：必須引入創新或採用替代流程，以使整個系統達到一個淨正的 StellarEq 輸出。如果新的灌溉系統將原始輸入的能量降低到 
+ （在尺寸上相當於 
+ ），那麼 
+ 將會變成正數，從而引導實時的文明優化。
+Example 2: Technology Diffusion—Distributed Solar Panel Grid Engineers propose a regional solar grid—spanning 100,000 m² of panels. Initial fabrication, shipment, and installation consume a physically measured 
+ Joules. Over a 10-year lifespan, the expected total electrical yield is 
+ Joules. Applying the absolute dimensional converter (with a standardized cosmic `SolarEnergyRatio` of 0.001), these raw energy values are strictly collapsed into StellarEq before net calculations: TotalInput: 
+ TotalOutput: 
+
+範例 2：科技傳播—建議設立一個區域性太陽能電網，面積約 100,000 平方公尺。初步的生產、運輸及安裝，耗費約 0 焦耳的能量。在 10 年的使用期限內，預計總的電力產量約為 1 焦耳。利用絕對尺寸轉換器（採用標準化的宇宙 `SolarEnergyRatio` 0.001），這些原始的能量值會嚴格地轉換為恆星能量，然後進行淨計算：總輸入：約 2 焦耳，總輸出：約 3 焦耳。
+Risk is scored by multiplying the probability of critical failure (0.1) and the expected physical loss converted to StellarEq (where a raw potential loss of 
+ from grid downtime is converted to 
+):
+
+風險評估通過將關鍵失效的機率（0.1）乘以轉換為 StellarEq 的預期實際損失（當從電網停電造成的潛在損失轉換為 
+ ）來進行。
+The TheoryNode value is then calculated based purely on the universally unified StellarEq units:
+ 
+ 
+ 
+
+然後，StellarEq 單位所代表的價值會根據這個統一的標準計算得出：
+ 
+ 
+ 
+A higher TheoryNode score indicates an attractive risk-adjusted contribution, which algorithmic governance will prioritize for rapid adoption. If competing grids or designs are proposed, the model recalculates the above metrics, auto-updating as empirical input and risk assessments change.
+較高的 TheoryNode 評分表示風險調整後的投資具有吸引力，而演算法管理將優先考慮這些投資。如果提出競爭對手的電網或設計，模型會重新計算上述指標，並隨著實質數據和風險評估的變化而自動更新。
+Example 3: Knowledge Work—Open Source Medical Algorithm A research group develops an AI algorithm that accelerates diagnosis speed in bioinformatics. The cumulative research energy input (academic labor, computing) is physically measured at 
+ Joules. For the first year post-release, the algorithm saves hospitals 
+ Joules in diagnostic and treatment overhead. Applying the absolute dimensional converter (assuming a standardized cosmic `SolarEnergyRatio` of 0.001), these raw energy values are strictly collapsed into StellarEq before net calculations: TotalInput: 
+ TotalOutput: 
+If the risk of adoption (software bugs, misdiagnosis) carries a 0.04 probability and a projected raw physical loss of 
+ Joules, this potential loss must also be converted to StellarEq (
+):
+
+如果採用（軟件缺陷、誤診）的風險有 0.04 嘅機率，預計會造成約 @0 焦嘅實際損耗，呢個潛在損失亦需要轉換成 StellarEq (約 @1 焦)：@2 焦
+The TheoryNode value is then computed based purely on these universally unified StellarEq units:
+ 
+ 
+ 
+
+然後，理論值會完全基於這些統一的 StellarEq 單位計算得出：
+ 
+ 
+ 
+The Dynamic Causal Ledger then apportions StellarEq credits recursively among contributors based on their 
+, integrating technical dependency, time decay, and aggregate adoption rates. For example, if the algorithm builds on two key earlier works, each with 
+ and 
+ (after TimeDecay is applied), the massive NetEnergyGain share among all nodes is distributed accordingly. Newer incremental contributors receive higher shares during early adoption, but their static privilege dissolves as public utility increases over time.
+然後，動態因果記錄會根據參與者的貢獻、技術依賴、時間衰減及總體採用率，以遞迴方式分配 StellarEq 積分。例如，如果演算法基於兩個關鍵的早期作品，分別具有 
+ 和 
+ (經過時間衰減處理後)，那麼所有節點之間的總能量收益會根據此分配。較新的參與者在早期採用期間會獲得較高的比例，但隨著公共實用性的增加，他們的權利會逐漸消失。
+10.3 Algorithmic Protocol Diagrams
+10.3 演算法協議圖
+Stepwise workflows enable computable governance and dynamic power allocation
+分步驟的運作方式，可以實現可計算的治理，並動態地分配權力。
+To clarify the operational machinery of Ontic governance, this appendix provides step-by-step descriptions and schematic outlines of the main algorithmic protocols. These protocols collectively form the backbone of the Power Flow Protocol for Causal Governance (v1), translating abstract mathematical logic into concrete, auditable system flows.
+為了闡明 Ontic 治理的運作機制，本附件提供主要演算法協議的逐步説明和示意圖。這些協議共同構成了「因果治理 Power Flow 協議 (v1)」的核心，將抽象的數學邏輯轉化為具體的、可驗證的系統流程。
+1. Ontic Data Capture and Ontology Initialization: - The system first ingests data spanning different diverse socio-economic and technological scenarios. Inputs are normalized via the StellarEq transformation, converting all social, economic, technological, and biological flows into equivalent solar energy units (Joules). - An Ontic Causal Graph is constructed, layering nodes for Theory, Practice, and Economy. Each node and its edges are initialized with input and output StellarEq values, technical dependencies, and timestamps.
+1. 數據收集及知識庫初始化：- 系統首先收集來自不同社會經濟和科技環境的數據。數據經過 StellarEq 轉換，將社會、經濟、科技和生物相關的數據轉換為等值的太陽能單位（焦耳）。- 建立一個 Ontic 因果圖，其中包含理論、實踐和經濟相關的節點。每個節點及其連接都初始化為 StellarEq 值、技術依賴性和時間戳。
+2. Distributed Knowledge Ledger Formation: - All knowledge claims—whether theoretical, practical, or economic—are registered on a Distributed Knowledge Ledger. - Each entry links recursively to its full dependency lineage in the Causal Graph, recording the fractional 
+ calculated from 
+. - New contributions instantly dilute prior claimant influence, ensuring self-updating and anti-feudal progression over time.
+2. 知識記錄的建立：— 所有的知識聲明，無論是理論性的、實用的還是經濟性的，都會記錄在一個分散式知識記錄中。— 每個記錄會遞歸地連結到其在因果圖中的完整依賴關係，並記錄從 
+ 計算出的 
+ 。— 新的貢獻會立即稀釋先前聲稱者的影響，確保隨著時間的推移，實現自我更新和反封建化的進程。
+3. Core Power Calculation Workflow: - At discrete time intervals t, power is algorithmically recomputed for each node:
+3. 核心電力計算流程：- 在特定時間點 t，系統會以演算法的方式重新計算每個節點的電力：
+- 
+ itself is recursively defined as f(CausalGraph, t), integrating the node’s time-attenuated direct and indirect effect across the full dependency network. - 
+ dynamically reflects active real-world adoption of the contribution, mined from empirical data (usage, implementation metrics, distributed votes, market penetration, etc).
+- 
+ 自身被定義為 f(網絡, t)，這包括網絡中所有節點的時間相關的直接和間接影響。 - 
+ 能夠動態反映實際應用情況，這些數據來自實證數據（例如，使用情況、實施指標、分散投票、市場滲透等）。
+4. Proposal Scoring and Risk Evaluation: - Any new governance or technological proposal is instantiated as a TheoryNode in the Causal Graph, with a score given by:
+ 
+- 
+: Computed as the difference between projected time-aggregated output and input (in StellarEq). - 
+: Calculated from real-time empirical estimates as 
+, with continuous update as more data is fed into the system.
+4. 方案評分及風險評估：任何新的治理或科技方案，都會被視為「理論節點」（TheoryNode）在因果圖中，評分方式如下： -
+ 
+至 
+ ：計算方法為預期時間總和的輸出與輸入之間的差值（以 StellarEq 單位）。 - 
+ ：根據實時經驗數據，以 
+ 計算，並隨著更多數據進入系統，持續更新。
+5. Dynamic Causal Ledger and Edge Weight Updates: - Edge Weight for each dependency is recalculated in response to new contributions:
+ 
+- The TimeDecay function exponentially diminishes the value assigned to each edge over time, mathematically preventing power persistence or hereditary passing of influence.
+5. 動態因果關係記錄及邊權值更新：- 針對新的貢獻，每個依賴關係的邊權值會重新計算。- TimeDecay 函數會以指數方式降低每個邊的價值，從而防止權力持續或影響的傳承。
+6. Civilization Multiplier and Evolutionary Audit: - All major nodes (and, by aggregation, the entire system) are subjected to multiplication by 
+:
+- A sharp drop in any multiplier component (e.g., loss of autonomy, stagnation, or creative inertia) triggers accelerated power and resource reallocation.
+6. 系統擴張與演化審查：- 所有主要節點（以及整個系統），都會經過 
+ 倍數的擴張：
+- 任何倍數組件的顯著下降（例如，失去自主性、停滯或缺乏創造力）會引發快速的權力和資源重新分配。
+7. Distributed Model Governance Execution: - Decisions, rights, and responsibilities are computed and issued via a Model Parliament architecture, structured as a peer-reviewed, distributed computational platform similar in logic to open-source software governance (GitHub-style merge, fork, and pull-request flows). - Proposals are integrated, split, or decommissioned based on Dynamic Epochal Audit scores, minimizing subjective factional disputes and maximizing contribution-weighted collective action.
+7. 分佈式模型治理執行：- 決策、權利及責任透過一種分佈式計算平台執行，該平台類似於開源軟件的治理（例如 GitHub 的合併、分叉和請求流程），並經過同行評審。- 根據動態時序審查評分，提案會被整合、拆分或廢止，以減少主觀的派系爭端，並最大化貢獻加權的集體行動。
+Schematic workflow diagrams, for design and implementation, align as follows: - The primary flowchart commences with raw data ingest, normalizes by StellarEq, traverses causal dependencies, passes through power, risk, and multiplier audit, and cycles outputs/decisions back to the empirical ledger. - Feedback loops ensure empirical results continually update node rankings, EdgeWeights, and CivilizationMultiplier, creating a cybernetically closed, self-recursive protocol.
+設計及實施的流程圖，大致如下：- 流程圖的起點是原始數據的輸入，經過 StellarEq 的處理，並遵循因果關係，經過電力、風險及倍數的審核，然後將輸出/決策回傳到實體記錄。- 反饋迴路確保實體結果不斷更新節點排名、邊權重及文明倍數，形成一個高度自適應、自迴歸的協議。
+This multi-phase sequence ensures Ontic’s operations remain transparent, mathematically auditable, and resistant to traditional political failures—embedding dynamic feedback as a structural safeguard for distributed, physically-grounded governance evolution.
+這個多階段的安排，確保 Ontic 的運作方式是透明、可驗證，並且能夠抵抗傳統的政治失策，並將動態的反饋融入結構中，作為分散式、實體基礎的治理發展的保障。
+11. References  11. 參考文獻
+11.1 Reference List  11.1 參考文獻列表
+Works cited: mathematical, computational, and political ontological sources
+參考文獻：數學、計算和政治的形而上學來源
+Auyang, S. Y. (1998) Foundations of Complex Systems Theories in Economics, Evolutionary Biology, and Statistical Physics. Cambridge: Cambridge University Press.
+奧揚，S. Y. (1998) 複雜系統理論的基礎：在經濟學、演化生物學和統計力學中的應用。劍橋：劍橋大學出版社。
+Barabási, A.-L. (2016) Network Science. Cambridge: Cambridge University Press.
+巴拉比，A.-L. (2016) 網絡科學。劍橋：劍橋大學出版社。
+Bennett, C. H. (1982) 'The Thermodynamics of Computation—a Review', International Journal of Theoretical Physics, 21(12), pp. 905–940.
+貝內特，C.H. (1982)《計算的熱力學——綜述》，《理論物理學國際期刊》，21(12)，第 905-940 頁。
+Bettencourt, L. et al. (2007) 'Growth, Innovation, Scaling, and the Pace of Life in Cities', Proceedings of the National Academy of Sciences, 104(17): 7301–7306.
+貝特康特、L. 等 (2007) 「城市中的發展、創新、擴張及生活節奏」，《美國國家科學院學術會議紀錄》，第 104 卷，第 17 號：7301–7306。
+Boulding, K. E. (1981) Evolutionary Economics. Beverly Hills: Sage Publications.
+鮑丁，K. E. (1981) 演化的經濟學。 貝弗利山：Sage 出版社。
+Cover, T. M. and Thomas, J. A. (2006) Elements of Information Theory, 2nd Edition. Hoboken: Wiley-Interscience.
+Cover, T. M. 及 Thomas, J. A. (2006)《資訊理論》，第二版。 Hoboken：Wiley-Interscience。
+Deutsch, D. (2011) The Beginning of Infinity: Explanations That Transform the World. New York: Viking.
+德國，D. (2011) 《無限的開端：改變世界的解釋》。紐約：維京出版社。
+Drexler, K. E. (2013) 'Reframing Superintelligence: Comprehensive AI Services as General Intelligence', Technical Report, Future of Humanity Institute, University of Oxford, 1–38. Available at: https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_ASI_Drexler_2013.pdf (Accessed: 5 June 2024).
+德雷克，K. E. (2013) 「重新定義超級智慧：全面的 AI 服務作為通用智慧」，技術報告，人類未來研究所，牛津大學，1–38。可供參考：https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_ASI_Drexler_2013.pdf (訪問日期：2024 年 6 月 5 日)。
+Foster, J. (2005) 'From Simplistic to Complex Systems in Economics', Cambridge Journal of Economics, 29(6), pp. 873–892.
+法斯特 (2005)、「從簡單系統到複雜系統：經濟學的演變」，《劍橋經濟學雜誌》，第 29 卷，第 6 期，第 873-892 頁。
+Hayek, F. A. (1945) ‘The Use of Knowledge in Society’, American Economic Review, 35(4), pp. 519–530.
+海耶克，F. A. (1945) ‘知識在社會中的應用’, 《美國經濟學期刊》，第 35 卷，第 4 期，第 519-530 頁。
+Kahneman, D. (2011) Thinking, Fast and Slow. New York: Farrar, Straus & Giroux.
+卡內曼，D. (2011)《快與慢》。紐約：費氏、史翠斯與格魯。
+Kauffman, S. A. (1993) The Origins of Order: Self-Organization and Selection in Evolution. New York: Oxford University Press.
+庫夫曼，S. A. (1993) 秩序的起源：進化中的自組織與選擇。紐約：牛津大學出版社。
+Kelly, K. (2010) What Technology Wants. New York: Viking Penguin.
+凱利，K. (2010) 科技的需求。紐約：維京·賓．
+Kostakis, V. and Giotitsas, C. (2022) 'Political Ontology for the Information Age: Beyond Platform Capitalism and Digital Communism', tripleC, 20(1), pp. 1–20.
+Kostakis, V. 及 Giotitsas, C. (2022) 『資訊時代的政治論述：超越平台資本主義和數碼共產主義』，tripleC, 20(1), 頁 1-20。
+Moore, G. E. (1965) ‘Cramming more components onto integrated circuits’, Electronics, 38(8).
+摩爾，G. E. (1965) ‘如何在集成電路上增加更多組件’，《電子》，38(8)。
+Morin, E. (2008) On Complexity. Cresskill, NJ: Hampton Press.
+莫林，E. (2008) 《複雜性》。克里斯凱爾，新澤西：漢普頓出版社。
+Odum, H. T. (2007) Environment, Power, and Society for the Twenty-First Century: The Hierarchy of Energy. New York: Columbia University Press.
+奧杜姆，H. T. (2007) 21 世紀的環境、能源與社會：能源的階層。紐約：哥倫比亞大學出版社。
+Prigogine, I. (1978) 'Time, Structure, and Fluctuations', Science, 201(4358), pp. 777–785.
+普羅戈寧，I. (1978) 「時間、結構及變動」，《科學》，201(4358)，第 777-785 頁。
+Schrödinger, E. (1944) What Is Life? The Physical Aspect of the Living Cell. Cambridge: Cambridge University Press.
+施萊因，E. (1944) 生命是什麼？活細胞的物理方面。劍橋：劍橋大學出版社。
+Shapiro, S., Varian, H. (1999) Information Rules: A Strategic Guide to the Network Economy. Harvard Business Review Press.
+沙普羅、S.、瓦連、H. (1999) 資訊法則：戰略指南，適用於互聯網經濟。哈佛商業評論出版社。
+Sornette, D. (2003) Why Stock Markets Crash: Critical Events in Complex Financial Systems. Princeton: Princeton University Press.
+索內特，D. (2003) 股票市場崩盤的原因：複雜金融系統中的關鍵事件。普林斯頓：普林斯頓大學出版社。
+Strogatz, S. H. (2001) Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering. Boulder: Westview Press.
+斯特羅格，S. H. (2001) 非線性動力學與混沌：應用於物理學、生物學、化學及工程學。 寶羅：西維爾出版社。
+Sunstein, C. R. (2021) 'Democracy and the Internet: The Cybernetic Challenge'. Daedalus, 150(3), pp. 112–125.
+Sunstein, C. R. (2021) 「民主與互聯網：網絡挑戰」。《Daedalus》，150(3)，第 112-125 頁。
+Szostak, R. (2003) 'A Schema for Unifying Human Science', Interdisciplinary Science Reviews, 28(1), pp. 23–32.
+Szostak, R. (2003)「一套統一人類科學的方法」，《跨學科科學評論》，第 28 卷，第 1 期，第 23-32 頁。
+Wiener, N. (1948) Cybernetics: Or Control and Communication in the Animal and the Machine. Cambridge, MA: MIT Press.
+威納 (1948) 《控制與交流：動物與機器》。劍橋，MA：麻省理工學院出版。
+Zalamea, F. (2012) Synthetic Philosophy of Contemporary Mathematics. Urbanomic/Sequence Press, Falmouth.
+扎拉梅亞 (2012)：《當代數學的合成哲學》。Urbanomic/Sequence Press, 佛文。
+Zuboff, S. (2019) The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs.
+佐巴夫，S. (2019) 監控資本時代：在權力新邊緣的爭奪，為人類的未來。紐約：PublicAffairs。

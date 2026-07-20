@@ -1,4 +1,4 @@
-Ontic Physical Computable Governance Causal Flow Formula
+﻿Ontic Physical Computable Governance Causal Flow Formula
 
 
 A mathematically rigorous framework for energy-based civilizational governance
@@ -1227,6 +1227,9 @@ Boulding, K.E. (1981) *Evolutionary Economics*. Beverly Hills, CA: Sage Publicat
 Cover, T.M. and Thomas, J.A. (2006) *Elements of Information Theory*. 2nd edn. Hoboken, NJ: Wiley-Interscience. doi: 10.1002/047174882X. Available at: https://doi.org/10.1002/047174882X (Accessed: 19 July 2026).
 
 
+Deutsch, D. (2011) *The Beginning of Infinity: Explanations That Transform the World*. New York: Viking.
+
+
 Drexler, K.E. (2019) *Reframing Superintelligence: Comprehensive AI Services as General Intelligence*. Technical Report 2019-1. Oxford: Future of Humanity Institute, University of Oxford. Available at: https://ora.ox.ac.uk/objects/uuid:9c05427a-6390-4b42-9c55-ee45f73a26ad (Accessed: 19 July 2026).
 
 
@@ -1240,6 +1243,9 @@ Kahneman, D. (2011) *Thinking, Fast and Slow*. 1st edn. New York: Farrar, Straus
 
 
 Kauffman, S.A. (1993) *The Origins of Order: Self-Organization and Selection in Evolution*. New York: Oxford University Press. doi: 10.1093/oso/9780195079517.001.0001. Available at: https://doi.org/10.1093/oso/9780195079517.001.0001 (Accessed: 19 July 2026).
+
+
+Kelly, K. (2010) *What Technology Wants*. New York: Viking.
 
 
 Kostakis, V. and Giotitsas, C. (2014) ‘The (A)political economy of Bitcoin’, *tripleC: Communication, Capitalism & Critique*, 12(2), pp. 431–440. doi: 10.31269/triplec.v12i2.606. Available at: https://doi.org/10.31269/triplec.v12i2.606 (Accessed: 19 July 2026).
@@ -1266,6 +1272,12 @@ Schrödinger, E. (1944) *What Is Life? The Physical Aspect of the Living Cell*. 
 Shapiro, C. and Varian, H.R. (1998) *Information Rules: A Strategic Guide to the Network Economy*. Boston, MA: Harvard Business School Press.
 
 
+Sornette, D. (2003) *Why Stock Markets Crash: Critical Events in Complex Financial Systems*. Princeton, NJ: Princeton University Press. doi: 10.1515/9781400829552. Available at: https://doi.org/10.1515/9781400829552 (Accessed: 19 July 2026).
+
+
+Strogatz, S.H. (2000) *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*. Cambridge, MA: Westview Press.
+
+
 Sunstein, C.R. (2017) *#Republic: Divided Democracy in the Age of Social Media*. Princeton, NJ: Princeton University Press. doi: 10.1515/9781400884711. Available at: https://doi.org/10.1515/9781400884711 (Accessed: 19 July 2026).
 
 
@@ -1273,6 +1285,10 @@ Szostak, R. (2003) *A Schema for Unifying Human Science: Interdisciplinary Persp
 
 
 Wiener, N. (1948) *Cybernetics: or Control and Communication in the Animal and the Machine*. 1st edn. Cambridge, MA: The Technology Press; New York: John Wiley & Sons; Paris: Hermann et Cie.
+
+
+Zalamea, F. (2012) *Synthetic Philosophy of Contemporary Mathematics*. Translated by Z.L. Fraser. Falmouth: Urbanomic; New York: Sequence Press.
+
 
 Zuboff, S. (2019) *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. 1st edn. New York: PublicAffairs.
 
